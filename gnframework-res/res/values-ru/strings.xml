@@ -31,7 +31,7 @@
     <string name="zzzzz_gn_no_permissions">Не требуется разрешений</string>
     <string name="zzzzz_gn_shutdown_text">Отключить питание</string>
     <string name="zzzzz_gn_reboot_text">Перезагрузка</string>
-    <string name="zzzzz_gn_airplane_text">Самолет.</string>
+    <string name="zzzzz_gn_airplane_text">Самолет</string>
     <string name="zzzzz_gn_voice_text">Без звука</string>
     <string name="zzzzz_gn_memoryfull_do_now">OK</string>
 </resources>

@@ -930,7 +930,7 @@ If you have any question or doubt with this, please Свяжитесь с нам
     <string name="master_clear_gesture_explanation">Чтобы подтвердить сброс настроек, введите графический ключ.</string>
     <string name="media_format_title">Очистить SD карту</string>
     <string name="gn_battery_stats_on_battery">Используемое время батареи</string>
-    <string name="gn_zen_mode_switch_note">Вызовы и уведомления, поступающие когда телефон заблокирован, не будут слышны (за исключением приложений уведомления от которых разрешены.)</string>
+    <string name="gn_zen_mode_switch_note">Вызовы и уведомления, поступающие когда телефон заблокирован, не будут слышны (за исключением приложений уведомления от которых разрешены.) В строке состояния, появится значок луны.</string>
     <string name="gn_vpn_summary">Виртуальная частная сеть для удаленного доступа</string>
     <string name="gn_notification_and_control_center">Уведомление и Центр управления</string>
     <string name="gn_notification_center">Центр уведомлений</string>

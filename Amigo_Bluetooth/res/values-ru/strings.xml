@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="scan_custom">сканирование</string>
+    <string name="scan_custom">Сканирование</string>
     <string name="stop_custom">Стоп</string>
     <string name="cancel_custom">Отменить</string>
     <string name="gn_bluetooth_stop_scan">Остановить поиск</string>

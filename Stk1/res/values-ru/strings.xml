@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Набор функций SIM-карты</string>
+    <string name="app_name"SIM меню</string>
     <string name="appI_name">Набор функций карты SIM1</string>
     <string name="appII_name">Набор функций карты SIM2</string>
     <string name="appIII_name">Набор функций карты SIM3</string>
@@ -66,10 +66,10 @@
     <string name="lable_busy_on_bip">Приложение выполняет BIP-команды, повторите попытку позже.</string>
     <string name="main_menu_not_initialized">Главное меню не настроено</string>
     <string name="lable_busy_on_call">Телефон занят вызовом, сначала завершите данный вызов</string>
-    <string name="lable_on_flight_mode">Невозможно запустить пакет SIM Toolkit, так как включен самолетный режим.</string>
+    <string name="lable_on_flight_mode">Невозможно запустить пакет SIM меню, так как включен самолетный режим.</string>
     <string name="lable_sim_not_ready">Пакет SIM Toolkit не готов или не поддерживается</string>
     <string name="no_sim_card_inserted">Вставьте SIM-карту для запуска пакета SIM Toolkit.</string>
-    <string name="stk_dialog_title">ПрограммыSIM-карты</string>
+    <string name="stk_dialog_title">Программы SIM-карты</string>
     <string name="default_open_channel_msg">Открыть канал?</string>
     <string name="stk_dialog_accept">Да</string>
     <string name="stk_dialog_reject">Нет</string>

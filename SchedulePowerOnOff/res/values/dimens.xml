@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gn_action_bar_tab_textsize">14.0sp</dimen>
+    <dimen name="icon_width">90.0px</dimen>
+    <dimen name="icon_height">90.0px</dimen>
+</resources>

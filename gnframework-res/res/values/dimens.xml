@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zzzzz_gn_shutdown_button_width">144.0dip</dimen>
+    <dimen name="zzzzz_gn_shutdown_button_margin_top">35.0dip</dimen>
+    <dimen name="zzzzz_gn_shutdown_button_text_margin_top">13.0dip</dimen>
+    <dimen name="zzzzz_gn_shutdown_content_width">276.0dip</dimen>
+    <dimen name="zzzzz_gn_shutdown_content_height">336.0dip</dimen>
+    <dimen name="zzzzz_gn_shutdown_circle_margin_left">232.0dip</dimen>
+    <dimen name="zzzzz_gn_shutdown_circle_margin_top">217.0dip</dimen>
+    <dimen name="zzzzz_gn_reboot_circle_margin_left">98.0dip</dimen>
+    <dimen name="zzzzz_gn_reboot_circle_margin_top">217.0dip</dimen>
+</resources>

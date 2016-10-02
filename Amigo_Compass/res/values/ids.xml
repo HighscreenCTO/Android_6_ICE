@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="calibration_layout">false</item>
+    <item type="id" name="alert_anim">false</item>
+    <item type="id" name="alert">false</item>
+    <item type="id" name="rootView">false</item>
+    <item type="id" name="fallViewMask">false</item>
+    <item type="id" name="gn_compass_view">false</item>
+    <item type="id" name="calibration_stub">false</item>
+</resources>

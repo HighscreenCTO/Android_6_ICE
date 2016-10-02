@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Are you sure you want to delete the selected items?</item>
+        <item quantity="one">Are you sure you want to delete the selected item?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d Selected</item>
+        <item quantity="zero">%1$d Selected</item>
+        <item quantity="one">%1$d Selected</item>
+    </plurals>
+    <plurals name="delete_system_selection">
+        <item quantity="other">These files will be deleted directly from the mobile phone, not into the recycle bin, delete the selected content?</item>
+        <item quantity="one">The file will be deleted directly from the mobile phone, not into the recycle bin, delete the selected content?</item>
+    </plurals>
+    <plurals name="trash_label_dayleft">
+        <item quantity="other">%1$d days left</item>
+        <item quantity="zero">%1$d day left</item>
+        <item quantity="one">%1$d day left</item>
+    </plurals>
+</resources>

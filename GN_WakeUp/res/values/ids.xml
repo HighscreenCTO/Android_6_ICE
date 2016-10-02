@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="gn_anim_back">false</item>
+    <item type="id" name="gn_anim_view">false</item>
+    <item type="id" name="linearlayout_wakeup">false</item>
+    <item type="id" name="drawview">false</item>
+</resources>

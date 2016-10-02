@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gn_st_slides">
+        <item>@string/gn_st_slide_happy</item>
+        <item>@string/gn_st_slide_nostalgia</item>
+        <item>@string/gn_st_slide_peace</item>
+        <item>@string/gn_st_slide_passion</item>
+        <item>@string/gn_st_slide_romantic</item>
+        <item>@string/gn_st_slide_silence</item>
+        <item>@string/slide_show_other_music</item>
+    </string-array>
+</resources>

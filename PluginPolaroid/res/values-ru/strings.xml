@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polaroid модуль</string>
+    <string name="app_label">Фотокарточка</string>
+    <string name="description">Это фото настроения</string>
+    <string name="pro_indication">Не показывать снова</string>
+    <string name="pro_indication_close">Закрыть</string>
+    <string name="pro_guide_info">Легко для того чтобы снять хорошую фотографию, как Polaroid.</string>
+    <string name="edit_content_text">Запишите ваше настроение</string>
+    <string name="edit_content_text_max_length">Максимальная длина достигнута.</string>
+    <string name="icon_type_1">DroidSansFallbackFull.ttf</string>
+    <string name="icon_type_2">hyc1gjm.ttf</string>
+    <string name="icon_type_3">HYQingKongTiJ.ttf</string>
+    <string name="icon_type_4">hyg2gjm.ttf</string>
+    <string name="icon_type_5">HYShuaiXianTiW.ttf</string>
+</resources>

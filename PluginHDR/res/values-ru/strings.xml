@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HDR режим сцены</string>
+    <string name="app_label">HDR</string>
+    <string name="description">Отрегулируйте EV и сделайте 2 фотографии</string>
+</resources>

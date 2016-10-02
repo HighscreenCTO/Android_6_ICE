@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gn_searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="gn_phoneRecords">
+        <item quantity="other">%d записи</item>
+        <item quantity="one">1 запись</item>
+    </plurals>
+    <plurals name="gn_private_add_prompt">
+        <item quantity="other">Если добавить %d контакты, все записи в журнале вызовов и SMS контактов будут зашифрованы</item>
+        <item quantity="one">Если добавить 1 контакт, весь журнал вызовов и SMS контакта будет зашифрован</item>
+    </plurals>
+    <plurals name="gn_private_remove_prompt">
+        <item quantity="other">Если удалить %d контакты, все звонки и SMS контактов будут расшифрованы</item>
+        <item quantity="one">При удалении 1 контакта, все звонки и SMS контакта будут расшифрованы</item>
+    </plurals>
+    <plurals name="gn_private_add_prompt_google">
+        <item quantity="other">Добавить %d контакты, будут зашифрованы все вызовы контактов</item>
+        <item quantity="one">Добавьте 1 контакт, все вызовы контакта будут зашифрованы</item>
+    </plurals>
+    <plurals name="gn_private_remove_prompt_google">
+        <item quantity="other">Удалить %d контакты, будут расшифрованы все вызовы контактов</item>
+        <item quantity="one">Удалить 1 контакт, все вызовы контакта будут расшифрованы</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контакты с номерами телефонов: %d</item>
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">Контактов: %d</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">объединено из нескольких источников (%0$d)</item>
+        <item quantity="one">не объединено</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Группы: %0$d</item>
+        <item quantity="one">1 группа</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">В группе %2$s%1$d чел.</item>
+        <item quantity="one">В группе %2$s%1$d чел.</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d чел.</item>
+        <item quantity="one">%1$d чел.</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовые сообщения: %1$d</item>
+        <item quantity="one">Голосовая почта</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">Вызовов в журнале: %d</item>
+        <item quantity="one">В журнале 1 вызов</item>
+    </plurals>
+</resources>

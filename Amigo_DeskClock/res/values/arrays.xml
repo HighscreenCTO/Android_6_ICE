@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_name">
+        <item>Latest information</item>
+        <item>National news</item>
+        <item>International news</item>
+        <item>Sports online</item>
+        <item>Entertainment headlines</item>
+        <item>Business brief</item>
+        <item>Science and Technology pioneer</item>
+        <item>Social news</item>
+    </string-array>
+    <string-array name="news_id">
+        <item>0</item>
+        <item>71</item>
+        <item>72</item>
+        <item>231</item>
+        <item>232</item>
+        <item>279</item>
+        <item>290</item>
+        <item>299</item>
+    </string-array>
+    <string-array name="big_small_names">
+        <item>Monday to Friday</item>
+        <item>Monday to Saturday</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="alarm_type_items">
+        <item>Normal Alarm</item>
+        <item>Cycle Alarm</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Off</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Snooze</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarm will ring after less than 1 minute</item>
+        <item>Alarm will ring after %1$s</item>
+        <item>Alarm will ring after %2$s</item>
+        <item>Alarm will ring after %1$s and %2$s</item>
+        <item>Alarm will ring after %3$s</item>
+        <item>Alarm will ring after %1$s and %3$s</item>
+        <item>Alarm will ring after %2$s and %3$s</item>
+        <item>Alarm will ring after %1$s, %2$s, and %3$s</item>
+    </string-array>
+</resources>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gn_entries_list_photo_options">
+        <item>Отображать</item>
+        <item>Скрывать</item>
+    </string-array>
+    <string-array name="gn_entries_listitem_onclick_options">
+        <item>Показать подробности</item>
+        <item>Прямой набор</item>
+    </string-array>
+    <string-array name="gn_add_block_alert_items">
+        <item>Выберите из журнала вызовов</item>
+        <item>Выберите из списка сообщений</item>
+        <item>Выберите контакт</item>
+        <item>Добавить номер телефона</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Копировать номер</item>
+        <item>Изменить перед набором</item>
+        <item>Добавить в чёрный список</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options_gi">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Копировать номер</item>
+        <item>Изменить перед набором</item>
+        <item>Добавить в чёрный список</item>
+        <item>Отправить номер</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options2">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Копировать номер</item>
+        <item>Изменить перед набором</item>
+        <item>Внести в черный список</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options_with_tag">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Тэг</item>
+        <item>Копировать номер</item>
+        <item>Изменить перед набором</item>
+        <item>Внести в черный список</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options_with_tag2">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Тэг</item>
+        <item>Копировать номер</item>
+        <item>Изменить перед набором</item>
+        <item>Внести в черный список</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options_unknow">
+        <item>Удалить запись</item>
+    </string-array>
+    <string-array name="gn_tone_listitem_onclick_options">
+        <item>По умолчанию</item>
+        <item>Пианино</item>
+        <item>Флейта</item>
+        <item>Гучжэн</item>
+        <item>Скрипка</item>
+    </string-array>
+    <string-array name="gn_tag_types">
+        <item>Promote</item>
+        <item>Bootie Call</item>
+        <item>Fraud</item>
+        <item>Express</item>
+        <item>Take-away</item>
+        <item>Agency</item>
+        <item>Insurance</item>
+    </string-array>
+    <string-array name="gn_tag_types_check">
+        <item>推销</item>
+        <item>骚扰</item>
+        <item>诈骗</item>
+        <item>快递</item>
+        <item>外卖</item>
+        <item>中介</item>
+        <item>保险</item>
+        <item>Promote</item>
+        <item>Bootie Call</item>
+        <item>Fraud</item>
+        <item>Express</item>
+        <item>Take-away</item>
+        <item>Agency</item>
+        <item>Insurance</item>
+    </string-array>
+    <string-array name="gn_detail_call_log_item_longclick">
+        <item>Удалить запись</item>
+        <item>Добавить в защищенное хранилище</item>
+    </string-array>
+    <string-array name="gn_detail_call_log_item_longclick_privacy">
+        <item>Удалить запись</item>
+        <item>Удалить из защищенного хранилища</item>
+    </string-array>
+    <string-array name="gn_wallet_old_uri_link">
+        <item>&lt;![CDATA[http://wallet.gionee.com:8088/gionee-wallet/jsp/phoneCharge/phoneCharge.html?req_sys=0008]]&gt;</item>
+        <item>&lt;![CDATA[http://wallet.gionee.com:8088/gionee-wallet/jsp/flow/pay.html?req_sys=0008]]]&gt;</item>
+        <item>2</item>
+        <item>&lt;![CDATA[http://waimai.baidu.com/mobile/waimai?qt=shoplist]]&gt;</item>
+        <item>&lt;![CDATA[http://m.maoyan.com/?f=nohd&amp;f=nobanner&amp;utm_source=jinliqb]]&gt;</item>
+        <item>&lt;![CDATA[http://touch.qunar.com/h5/train/?bd_source=jlqb]]&gt;</item>
+        <item>&lt;![CDATA[http://touch.qunar.com/h5/hotel/hotellist?bd_source=jlqb]]&gt;</item>
+        <item>&lt;![CDATA[http://touch.qunar.com/h5/flight/?bd_source=jlqb]]&gt;</item>
+        <item>6</item>
+        <item>5</item>
+        <item>7</item>
+        <item>&lt;![CDATA[http://wap.cx580.com/illegal?user_from=jinli2015]]&gt;</item>
+    </string-array>
+    <string-array name="gn_wallet_uri_link">
+        <item>&lt;![CDATA[http://wallet.gionee.com:8088/gionee-wallet/walletRedirect.do?req_sys=0014&amp;trans_code=115001&amp;&amp;service_id=00000040]]&gt;</item>
+        <item>&lt;![CDATA[http://wallet.gionee.com:8088/gionee-wallet/walletRedirect.do?req_sys=0014&amp;trans_code=115001&amp;service_id=00000056]]&gt;</item>
+        <item>2</item>
+        <item>&lt;![CDATA[http://wallet.gionee.com:8088/gionee-wallet/walletRedirect.do?req_sys=0014&amp;trans_code=115001&amp;service_id=00000058]]&gt;</item>
+        <item>&lt;![CDATA[http://wallet.gionee.com:8088/gionee-wallet/walletRedirect.do?req_sys=0014&amp;trans_code=115001&amp;service_id=00000042]]&gt;</item>
+        <item>6</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="gn_encryption_options">
+        <item>Личный контакты</item>
+        <item>Личные сообщения</item>
+        <item>Личный журнал вызовов</item>
+        <item>Личный альбом</item>
+        <item>Частное программное обеспечение</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="gn_private_call_log_item_longclick_options_tag">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Тэг</item>
+        <item>Копировать номер</item>
+        <item>Расшифровать звонки</item>
+        <item>Внести в черный список</item>
+        <item>Редактировать перед набором</item>
+    </string-array>
+    <string-array name="gn_private_call_log_item_longclick_options">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Копировать номер</item>
+        <item>Расшифровать звонки</item>
+        <item>Внести в черный список</item>
+        <item>Редактировать перед набором</item>
+    </string-array>
+    <string-array name="gn_private_call_log_item_longclick_options_deleteblocklist_tag">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Тэг</item>
+        <item>Копировать номер</item>
+        <item>Расшифровать звонки</item>
+        <item>Внести в черный список</item>
+        <item>Редактировать перед набором</item>
+    </string-array>
+    <string-array name="gn_private_call_log_item_longclick_deleteblocklist_options">
+        <item>Отправить SMS</item>
+        <item>Удалить журнал вызовов</item>
+        <item>Копировать номер</item>
+        <item>Расшифровать звонки</item>
+        <item>Внести в черный список</item>
+        <item>Редактировать before dial</item>
+    </string-array>
+    <string-array name="gn_call_log_type">
+        <item>Все вызовы</item>
+        <item>Исходящие</item>
+        <item>Входящие</item>
+        <item>Пропущенные</item>
+    </string-array>
+    <string-array name="gn_call_log_type_empty">
+        <item>Нет вызовов</item>
+        <item>Нет исходящих вызовов</item>
+        <item>Нет входящих вызовов</item>
+        <item>Нет пропущенных вызовов</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Примечание</item>
+    </string-array>
+</resources>

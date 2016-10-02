@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CameraBase" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen" />
+    <style name="Theme.Camera" parent="@style/Theme.CameraBase">
+        <item name="android:windowBackground">@drawable/ic_camera_background</item>
+    </style>
+    <style name="OnScreenHintTextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/primary_text_dark</item>
+        <item name="android:textColorHighlight">#ffff9200</item>
+        <item name="android:textColorHint">#ff808080</item>
+        <item name="android:textColorLink">#ff5c5cff</item>
+    </style>
+    <style name="OnScreenHintTextAppearance.Small" parent="@style/OnScreenHintTextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/secondary_text_dark</item>
+    </style>
+    <style name="Animation_OnScreenHint">
+        <item name="android:windowEnterAnimation">@anim/on_screen_hint_enter</item>
+        <item name="android:windowExitAnimation">@anim/on_screen_hint_exit</item>
+    </style>
+    <style name="ReviewControlIcon">
+        <item name="android:gravity">center</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/review_btn_size</item>
+        <item name="android:layout_height">@dimen/review_btn_size</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="ZoomControlBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/zoom_control_bar_right_margin</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="menuItem">
+        <item name="android:textSize">@dimen/settings_item_text_size</item>
+        <item name="android:textColor">@color/menu_item_text</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">2.0dip</item>
+        <item name="android:paddingRight">2.0dip</item>
+        <item name="android:layout_width">@dimen/settings_item_width</item>
+        <item name="android:layout_height">@dimen/settings_item_height</item>
+        <item name="android:lines">2</item>
+        <item name="android:drawablePadding">@dimen/settings_item_drawable_padding</item>
+    </style>
+    <style name="OnViewfinderLabel">
+        <item name="android:textSize">@dimen/recording_time_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/ic_bg_text_on_preview</item>
+        <item name="android:paddingLeft">@dimen/recording_time_lr_padding</item>
+        <item name="android:paddingTop">@dimen/recording_time_tb_padding</item>
+        <item name="android:paddingRight">@dimen/recording_time_lr_padding</item>
+        <item name="android:paddingBottom">@dimen/recording_time_tb_padding</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ViewfinderLabelLayout">
+        <item name="android:layout_gravity">right</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/recording_time_rect_right_margin</item>
+        <item name="android:layout_marginTop">@dimen/recording_time_rect_top_margin</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="PluginList_Text_Style_Base">
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="PluginList_Main_text" parent="@style/PluginList_Text_Style_Base">
+        <item name="android:textSize">@dimen/pluginlist_topbar_main_text</item>
+        <item name="android:textColor">@color/pluginlist_main_text</item>
+    </style>
+    <style name="PluginList_Sub_text" parent="@style/PluginList_Text_Style_Base">
+        <item name="android:textSize">@dimen/pluginlist_topbar_sub_text</item>
+        <item name="android:textColor">@color/pluginlist_sub_text</item>
+    </style>
+    <style name="Pro_New_Guide_CheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/dialog_network_3g_checkbox</item>
+    </style>
+    <style name="SmoothSeekBar_Style" parent="@android:style/Widget.Holo.Light.SeekBar" />
+    <style name="IndicatorTextSelected">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/text_indicator_selected_color</item>
+    </style>
+    <style name="IndicatorTextDefault">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/text_indicator_default_color</item>
+    </style>
+</resources>

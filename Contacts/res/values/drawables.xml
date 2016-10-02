@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="amigo_window_background_light">#fffdfdfd</item>
+    <item type="drawable" name="amigo_window_background_dark">#ff222222</item>
+    <item type="drawable" name="translucent_background">#00000000</item>
+    <item type="drawable" name="cootek_background">#ffe8e8e8</item>
+    <item type="drawable" name="cootek_funcbar_bg">#ff4fa3e3</item>
+    <item type="drawable" name="cootek_funcbar_bg_p">#ff1f97d0</item>
+    <item type="drawable" name="cootek_discount_normal">#ffffffff</item>
+    <item type="drawable" name="cootek_discount_selected">#ffc0d9d9</item>
+</resources>

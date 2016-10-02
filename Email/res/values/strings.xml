@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <item type="string" name="circle_radius_multiplier">0.82</item>
+    <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
+    <item type="string" name="selection_radius_multiplier">0.16</item>
+    <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
+    <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
+    <item type="string" name="text_size_multiplier_normal">0.17</item>
+    <item type="string" name="text_size_multiplier_inner">0.14</item>
+    <item type="string" name="text_size_multiplier_outer">0.11</item>
+    <string name="done_label">Done</string>
+    <string name="hour_picker_description">Hours circular slider</string>
+    <string name="minute_picker_description">Minutes circular slider</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="day_picker_description">Month grid of days</string>
+    <string name="year_picker_description">Year list</string>
+    <string name="select_day">Select month and day</string>
+    <string name="select_year">Select year</string>
+    <string name="item_is_selected">%1$s selected</string>
+    <string name="deleted_key">%1$s deleted</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="photo_view_count" formatted="false">%d of %d</string>
+    <string name="retry">Retry</string>
+    <string name="failed">"Couldn't load image"</string>
+    <string name="titles" formatted="false">%s, %s</string>
+    <string name="more_string">+%1$s</string>
+    <string name="copy_email">Copy email address</string>
+    <string name="copy_number">Copy phone number</string>
+    <string name="done">Done</string>
+    <string name="mailbox_name_server_inbox">Inbox</string>
+    <string name="mailbox_name_server_outbox">Outbox</string>
+    <string name="mailbox_name_server_drafts">Drafts</string>
+    <string name="mailbox_name_server_trash">Trash</string>
+    <string name="mailbox_name_server_sent">Sent</string>
+    <string name="mailbox_name_server_junk">Junk</string>
+    <string name="mailbox_name_server_starred">Starred</string>
+    <string name="mailbox_name_server_all_unread">Unread</string>
+    <string name="email_package_name">com.android.email</string>
+    <string name="mailbox_name_server_vip">VIP</string>
+    <string name="quoted_text_font_color_string">@color/text_color_grey</string>
+    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+    <string name="date">2888/88/88</string>
+    <string name="compose_help_context">compose</string>
+    <string name="conversation_list_help_context">android_conversation_list</string>
+    <string name="conversation_view_help_context">android_conversation_view</string>
+    <string name="wait_help_context">wait</string>
+    <string name="main_help_context">ttl</string>
+    <string name="open_link__error_toast">"Can't open this link"</string>
+    <string name="body_too_large_truncated">Part of body will be truncated due to message was too large.</string>
+    <string name="trigger_compose_char">n</string>
+    <string name="trigger_archive_char">d</string>
+    <string name="trigger_delete_char">\u0008</string>
+    <string name="trigger_send_char">"
+"</string>
+    <string name="trigger_save_char">s</string>
+    <string name="trigger_refresh_char">u</string>
+    <string name="trigger_toggle_drawer_char">m</string>
+    <string name="trigger_settings_char">,</string>
+    <string name="trigger_help_char">/</string>
+    <string name="trigger_reply_char">`</string>
+    <string name="trigger_reply_all_char">r</string>
+    <string name="trigger_toggle_read_unread_char">i</string>
+    <string name="trigger_change_label_char">l</string>
+    <string name="trigger_print_char">p</string>
+    <string name="trigger_undo_char">z</string>
+    <string name="mock_content_provider">Mock Content Provider</string>
+    <string name="conversation_content_provider">Conversation Content Provider</string>
+    <string name="account_cache_provider">Account Cache Provider</string>
+    <string name="app_name">Email</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="cc">Cc</string>
+    <string name="bcc">Bcc</string>
+    <string name="subject_hint">Subject</string>
+    <string name="body_hint">Compose email</string>
+    <string name="add_file_attachment">Attach file</string>
+    <string name="add_photo_attachment">Attach picture</string>
+    <string name="attach_from_service_stub1" />
+    <string name="save_draft">Save draft</string>
+    <string name="discard">Discard</string>
+    <string name="compose">Compose</string>
+    <string name="compose_title">Compose</string>
+    <string name="formatted_subject">%1$s %2$s</string>
+    <string name="reply_subject_label">Re:</string>
+    <string name="forward_subject_label">Fwd:</string>
+    <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
+    <string name="forward_attribution">---------- Forwarded message ----------&lt;br>From: %1$s&lt;br>Date: %2$s&lt;br>Subject: %3$s&lt;br>To: %4$s&lt;br></string>
+    <string name="forward_attribution_no_headers">---------- Forwarded message ----------</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br></string>
+    <string name="select_attachment_type">Choose type of attachment</string>
+    <string name="too_large_to_attach_single">"Can't attach file over %1$s."</string>
+    <string name="too_large_to_attach_multiple">One or more files not attached. Limit %1$s.</string>
+    <string name="too_large_to_attach_additional">File not attached. %1$s limit reached.</string>
+    <string name="generic_attachment_problem">"Couldn't attach file."</string>
+    <string name="attachment_permission_denied">Permission denied for the attachment.</string>
+    <string name="recipient_needed">Add at least one recipient.</string>
+    <string name="confirm_send_message_with_no_subject">"There's no text in the message subject."</string>
+    <string name="confirm_send_message_with_no_body">"There's no text in the message body."</string>
+    <string name="confirm_send_message">Send this message?</string>
+    <string name="message_discarded">Message discarded.</string>
+    <string name="signature">"
+
+%s"</string>
+    <string name="custom_from_account_label">Send mail as:</string>
+    <string name="send">Send</string>
+    <string name="mark_read">Mark read</string>
+    <string name="mark_unread">Mark unread</string>
+    <string name="toggle_read_unread">Toggle read unread</string>
+    <string name="mute">Mute</string>
+    <string name="add_star">Add star</string>
+    <string name="remove_star">Remove star</string>
+    <string name="remove_folder">Remove from %1$s</string>
+    <string name="archive">Archive</string>
+    <string name="report_spam">Report spam</string>
+    <string name="mark_not_spam">Report not spam</string>
+    <string name="report_phishing">Report phishing</string>
+    <string name="delete">Delete</string>
+    <string name="discard_drafts">Discard drafts</string>
+    <string name="discard_failed">Discard failed</string>
+    <string name="refresh">Refresh</string>
+    <string name="reply">Reply</string>
+    <string name="reply_all">Reply all</string>
+    <string name="resume_draft">Edit</string>
+    <string name="forward">Forward</string>
+    <string name="menu_compose">Compose</string>
+    <string name="menu_change_folders">Change folders</string>
+    <string name="menu_move_to">Move to</string>
+    <string name="menu_move_to_state">0</string>
+    <string name="menu_move_to_inbox">Move to Inbox</string>
+    <string name="menu_manage_folders">Folder settings</string>
+    <string name="report_rendering_problem">Looks bad</string>
+    <string name="report_rendering_improvement">Looks good</string>
+    <string name="report_rendering_problem_desc">This message looks bad.</string>
+    <string name="report_rendering_improvement_desc">This message looks good.</string>
+    <string name="menu_show_original">Revert auto-sizing</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_toggle_drawer">Toggle drawer</string>
+    <string name="drawer_title">Navigation</string>
+    <string name="mark_important">Mark important</string>
+    <string name="mark_not_important">Mark not important</string>
+    <string name="add_cc_label">Add Cc/Bcc</string>
+    <string name="add_bcc_label">Add Bcc</string>
+    <string name="quoted_text">Include quoted text</string>
+    <string name="quoted_text_label">Quote text</string>
+    <string name="respond_inline">Respond inline</string>
+    <string name="formatted_email_address">&lt;%1$s></string>
+    <string name="bytes">%s B</string>
+    <string name="kilobytes">%s KB</string>
+    <string name="megabytes">%s MB</string>
+    <string name="attachment_image">Image</string>
+    <string name="attachment_video">Video</string>
+    <string name="attachment_audio">Audio</string>
+    <string name="attachment_text">Text</string>
+    <string name="attachment_application_msword">Document</string>
+    <string name="attachment_application_vnd_ms_powerpoint">Presentation</string>
+    <string name="attachment_application_vnd_ms_excel">Spreadsheet</string>
+    <string name="attachment_application_pdf">PDF</string>
+    <string name="attachment_unknown">%s File</string>
+    <string name="preview_attachment">Preview</string>
+    <string name="save_attachment">Save</string>
+    <string name="download_again">Download again</string>
+    <string name="attachment_extra_option1" />
+    <string name="remove_attachment_desc">Remove attachment %s</string>
+    <string name="more_info_attachment">Info</string>
+    <string name="no_application_found">No app can open this attachment for viewing.</string>
+    <string name="fetching_attachment">Fetching attachment</string>
+    <string name="please_wait">Action is going. Please wait...</string>
+    <string name="saved">Saved, %s</string>
+    <string name="download_failed">"Couldn't download. Touch to retry."</string>
+    <string name="menu_photo_save_all">Save all</string>
+    <string name="menu_photo_share">Share</string>
+    <string name="menu_photo_share_all">Share all</string>
+    <string name="menu_photo_print">Print</string>
+    <string name="saving">Saving…</string>
+    <string name="choosertitle_sharevia">Share via</string>
+    <string name="contextmenu_openlink">Open in Browser</string>
+    <string name="contextmenu_copy">Copy</string>
+    <string name="contextmenu_copylink">Copy link URL</string>
+    <string name="contextmenu_view_image">View image</string>
+    <string name="contextmenu_dial_dot">Dial…</string>
+    <string name="contextmenu_sms_dot">SMS…</string>
+    <string name="contextmenu_add_contact">Add contact</string>
+    <string name="contextmenu_send_mail">Send email</string>
+    <string name="contextmenu_map">Map</string>
+    <string name="contextmenu_sharelink">Share link</string>
+    <string name="content_description">%1$s%2$s about %3$s, %4$s on %5$s, %6$s</string>
+    <string name="content_description_today">%1$s%2$s about %3$s, %4$s at %5$s, %6$s</string>
+    <string name="content_description_with_folders">%1$s%2$s about %3$s, %4$s on %5$s, %6$s, labels: %7$s</string>
+    <string name="content_description_today_with_folders">%1$s%2$s about %3$s, %4$s at %5$s, %6$s, labels: %7$s</string>
+    <string name="read_string">conversation read</string>
+    <string name="unread_string">conversation unread</string>
+    <string name="filtered_tag">[%1$s]%2$s</string>
+    <string name="badge_and_subject">%1$s %2$s</string>
+    <string name="sending">Sending…</string>
+    <string name="message_retrying">Retrying…</string>
+    <string name="message_failed">Failed</string>
+    <string name="send_failed">"Message wasn't sent."</string>
+    <string name="me_object_pronoun">me</string>
+    <string name="me_subject_pronoun">me</string>
+    <string name="confirm_discard_text">Discard this message?</string>
+    <string name="loading_conversations">Loading…</string>
+    <string name="empty_inbox">"You're all done! Please enjoy your day."</string>
+    <string name="empty_search">"Whoops! We didn't find anything for \"%1$s\"."</string>
+    <string name="empty_spam_folder">Hooray, no spam here!</string>
+    <string name="empty_trash_folder">No trash here. Thanks for recycling!</string>
+    <string name="empty_folder">There is no mail here.</string>
+    <string name="getting_messages">Getting your messages</string>
+    <string name="undo">Undo</string>
+    <string name="deleted">Deleted</string>
+    <string name="archived">Archived</string>
+    <string name="folder_removed">Removed from %1$s</string>
+    <string name="conversation_folder_moved">Moved to %1$s</string>
+    <string name="search_results_header">Results</string>
+    <string name="search_unsupported">Search is not supported on this account.</string>
+    <string name="search_suggestion_desc">Suggestion: %s</string>
+    <string name="add_label">Add folder</string>
+    <string name="date_and_view_details">"%1$s &lt;a href='http://www.example.com'>View details&lt;/a>"</string>
+    <string name="hide_details">Hide details</string>
+    <string name="to_message_header">to %1$s</string>
+    <string name="bcc_header_for_recipient_summary">"bcc: "</string>
+    <string name="contact_info_string">Show contact information for %1$s</string>
+    <string name="contact_info_string_default">Show contact information</string>
+    <string name="from_heading">From:</string>
+    <string name="replyto_heading">Reply-to:</string>
+    <string name="to_heading">"To: "</string>
+    <string name="to_heading_no_space">To:</string>
+    <string name="cc_heading">Cc:</string>
+    <string name="bcc_heading">Bcc:</string>
+    <string name="date_heading">Date:</string>
+    <string name="show_images">Show pictures</string>
+    <string name="always_show_images">Always show pictures from this sender</string>
+    <string name="always_show_images_toast">Pictures from this sender will be shown automatically.</string>
+    <string name="address_display_format">%1$s %2$s</string>
+    <string name="address_display_format_with_via_domain">%1$s %2$s via %3$s</string>
+    <string name="message_saved">Message saved as draft.</string>
+    <string name="sending_message">Sending message…</string>
+    <string name="invalid_recipient">The address %s is invalid.</string>
+    <string name="show_elided">Show quoted text</string>
+    <string name="hide_elided">▼ Hide quoted text</string>
+    <string name="message_invite_title">Calendar invite</string>
+    <string name="message_invite_calendar_view">View in Calendar</string>
+    <string name="message_invite_label_attending">Going?</string>
+    <string name="message_invite_accept">Yes</string>
+    <string name="message_invite_tentative">Maybe</string>
+    <string name="message_invite_decline">No</string>
+    <string name="enumeration_comma">", "</string>
+    <string name="send_anyway">Send anyway</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="tap_to_configure">Touch to set up</string>
+    <string name="non_synced_folder_description">To view conversations, sync this folder.</string>
+    <string name="tap_to_configure_folder_sync">Sync Folder</string>
+    <string name="widget_large_unread_count">%d+</string>
+    <string name="large_unseen_count">%d+ new</string>
+    <string name="unseen_count">%d new</string>
+    <string name="view_more_conversations">View more conversations</string>
+    <string name="loading_conversation">Loading…</string>
+    <string name="activity_mailbox_selection">Choose account</string>
+    <string name="activity_folder_selection">Choose folder</string>
+    <string name="folder_shortcut_widget_label">Email folder</string>
+    <string name="change_folders_selection_dialog_title">Change folders</string>
+    <string name="move_to_selection_dialog_title">Move to</string>
+    <string name="search_title">Unified Email</string>
+    <string name="search_hint">Search mail</string>
+    <string name="search_results_loaded">%1$d</string>
+    <string name="voice_search_not_supported">Voice search is not supported on this device.</string>
+    <string name="search_back_desc">Close search</string>
+    <string name="search_voice_desc">Start voice search</string>
+    <string name="search_clear_desc">Clear search text</string>
+    <string name="network_error">No connection</string>
+    <string name="load_more">Load more</string>
+    <string name="load_attachment">@string/load_more</string>
+    <string name="shortcut_name_title">Name folder shortcut</string>
+    <string name="wait_for_sync_title">Waiting for sync</string>
+    <string name="not_synced_title">Account not synced</string>
+    <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
+Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
+    <string name="manual_sync">Sync now</string>
+    <string name="change_sync_settings">Change sync settings</string>
+    <string name="photo_load_failed">"Couldn't load image"</string>
+    <string name="cant_move_or_change_labels">"Can't move because selection contains multiple accounts."</string>
+    <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+    <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
+    <string name="ignore_spam_warning">Ignore, I trust this message</string>
+    <string name="via_domain">via %1$s</string>
+    <string name="signin">Sign-in</string>
+    <string name="info">Info</string>
+    <string name="report">Report</string>
+    <string name="show">Show</string>
+    <string name="sync_error">"Couldn't sync."</string>
+    <string name="sync_error_message">"Your device doesn't have enough storage space to sync."</string>
+    <string name="storage">Storage</string>
+    <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
+    <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
+    <string name="hierarchical_folder_top">%1$s∕</string>
+    <string name="senders_split_token">, </string>
+    <string name="draft_count_format"> (%1$s)</string>
+    <string name="senders_elided">..</string>
+    <string name="elided_padding_token"> </string>
+    <string name="message_count_spacer">  </string>
+    <string name="quote_begin">&lt;div class=\"quote\"></string>
+    <string name="all_folders_heading">All folders</string>
+    <string name="recent_folders_heading">Recent folders</string>
+    <string name="message_details_title">Message details</string>
+    <string name="preference_advance_to_title">Auto-advance</string>
+    <string name="prefDialogTitle_autoAdvance">Advance to</string>
+    <string name="prefDefault_autoAdvance">list</string>
+    <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
+    <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
+    <string name="clear_display_images_whitelist_dialog_message">Stop displaying inline images from senders you previously allowed.</string>
+    <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
+    <string name="preferences_signature_title">Signature</string>
+    <string name="preferences_signature_dialog_title">Signature</string>
+    <string name="preferences_signature_summary_not_set">Not set</string>
+    <string name="notification_action_reply">Reply</string>
+    <string name="notification_action_reply_all">Reply all</string>
+    <string name="notification_action_archive">Archive</string>
+    <string name="notification_action_remove_label">Remove label</string>
+    <string name="notification_action_delete">Delete</string>
+    <string name="notification_action_undo_archive">Archived</string>
+    <string name="notification_action_undo_remove_label">Label Removed</string>
+    <string name="notification_action_undo_delete">Deleted</string>
+    <string name="veiled_address" />
+    <string name="veiled_alternate_text" />
+    <string name="veiled_alternate_text_unknown_person" />
+    <string name="veiled_summary_unknown_person" />
+    <string name="label_notification_ticker" formatted="false">%s: %s</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
+    <string name="silent_ringtone">Silent</string>
+    <string name="preference_removal_action_title">Default action</string>
+    <string name="prefDialogTitle_removal_action">Default action</string>
+    <string name="prefDefault_removal_action">archive</string>
+    <string name="preferences_default_reply_all_title">Reply all</string>
+    <string name="preferences_default_reply_all_summary_impl">Use as default for message replies</string>
+    <string name="preferences_default_reply_all_summary">@string/preferences_default_reply_all_summary_impl</string>
+    <string name="preference_swipe_title">Swipe actions</string>
+    <string name="preference_swipe_description">In conversation list</string>
+    <string name="preference_sender_image_title">Sender image</string>
+    <string name="preference_sender_image_description">Show beside name in conversation list</string>
+    <string name="empty_trash">Empty Trash</string>
+    <string name="empty_spam">Empty Spam</string>
+    <string name="empty_trash_dialog_title">Empty Trash?</string>
+    <string name="empty_spam_dialog_title">Empty Spam?</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
+    <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
+    <string name="folder_icon_desc">Folder icon</string>
+    <string name="add_account">Add account</string>
+    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
+    <string name="dismiss_tip_hover_text">Dismiss tip</string>
+    <string name="auto_sync_off">Auto-sync is off. Touch to turn on.</string>
+    <string name="account_sync_off">"Account sync is off. Turn on in &lt;a href='http://www.example.com'>Account settings.&lt;/a>"</string>
+    <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
+    <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
+    <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
+    <string name="phone">phone</string>
+    <string name="tablet">tablet</string>
+    <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
+    <string name="show_n_more_folders">Show %1$s folders</string>
+    <string name="hide_folders">Hide folders</string>
+    <string name="print">Print</string>
+    <string name="print_all">Print all</string>
+    <string name="address_print_display_format">%1$s &amp;lt;%2$s&amp;gt;</string>
+    <string name="date_message_received_print">%1$s at %2$s</string>
+    <string name="draft_to_heading">Draft To:</string>
+    <string name="draft_heading">Draft</string>
+    <string name="quoted_text_hidden_print">Quoted text hidden</string>
+    <string name="widget_provider">com.android.email.provider.WidgetProvider</string>
+    <string name="print_job_name">Email - %1$s</string>
+    <string name="no_subject">(no subject)</string>
+    <string name="vacation_responder">Vacation responder</string>
+    <string name="preferences_vacation_responder_title">Vacation responder</string>
+    <string name="vacation_responder_body_hint_text">Message</string>
+    <string name="send_to_contacts_text">Send only to my Contacts</string>
+    <string name="send_to_domain_text">Send only to %1$s</string>
+    <string name="pick_start_date_title">Starts</string>
+    <string name="pick_end_date_title">Ends (Optional)</string>
+    <string name="date_not_set">Not set</string>
+    <string name="set_end_date_dialog_title">End date (optional)</string>
+    <string name="custom_date">Custom</string>
+    <string name="date_none">None</string>
+    <string name="discard_changes">Discard changes?</string>
+    <string name="vacation_responder_changes_saved">Vacation responder changes saved</string>
+    <string name="vacation_responder_changes_discarded">Vacation responder changes discarded</string>
+    <string name="vacation_responder_off">Off</string>
+    <string name="vacation_responder_on">On, from %1$s</string>
+    <string name="vacation_responder_on_with_end_date">On, from %1$s to %2$s</string>
+    <string name="vacation_responder_empty_subject_and_body_warning">Add a subject or message</string>
+    <string name="attach_file_content_description">@string/add_photo_attachment</string>
+    <string name="view_entire_message">View entire message</string>
+    <string name="eml_loader_error_toast">"Can't open this file"</string>
+    <string name="drawer_pullout_tag">drawer_pullout</string>
+    <string name="help_and_info">Help</string>
+    <string name="help_and_feedback">Help &amp; feedback</string>
+    <string name="help_uri" />
+    <string name="feedback">Send feedback</string>
+    <string name="copyright">©%1$d Google Inc.</string>
+    <string name="version">%1$s version %2$s</string>
+    <string name="view_app_page" />
+    <string name="app_url" />
+    <string name="print_dialog">Print…</string>
+    <string name="copyright_information">Copyright information</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_policy_uri" />
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="full_message_activity" />
+    <string name="reply_choice_yes">Yes</string>
+    <string name="reply_choice_no">No</string>
+    <string name="reply_choice_ok">OK</string>
+    <string name="reply_choice_hehe">Hehe</string>
+    <string name="reply_choice_thanks">Thanks</string>
+    <string name="reply_choice_i_agree">I agree</string>
+    <string name="reply_choice_nice">Nice</string>
+    <string name="reply_on_my_way">On my way</string>
+    <string name="reply_choice_later">OK, let me get back to you</string>
+    <string name="reply_choice_smiling_face">:)</string>
+    <string name="reply_choice_frowning_face">:(</string>
+    <string name="preference_header_action_confirmations">Action Confirmations</string>
+    <string name="preference_confirm_before_delete_title">Confirm before deleting</string>
+    <string name="preference_confirm_before_archive_title">Confirm before archiving</string>
+    <string name="preference_confirm_before_send_title">Confirm before sending</string>
+    <string name="preferences_conversation_mode_title">Auto-fit messages</string>
+    <string name="preferences_conversation_mode_summary">Shrink messages to fit the screen</string>
+    <string name="preferences_disable_snap_headers_title">Message actions</string>
+    <string name="clear_history_title">Clear search history</string>
+    <string name="search_history_cleared">Search history cleared.</string>
+    <string name="clear_history_dialog_title">Clear search history?</string>
+    <string name="clear_history_dialog_message">"All the searches you've previously performed will be removed."</string>
+    <string name="manage_accounts_menu_item">Manage Accounts</string>
+    <string name="general_preferences_title">General settings</string>
+    <string name="activity_preferences">Settings</string>
+    <string name="overflow_description">More options</string>
+    <string name="user_agent_format">%1$s AndroidUnifiedEmail/%2$s</string>
+    <string name="security_hold_required_text">Security update required for %1$s</string>
+    <string name="update_security_text">update now</string>
+    <string name="forms_are_disabled">Forms are disabled in Gmail</string>
+    <string name="photo_view_activity">com.android.mail.photo.MailPhotoViewActivity</string>
+    <string name="select_importance_level">Select priority level</string>
+    <string name="priority_level_high">High priority</string>
+    <string name="priority_level_normal">Normal priority</string>
+    <string name="priority_level_low">Low priority</string>
+    <string name="gn_mail_select_title">Select mail</string>
+    <string name="gn_netease_mail">NetEase</string>
+    <string name="gn_sina_mail">Sina</string>
+    <string name="gn_qq_mail">QQ</string>
+    <string name="gn_gmail">Gmail</string>
+    <string name="gn_yahoo_mail">Yahoo!</string>
+    <string name="gn_hotmail">Hotmail</string>
+    <string name="gn_sohu_mail">Sohu</string>
+    <string name="gn_others_mail">Other email</string>
+    <string name="gn_mail_login_title">Mail settings</string>
+    <string name="gn_account_login">Login</string>
+    <string name="gn_netease_mail_188">\@188.com</string>
+    <string name="gn_netease_mail_163">\@163.com</string>
+    <string name="gn_netease_mail_126">\@126.com</string>
+    <string name="gn_netease_mail_netease">\@netease.com</string>
+    <string name="gn_netease_mail_yeah">\@yeah.net</string>
+    <string name="gn_sina_mail_com">\@sina.com</string>
+    <string name="gn_sina_mail_cn">\@sina.cn</string>
+    <string name="gn_qq_mail_com">\@qq.com</string>
+    <string name="gn_gmail_mail_com">\@gmail.com</string>
+    <string name="gn_yahoo_mail_com_cn">\@yahoo.com.cn</string>
+    <string name="gn_yahoo_mail_cn">\@yahoo.cn</string>
+    <string name="gn_yahoo_mail_com">\@yahoo.com</string>
+    <string name="gn_yahoo_mail_it">\@yahoo.it</string>
+    <string name="gn_hotmail_mail_com">\@hotmail.com</string>
+    <string name="gn_hotmail_mail_it">\@hotmail.it</string>
+    <string name="gn_sohu_mail_com">\@sohu.com</string>
+    <string name="gn_email_username_error">Username unlawful character!</string>
+    <string name="gn_sapo">Sapo</string>
+    <string name="gn_telepac">Telepac</string>
+    <string name="gn_sapo_pt">\@sapo.pt</string>
+    <string name="gn_telepac_pt">\@mail.telepac.pt</string>
+    <string name="general_preference_signature_summary_sy">*** Sent from my Helio ***</string>
+    <string name="send_from">"
+ 
+ *** This message has been sent using %s ***"</string>
+    <string name="general_preference_signature_label">Default Signature</string>
+    <string name="general_preference_signature_summary">*** This message has been sent using %s ***</string>
+    <string name="send_from_sy">"
+ 
+ *** Sent from my Helio ***"</string>
+    <string name="send_from_te">"
+ 
+ *** Sent from Colors Mobile ***"</string>
+    <string name="general_preference_signature_summary_te">*** Sent from Colors Mobile ***</string>
+    <string name="send_from_bl">Sent from my BLU smartphone device</string>
+    <string name="general_preference_signature_summary_bl">Sent from my BLU smartphone device</string>
+    <string name="send_from_vf">"
+ 
+ *** Sent from my ALLVIEW phone***"</string>
+    <string name="general_preference_signature_summary_vf">"
+ 
+ *** Sent from my ALLVIEW phone***"</string>
+    <string name="send_from_pr">"
+ 
+ *** Sent from my Prestigio MultiPhone ***"</string>
+    <string name="general_preference_signature_summary_pr">*** Sent from my Prestigio MultiPhone ***</string>
+    <string name="send_from_ka">"
+ 
+ *** Sent from my KAZAM Tornado 348 ***"</string>
+    <string name="general_preference_signature_summary_ka">Sent from my KAZAM Tornado 348</string>
+    <string name="general_preference_signature_summary_ka_552L">Sent from my KAZAM Tornado 552L</string>
+    <string name="general_preference_signature_summary_ka_play">Wysłano z mojego smartfona w PLAY</string>
+    <string name="send_from_ml">Enviado desde mi equipo ZUUM</string>
+    <string name="general_preference_signature_summary_ml">Enviado desde mi equipo ZUUM</string>
+    <string name="send_from_ac">"
+ 
+ *** Sent from (my smartphone) Condor C9 (PGN-507) ***"</string>
+    <string name="general_preference_signature_summary_ac">Sent from (my smartphone) Condor C9 (PGN-507)</string>
+    <string name="account_settings_save_sets">Saving settings</string>
+    <string name="account_setup_basics_require_password_visible_label">Show password</string>
+    <string name="gn_iclaro">iClaro</string>
+    <string name="gn_iclaro_type">\@iclaro.com.co</string>
+    <string name="send_from_zc">"
+ 
+ Enviado desde mi Azumi A50c de Claro"</string>
+    <string name="general_preference_signature_summary_zc">Enviado desde mi Azumi A50c de Claro</string>
+    <string name="signarure_name_ac">Condor</string>
+    <string name="send_from_qm">"
+ 
+ *** Sent from my QMobile ***"</string>
+    <string name="general_preference_signature_summary_qm">*** Sent from my QMobile ***</string>
+    <string name="send_from_pl">"
+ 
+ Enviado a partir do meu LAIQ "</string>
+    <string name="general_preference_signature_summary_pl">Enviado a partir do meu LAIQ</string>
+    <string name="send_from_pk">"
+ 
+ Enviado a partir do meu KUBO "</string>
+    <string name="general_preference_signature_summary_pk">Enviado a partir do meu KUBO</string>
+    <string name="send_from_et">"
+ 
+ Send from my EVERTEK "</string>
+    <string name="general_preference_signature_summary_et">Send from my EVERTEK</string>
+    <string name="not_add_more_text">Can not add more text</string>
+    <string name="attach_image">Photo</string>
+    <string name="attach_video">Video</string>
+    <string name="attach_sound">Music</string>
+    <string name="attach_contact">Contacts</string>
+    <string name="attach_file">File</string>
+    <string name="attach_calender">Calendar</string>
+    <string name="attach_error_occurred">No application supports this kind of attachment.</string>
+    <string name="low_storage_service_stop">Email service stopped due to low storage.</string>
+    <string name="low_storage_hint_delete_mail">You can delete unused emails or applications to reclaim storage.</string>
+    <string name="low_storage_service_start">Email service restarted because storage is enough now.</string>
+    <string name="low_storage_attachment_cannot_download">Can not download attachment due to low storage.</string>
+    <string name="low_storage_attachment_cannot_view">Can not view attachment due to low storage.</string>
+    <string name="download_remaining">Download Remaining</string>
+    <string name="downloading_remaining">Loading ...</string>
+    <string name="unable_to_connect">Unable to connect</string>
+    <string name="need_connection_prompt">You need a network connection to use this application. Please turn on mobile network or WiFi in Settings.</string>
+    <string name="need_wifi_connection_prompt">You need a network connection to use this application. Please turn on WiFi in Settings.</string>
+    <string name="connection_settings">Settings</string>
+    <string name="too_many_attachments">Cannot add too many attachments. Only the first %1$d attachments will be added.</string>
+    <string name="not_add_more_attachments">Cannot add more attachments. There is a limit of %1$d attachments.</string>
+    <string name="attachment_overflow">Attachments overflow</string>
+    <string name="cannot_add_this_attachment">Can not add this attachment.</string>
+    <string name="loading_attachment">Loading attachments...</string>
+    <string name="send_attachment_fail">Failed in sending attachment.</string>
+    <string name="open_message_parsing">Parsing the message...</string>
+    <string name="open_message_update_db">Updating the database...</string>
+    <string name="open_message_update_ui">Loading the message...</string>
+    <string name="delete_message_dialog_title">Delete Message</string>
+    <string name="delete_message_confirm">Delete this message?</string>
+    <string name="attachment_info_deleted">"This attachment can't be saved or opened because of this attachment may have been deleted."</string>
+    <string name="send_failed_ticker">%s failed in sending email.</string>
+    <string name="send_failed_title">Failed in sending email</string>
+    <string name="always_bcc_myself">Always bcc myself</string>
+    <string name="always_bcc_myself_summary">Always bcc myself when compose, reply and forward</string>
+    <string name="remote_search_failed">Server search failed!</string>
+    <string name="searching_on_server">Search on Server</string>
+    <string name="searching_on_server_title">Search \"%s\" on server</string>
+    <string name="searching_all_fields_on_sever">Search all fields on Server</string>
+    <string name="search_field_subject">Subject</string>
+    <string name="search_field_receiver">Receiver</string>
+    <string name="search_field_sender">Sender</string>
+    <string name="search_field_body">Body</string>
+    <string name="search_field_all">All</string>
+    <string name="select_all">Select all</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="vip">VIP</string>
+    <string name="vip_settings">VIP SETTINGS</string>
+    <string name="vip_members">VIP members</string>
+    <string name="vip_notifications">VIP notifications</string>
+    <string name="vip_settings_notify_summary">Notify in System bar when VIP email arrives</string>
+    <string name="vip_members_count">VIP members (%1$d)</string>
+    <string name="vip_remove_title">Remove from VIP</string>
+    <string name="vip_choose_contact">Add to VIP</string>
+    <string name="vip_remove_prompt">%1$s will be removed from VIP members.</string>
+    <string name="not_add_duplicate_vip">The duplicate contact will not be added into the VIP list.</string>
+    <string name="can_not_add_vip_over_99">"Can't add VIP member over 99."</string>
+    <string name="vip_count">0</string>
+    <string name="vip_settings_ringtone">Choose VIP ringtone</string>
+    <string name="vip_settings_vibrate_label">Vibrate</string>
+    <string name="vip_settings_vibrate_summary">Also vibrate when VIP email arrives</string>
+    <string name="vip_settings_member_count">%2d</string>
+    <string name="account_setup_options_mail_check_frequency_smartpush">Smart push</string>
+    <string name="smart_push_alert_dialog_title">Power saving option</string>
+    <string name="smart_push_alert_dialog_message">" checks for new email less frequently to save power. Keep on using this mode, email will be received more timely.
+
+You can change it in settings at any time."</string>
+    <string name="generatehabit_action">Generate habit data</string>
+    <string name="global_search_label">Email</string>
+    <string name="global_search_hint">Search email</string>
+    <string name="global_search_description">Senders, subjects and bodies</string>
+    <string name="account_settings_oof_label">Out of office</string>
+    <string name="account_settings_oof_unchecked_summary">I am now in the office</string>
+    <string name="account_settings_oof_checked_summary">I am now out of office</string>
+    <string name="account_settings_oof_from_label">From</string>
+    <string name="account_settings_oof_to_label">To</string>
+    <string name="account_settings_oof_auto_reply_label">Out of office auto-replies</string>
+    <string name="account_settings_oof_auto_reply_summary">Automatically reply message to each sender</string>
+    <string name="account_settings_oof_external_server_label">Send auto-replies to external server</string>
+    <string name="account_settings_oof_get_status">Getting status from server</string>
+    <string name="account_settings_oof_save_sets">Saving settings to server</string>
+    <string name="account_settings_oof_get_status_fail">Unable to get status</string>
+    <string name="account_settings_oof_get_status_fail_summary">Unable to get status from server right now. Please try it again later.</string>
+    <string name="account_settings_oof_cancel">Without saving?</string>
+    <string name="account_settings_oof_cancel_summary">All the changes will be discard.</string>
+    <string name="account_settings_oof_save_fail">Unable to save</string>
+    <string name="account_settings_oof_save_fail_summary">Unable to save the settings to server.The server may be unavailable, or your auto-replies might have exceed the limit on the server,or your devices is in a wrong date or time.</string>
+    <string name="account_settings_oof_time_alert">It should be later than current time.</string>
+    <string name="no_application_response">Application has been disabled</string>
+    <string name="extension_choose_provider_title">Choose a mail provider</string>
+    <string name="not_add_more_recipients">"Can't add recipients over %1$d at one time."</string>
+    <string name="message_view_status_sdcard_not_enough">No enough space to save attachment into SD card.</string>
+    <string name="vip_emails_from_accounts_fmt">Emails from %d accounts</string>
+    <string name="notification_multiple_new_vip_messages_fmt">%1$d new VIP emails</string>
+    <string name="message_body_too_large">"Can't load whole content due to message was too large."</string>
+    <string name="cannot_move_multiple_mailbox_toast">Some emails are in process of moving, please try again later.</string>
+    <string name="certificate_request_ssl">Client certificate must use security connection.</string>
+    <string name="auto_clear_cache_title">Clear cache automatically</string>
+    <string name="auto_clear_cache_description">Clear locally cached attachments regularly</string>
+    <string name="edit_quoted_dialog_title">Maximum characters</string>
+    <string name="edit_quoted_not_append_all">Maximum number of characters reached. Some of the old content will be lost, continue?</string>
+    <string name="single_message_view_attachment_saved">Attachment saved to %s</string>
+    <string name="choose_attachment_dialog_title">Choose attachment</string>
+    <string name="message_compose_error_invalid_email">Some email addresses are invalid.</string>
+    <string name="permission_read_attachment_label">Read email attachments</string>
+    <string name="permission_read_attachment_desc">Allows the app to read your email attachments.</string>
+    <string name="permission_access_provider_label">Access email provider data</string>
+    <string name="permission_access_provider_desc">Allows the app to access your email database, including received messages, sent messages, usernames, and passwords.</string>
+    <string name="okay_action">OK</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="create_action">Create new</string>
+    <string name="quick_responses_empty_view">No quick responses.</string>
+    <string name="account_settings_action">Account settings</string>
+    <string name="mailbox_name_display_inbox">Inbox</string>
+    <string name="mailbox_name_display_outbox">Outbox</string>
+    <string name="mailbox_name_display_drafts">Drafts</string>
+    <string name="mailbox_name_display_trash">Trash</string>
+    <string name="mailbox_name_display_sent">Sent</string>
+    <string name="mailbox_name_display_junk">Junk</string>
+    <string name="mailbox_name_display_starred">Starred</string>
+    <string name="mailbox_name_display_unread">Unread</string>
+    <string name="debug_title">Debug</string>
+    <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
+    <string name="debug_enable_verbose_logging_label">Enable exchange logging?</string>
+    <string name="debug_enable_file_logging_label">Enable sd card logging?</string>
+    <string name="debug_clear_webview_cache">Clear WebView cache</string>
+    <string name="debug_clear_migration_state">Clear migration state</string>
+    <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
+    <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
+    <string name="mailbox_list_account_selector_combined_view">Combined view</string>
+    <string name="message_compose_fwd_header_fmt">"
+
+-------- Original Message --------
+Subject: %1$s
+From: %2$s
+To: %3$s
+CC: %4$s
+
+"</string>
+    <string name="message_compose_insert_quick_response_list_title">Insert quick response</string>
+    <string name="message_compose_insert_quick_response_menu_title">Insert quick response</string>
+    <string name="message_view_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
+    <string name="message_decode_error">There was an error while decoding the message.</string>
+    <string name="forward_download_failed_ticker">"Couldn't forward one or more attachments."</string>
+    <string name="forward_download_failed_title">Attachment not forwarded</string>
+    <string name="login_failed_ticker">%s signin unsuccessful.</string>
+    <string name="login_failed_title">"Couldn't sign in"</string>
+    <string name="account_setup_basics_title">Account setup</string>
+    <string name="oauth_authentication_title">Requesting authorization</string>
+    <string name="sign_in_title">Sign in</string>
+    <string name="oauth_error_description">Unable to authenticate</string>
+    <string name="password_warning_label">Email address or password are incorrect</string>
+    <string name="email_confirmation_label">Email address:</string>
+    <string name="account_setup_basics_headline">Email account</string>
+    <string name="accounts_welcome">You can set up your account in just a few steps.</string>
+    <string name="account_setup_basics_email_label">Email address</string>
+    <string name="or_label">OR</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="account_setup_basics_password_label">PASSWORD</string>
+    <string name="password_hint">Password</string>
+    <string name="signed_in_with_service_label">Signed in with %s</string>
+    <string name="authentication_label">AUTHENTICATION</string>
+    <string name="add_authentication_label">Add authentication</string>
+    <string name="clear_authentication_label">Clear authentication</string>
+    <string name="account_setup_basics_manual_setup_action">Manual setup</string>
+    <string name="account_setup_username_password_toast">Type a valid email address and password.</string>
+    <string name="account_duplicate_dlg_title">Duplicate account</string>
+    <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
+    <string name="account_password_spaces_error">"This password starts or ends with one or more space characters. Many servers don't support passwords with spaces."</string>
+    <string name="account_setup_check_settings_retr_info_msg">Retrieving account information…</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Validating server settings…</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Validating smtp settings…</string>
+    <string name="account_setup_creating_account_msg">Creating account…</string>
+    <string name="account_setup_ab_headline">Confirm account type</string>
+    <string name="account_setup_ab_instructions_format">You indicated %1$s uses %2$s, but the account may use %3$s</string>
+    <string name="account_setup_names_headline">Your account is set up and email is on its way!</string>
+    <string name="account_setup_names_account_name_label">Give this account a name (optional)</string>
+    <string name="account_setup_names_user_name_label">Your name (displayed on outgoing messages)</string>
+    <string name="account_setup_account_type_headline">Account type</string>
+    <string name="account_setup_account_type_instructions">What type of account is this?</string>
+    <string name="account_setup_incoming_headline">Incoming server settings</string>
+    <string name="account_setup_incoming_username_label">USERNAME</string>
+    <string name="account_setup_incoming_password_label">PASSWORD</string>
+    <string name="account_setup_password_subheading">Password</string>
+    <string name="account_setup_incoming_server_label">SERVER</string>
+    <string name="account_setup_incoming_port_label">PORT</string>
+    <string name="account_setup_incoming_security_label">SECURITY TYPE</string>
+    <string name="account_setup_incoming_security_none_label">None</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accept all certificates)</string>
+    <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Accept all certificates)</string>
+    <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
+    <string name="account_setup_incoming_delete_policy_label">Delete email from server</string>
+    <string name="account_setup_incoming_delete_policy_never_label">Never</string>
+    <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Inbox</string>
+    <string name="account_setup_incoming_imap_path_prefix_label">IMAP path prefix</string>
+    <string name="account_setup_incoming_imap_path_prefix_hint">Optional</string>
+    <string name="account_setup_outgoing_headline">Outgoing server settings</string>
+    <string name="account_setup_outgoing_smtp_server_label">SMTP SERVER</string>
+    <string name="account_setup_outgoing_port_label">PORT</string>
+    <string name="account_setup_outgoing_security_label">SECURITY TYPE</string>
+    <string name="account_setup_outgoing_require_login_label">Require signin</string>
+    <string name="account_setup_outgoing_username_label">USERNAME</string>
+    <string name="account_setup_exchange_certificate_title">CLIENT CERTIFICATE</string>
+    <string name="account_setup_exchange_select_certificate">Select</string>
+    <string name="account_setup_exchange_use_certificate">Use client certificate</string>
+    <string name="account_setup_exchange_remove_certificate">Remove</string>
+    <string name="account_setup_exchange_no_certificate">None</string>
+    <string name="account_setup_exchange_device_id_label">MOBILE DEVICE ID</string>
+    <string name="account_setup_options_headline">Account options</string>
+    <string name="account_setup_options_mail_check_frequency_label">Sync frequency:</string>
+    <string name="account_setup_options_mail_check_frequency_never">Never</string>
+    <string name="account_setup_options_mail_check_frequency_push">Automatic (Push)</string>
+    <string name="account_setup_options_mail_check_frequency_5min">Every 5 minutes</string>
+    <string name="account_setup_options_mail_check_frequency_10min">Every 10 minutes</string>
+    <string name="account_setup_options_mail_check_frequency_15min">Every 15 minutes</string>
+    <string name="account_setup_options_mail_check_frequency_30min">Every 30 minutes</string>
+    <string name="account_setup_options_mail_check_frequency_1hour">Every hour</string>
+    <string name="account_setup_options_notify_label">Notify me when email arrives</string>
+    <string name="account_setup_options_sync_contacts_label">Sync contacts from this account</string>
+    <string name="account_setup_options_sync_calendar_label">Sync calendar from this account</string>
+    <string name="account_setup_options_sync_email_label">Sync email from this account</string>
+    <string name="account_setup_options_background_attachments_label">Automatically download attachments when connected to Wi-Fi</string>
+    <string name="account_setup_failed_dlg_title">"Couldn't finish"</string>
+    <string name="account_setup_options_mail_window_label">Sync emails from</string>
+    <string name="account_setup_options_mail_window_auto">Automatic</string>
+    <string name="account_setup_options_mail_window_1day">Last day</string>
+    <string name="account_setup_options_mail_window_3days">Last three days</string>
+    <string name="account_setup_options_mail_window_1week">Last week</string>
+    <string name="account_setup_options_mail_window_2weeks">Last two weeks</string>
+    <string name="account_setup_options_mail_window_1month">Last month</string>
+    <string name="account_setup_options_mail_window_all">All</string>
+    <string name="account_setup_options_mail_window_default">Use account default</string>
+    <string name="account_setup_failed_dlg_auth_message">Username or password is incorrect.</string>
+    <string name="account_setup_autodiscover_dlg_authfail_title">Problem with account setup</string>
+    <string name="account_setup_autodiscover_dlg_authfail_message">Confirm username, password, and account settings are correct.</string>
+    <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
+(%s)"</string>
+    <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
+    <string name="account_setup_failed_certificate_inaccessible">The certificate is invalid or inaccessible.</string>
+    <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password, then try again.</string>
+    <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
+(%s)"</string>
+    <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
+    <string name="account_setup_failed_auth_required">"Authentication methods aren't supported by server."</string>
+    <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
+    <string name="account_setup_failed_ioerror">"Couldn't open connection to server."</string>
+    <string name="account_setup_failed_protocol_unsupported">"You typed an incorrect server address or the server requires a protocol version that Email doesn't support."</string>
+    <string name="account_setup_failed_access_denied">"You don't have permission to sync with this server. Contact your server's administrator for more information."</string>
+    <string name="account_setup_security_required_title">Remote security administration</string>
+    <string name="account_setup_security_policies_required_fmt">The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account?</string>
+    <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including: %s"</string>
+    <string name="disable_admin_warning">"WARNING: Deactivating the Email app's authority to administer your device will delete all email accounts that require it, along with their email, contacts, calendar events, and other data."</string>
+    <string name="account_security_dialog_title">Security update</string>
+    <string name="account_security_dialog_content_fmt">%s requires that you update your security settings.</string>
+    <string name="security_unsupported_ticker_fmt">"Account \"%s\" can't be synced due to security requirements."</string>
+    <string name="security_needed_ticker_fmt">Account \"%s\" requires security settings update.</string>
+    <string name="security_changed_ticker_fmt">Account \"%s\" changed its security settings; no user action is required.</string>
+    <string name="security_notification_content_update_title">Security update required</string>
+    <string name="security_notification_content_change_title">Security policies have changed</string>
+    <string name="security_notification_content_unsupported_title">"Security policies can't be met"</string>
+    <string name="account_security_title">Device security</string>
+    <string name="account_security_policy_explanation_fmt">The server %s requires that you allow it to remotely control some security features of your Android device.</string>
+    <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
+    <string name="password_expire_warning_ticker_fmt">\"%s\" requires that you change your lock screen PIN or password.</string>
+    <string name="password_expire_warning_content_title">Lock screen password expiring</string>
+    <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
+    <string name="password_expired_content_title">Lock screen password expired</string>
+    <string name="password_expire_warning_dialog_title">Lock screen password expiring</string>
+    <string name="password_expire_warning_dialog_content_fmt">You need to change your lock screen PIN or password soon, or the data for %s will be erased. Do you want to change it now?</string>
+    <string name="password_expired_dialog_title">Lock screen password expired</string>
+    <string name="password_expired_dialog_content_fmt">The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Do you want to change it now?</string>
+    <string name="account_settings_exit_server_settings">Discard unsaved changes?</string>
+    <string name="account_settings_background_attachments_label">Download attachments</string>
+    <string name="account_settings_background_attachments_summary">Auto-download attachments to recent messages via Wi-Fi</string>
+    <string name="account_settings_notify_label">Email notifications</string>
+    <string name="account_settings_summary">Sync frequency, notifications, etc.</string>
+    <string name="account_settings_notify_summary">Send notification when email arrives</string>
+    <string name="account_settings_mail_check_frequency_label">Sync frequency</string>
+    <string name="account_settings_incoming_label">Incoming settings</string>
+    <string name="account_settings_incoming_summary">Username, password, and other incoming server settings</string>
+    <string name="account_settings_outgoing_label">Outgoing settings</string>
+    <string name="account_settings_outgoing_summary">Username, password, and other outgoing server settings</string>
+    <string name="account_settings_enforced_label">Policies enforced</string>
+    <string name="account_settings_enforced_summary">None</string>
+    <string name="account_settings_unsupported_label">Unsupported policies</string>
+    <string name="account_settings_unsupported_summary">None</string>
+    <string name="account_settings_retry_label">Attempt sync</string>
+    <string name="account_settings_retry_summary">Touch here to sync this account</string>
+    <string name="account_settings_description_label">Account name</string>
+    <string name="account_settings_name_label">Your name</string>
+    <string name="account_settings_edit_quick_responses_label">Quick responses</string>
+    <string name="account_settings_edit_quick_responses_summary">Edit text that you frequently insert when composing email</string>
+    <string name="account_settings_notifications">Notification settings</string>
+    <string name="account_settings_data_usage">Data usage</string>
+    <string name="account_settings_policies">Security policies</string>
+    <string name="system_folders_title">System folders</string>
+    <string name="system_folders_trash_title">Trash folder</string>
+    <string name="system_folders_trash_summary">"Select your server's trash folder"</string>
+    <string name="system_folders_trash_dlg">"Select your server's trash folder"</string>
+    <string name="system_folders_sent_title">Sent items folder</string>
+    <string name="system_folders_sent_summary">"Select your server's sent items folder"</string>
+    <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
+    <string name="edit_quick_response_dialog">Quick response</string>
+    <string name="save_action">Save</string>
+    <string name="account_settings_sync_contacts_enable">Sync contacts</string>
+    <string name="account_settings_sync_contacts_summary">Sync contacts for this account</string>
+    <string name="account_settings_sync_calendar_enable">Sync calendar</string>
+    <string name="account_settings_sync_calendar_summary">Sync calendar event for this account</string>
+    <string name="account_settings_sync_email_enable">Sync email</string>
+    <string name="account_settings_sync_email_summary">Sync email for this account</string>
+    <string name="label_notification_vibrate_title">Vibrate</string>
+    <string name="account_settings_ringtone">Choose ringtone</string>
+    <string name="account_settings_servers">Server settings</string>
+    <string name="mailbox_settings_activity_title">Sync options</string>
+    <string name="mailbox_settings_activity_title_with_mailbox">Sync options (%s)</string>
+    <string name="mailbox_settings_sync_enabled_label">Sync this folder</string>
+    <string name="mailbox_settings_sync_enabled_summary">Messages will download when connected</string>
+    <string name="mailbox_settings_mailbox_sync_window_label">Days of mail to sync</string>
+    <string name="provider_note_t_online">Before setting up this email account, visit the T-Online website and create a password for POP3 email access.</string>
+    <string name="exchange_eas_name">Exchange</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="system_account_create_failed">"Couldn't create the account. Try again."</string>
+    <string name="device_admin_label">Email</string>
+    <string name="device_admin_description">Enables server-specified security policies</string>
+    <string name="policy_dont_allow_camera">"Disallow use of the device's camera"</string>
+    <string name="policy_require_password">Require device password</string>
+    <string name="policy_password_history">Restrict the reuse of recent passwords</string>
+    <string name="policy_password_expiration">Require passwords to expire</string>
+    <string name="policy_screen_timeout">Require an idle device to lock its screen</string>
+    <string name="policy_calendar_age">Limit the number of calendar events synced</string>
+    <string name="policy_email_age">Limit the number of emails synced</string>
+    <string name="quick_1">Thanks!</string>
+    <string name="quick_2">Sounds good to me!</string>
+    <string name="quick_3">"I'll read this later and get back to you."</string>
+    <string name="quick_4">"Let's set up a meeting to discuss this."</string>
+    <string name="confirm_response">Sending response…</string>
+    <string name="imap_name">Personal (IMAP)</string>
+    <string name="pop3_name">Personal (POP3)</string>
+    <string name="trash_folder_selection_title">Select server trash folder for %s</string>
+    <string name="sent_folder_selection_title">Select server sent items folder for %s</string>
+    <string name="account_waiting_for_folders_msg">Loading folder list…</string>
+    <string name="email_feedback_uri" />
+    <string name="account_manager_type_exchange">com.android.exchange</string>
+    <string name="account_manager_type_pop3">com.android.email.pop3</string>
+    <string name="account_manager_type_imap">com.android.email</string>
+    <string name="account_manager_type_legacy_imap">com.android.email</string>
+    <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
+    <string name="intent_exchange_cert_action">com.android.email.EXCHANGE_REQUEST_CERT</string>
+    <string name="intent_exchange_package">com.android.exchange</string>
+    <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+    <string name="intent_force_create_email_account">com.android.email.FORCE_CREATE_ACCOUNT</string>
+    <string name="intent_create_email_account">com.android.email.CREATE_NEW_ACCOUNT</string>
+    <string name="authority_email_provider">com.android.email.provider</string>
+    <string name="authority_conversation_provider">com.android.email.conversation.provider</string>
+    <string name="authority_account_cache_provider">com.android.email.accountcache</string>
+    <string name="protocol_legacy_imap">imap</string>
+    <string name="protocol_imap">imap</string>
+    <string name="protocol_pop3">pop3</string>
+    <string name="protocol_eas">eas</string>
+    <string name="application_mime_type">application/email-ls</string>
+    <string name="no_quick_responses">None available</string>
+    <string name="reconciliation_compose_activity_name">com.android.email.activity.ComposeActivityEmail</string>
+    <string name="gmail_name">Gmail</string>
+    <string name="folder_sync_settings_pref_title">Folder sync settings</string>
+    <string name="message_view_status_attachment_not_saved">No enough space to save the attachment.</string>
+    <string name="attachment_save_status_switch_to_phone_storage">SD card is full,file will be saved in phone storage.</string>
+    <string name="attachment_save_status_back_to_sd_card">SD card is available，file will be kept in SD card.</string>
+    <string name="attachment_save_to_phone_storage">File will be saved to phone storage.</string>
+    <string name="attachment_save_to_sd_card">File will be saved to SD card.</string>
+    <string name="message_compose_display_name">%1$s and %2$d others</string>
+    <string name="account_delete_dlg_title">Remove account</string>
+    <string name="account_delete_dlg_instructions_fmt">The account \"%s\" will be removed from Email.</string>
+    <string name="account_settings_category_delete_account">Remove account</string>
+    <string name="account_settings_delete_account_label">Remove account</string>
+    <string name="authorization_failed">"Can't get permission to use this feature"</string>
+    <item type="string" name="APKTOOL_DUMMY_38e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_390">false</item>
+    <item type="string" name="APKTOOL_DUMMY_391">false</item>
+    <item type="string" name="APKTOOL_DUMMY_392">false</item>
+    <item type="string" name="APKTOOL_DUMMY_393">false</item>
+    <item type="string" name="APKTOOL_DUMMY_394">false</item>
+    <item type="string" name="APKTOOL_DUMMY_395">false</item>
+    <item type="string" name="APKTOOL_DUMMY_396">false</item>
+    <item type="string" name="APKTOOL_DUMMY_397">false</item>
+    <item type="string" name="APKTOOL_DUMMY_398">false</item>
+    <item type="string" name="APKTOOL_DUMMY_399">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ec">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ed">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_400">false</item>
+    <item type="string" name="APKTOOL_DUMMY_401">false</item>
+    <item type="string" name="APKTOOL_DUMMY_402">false</item>
+    <item type="string" name="APKTOOL_DUMMY_403">false</item>
+    <item type="string" name="APKTOOL_DUMMY_404">false</item>
+    <item type="string" name="APKTOOL_DUMMY_405">false</item>
+    <item type="string" name="APKTOOL_DUMMY_406">false</item>
+    <item type="string" name="APKTOOL_DUMMY_407">false</item>
+    <item type="string" name="APKTOOL_DUMMY_408">false</item>
+    <item type="string" name="APKTOOL_DUMMY_409">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_410">false</item>
+    <item type="string" name="APKTOOL_DUMMY_411">false</item>
+    <item type="string" name="APKTOOL_DUMMY_412">false</item>
+    <item type="string" name="APKTOOL_DUMMY_413">false</item>
+    <item type="string" name="APKTOOL_DUMMY_414">false</item>
+    <item type="string" name="APKTOOL_DUMMY_415">false</item>
+    <item type="string" name="APKTOOL_DUMMY_416">false</item>
+    <item type="string" name="APKTOOL_DUMMY_417">false</item>
+    <item type="string" name="APKTOOL_DUMMY_418">false</item>
+    <item type="string" name="APKTOOL_DUMMY_419">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_420">false</item>
+    <item type="string" name="APKTOOL_DUMMY_421">false</item>
+    <item type="string" name="APKTOOL_DUMMY_422">false</item>
+    <item type="string" name="APKTOOL_DUMMY_423">false</item>
+    <item type="string" name="APKTOOL_DUMMY_424">false</item>
+    <item type="string" name="APKTOOL_DUMMY_425">false</item>
+    <item type="string" name="APKTOOL_DUMMY_426">false</item>
+    <item type="string" name="APKTOOL_DUMMY_427">false</item>
+    <item type="string" name="APKTOOL_DUMMY_428">false</item>
+    <item type="string" name="APKTOOL_DUMMY_429">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_430">false</item>
+    <item type="string" name="APKTOOL_DUMMY_431">false</item>
+    <item type="string" name="APKTOOL_DUMMY_432">false</item>
+    <item type="string" name="APKTOOL_DUMMY_433">false</item>
+    <item type="string" name="APKTOOL_DUMMY_434">false</item>
+    <item type="string" name="APKTOOL_DUMMY_435">false</item>
+    <item type="string" name="APKTOOL_DUMMY_436">false</item>
+    <item type="string" name="APKTOOL_DUMMY_437">false</item>
+    <item type="string" name="APKTOOL_DUMMY_438">false</item>
+    <item type="string" name="APKTOOL_DUMMY_439">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_440">false</item>
+    <item type="string" name="APKTOOL_DUMMY_441">false</item>
+    <item type="string" name="APKTOOL_DUMMY_442">false</item>
+    <item type="string" name="APKTOOL_DUMMY_443">false</item>
+    <item type="string" name="APKTOOL_DUMMY_444">false</item>
+    <item type="string" name="APKTOOL_DUMMY_445">false</item>
+    <item type="string" name="APKTOOL_DUMMY_446">false</item>
+</resources>

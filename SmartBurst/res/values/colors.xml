@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue">#ff33e5b5</color>
+    <color name="plugin_text_normal">#ffffffff</color>
+    <color name="plugin_text_disable">#66ffffff</color>
+</resources>

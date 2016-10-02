@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="pro_guide_parent">false</item>
+    <item type="id" name="viewpager">false</item>
+    <item type="id" name="page_indicator">false</item>
+    <item type="id" name="pro_guide_hint_cb">false</item>
+    <item type="id" name="pro_guide_close_btn">false</item>
+</resources>

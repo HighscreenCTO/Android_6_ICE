@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Удалить выбранные файлы?</item>
+        <item quantity="one">Удалить выбранный файл?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="delete_system_selection">
+        <item quantity="other">Эти файлы будут удалены непосредственно с мобильного телефона, а не в корзину, удалить выбранное содержимое?</item>
+        <item quantity="one">Файл будет удален непосредственно с мобильного телефона, а не в корзину, удалить выбранное содержимое?</item>
+    </plurals>
+    <plurals name="trash_label_dayleft">
+        <item quantity="other">%1$d days left</item>
+        <item quantity="zero">%1$d day left</item>
+        <item quantity="one">%1$d day left</item>
+    </plurals>
+</resources>

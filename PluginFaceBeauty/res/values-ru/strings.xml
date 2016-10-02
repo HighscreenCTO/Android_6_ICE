@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ретушь</string>
+    <string name="app_label">Ретушь</string>
+    <string name="description">Украсить лицо</string>
+    <string name="fb_diy">DYI</string>
+    <string name="fb_diy_soften_skin_title">Размытие</string>
+    <string name="fb_diy_slender_face_title">Похудение</string>
+    <string name="fb_diy_enlarge_eye_title">Увеличитель</string>
+    <string name="fb_diy_whiten_title">Отбеливание</string>
+    <string name="fb_contrast">Контраст</string>
+</resources>

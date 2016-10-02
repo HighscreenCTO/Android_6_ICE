@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="freya_albumset_columns_port">3</integer>
+    <integer name="freya_album_columns_port">3</integer>
+    <integer name="freya_story_columns_port">3</integer>
+    <integer name="tidy_columns_port">1</integer>
+    <integer name="album_set_slot_glview_column">2</integer>
+    <integer name="share_dialog_grid_columns">3</integer>
+</resources>

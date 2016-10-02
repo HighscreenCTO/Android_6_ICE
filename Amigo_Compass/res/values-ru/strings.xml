@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компас</string>
+    <string name="pressure">Давление</string>
+    <string name="altitude">Высота над уровнем моря</string>
+    <string name="pressure_unit">hpa</string>
+    <string name="altitude_unit">мин</string>
+    <string name="north">С</string>
+    <string name="south">Ю</string>
+    <string name="east">В</string>
+    <string name="west">З</string>
+    <string name="northeast">С-В</string>
+    <string name="northwest">С-З</string>
+    <string name="southeast">Ю-В</string>
+    <string name="southwest">Ю-З</string>
+    <string name="degree">°</string>
+    <string name="noGps">Нет GPS</string>
+    <string name="gettingGps">Получение данных GPS...</string>
+    <string name="latitude">Широта:</string>
+    <string name="longitude">Долгота</string>
+    <string name="calibration">Калибровка компаса</string>
+    <string name="ok">Закрыть</string>
+    <string name="guide_content">Находясь в открытом пространстве, держите телефон горизонтально дисплеем вверх. Передвигайте его перед собой, вырисовывая в воздухе дважды цифру 8. Поверните телефон в вертикальное положение, дисплей перед вами. Передвигайте телефон перед собой, вырисовывая в воздухе дважды цифру 8.</string>
+    <string name="accuracy_calibration">Откалибруйте касания</string>
+    <string name="exit">Отмена</string>
+    <string name="help">Помощь</string>
+    <string name="magnetic_interference_one">Магнитное поле поблизости</string>
+    <string name="magnetic_interference_two">Перемещайте телефон в свободном направлении для калибровки компаса</string>
+    <string name="guide">Откалибровать следующим образом</string>
+    <string name="success">откалиброванно</string>
+    <string name="magnetic_interference_title">Калибровка</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScanModule</string>
+    <string name="app_label">Smart scan</string>
+    <string name="description">This is Smart Scan</string>
+    <string name="scan_result_title">Details</string>
+    <string name="scan_info">Align QR/Bar code within frame to scan.</string>
+    <string name="jump_browser_error">The Web app has been frozen.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="image_cut_line">#ffc69c6d</color>
+    <color name="image_cut_line_background">#ff151515</color>
+    <color name="image_cut_red_line">#ffff0000</color>
+    <color name="edit_page_status_bar">#ff4b9bd7</color>
+    <color name="edit_page_top_bar">#ff4fa3e3</color>
+    <color name="recongnize_transparent">#00000000</color>
+    <color name="recongnize_main_background">#fff0ece1</color>
+    <color name="recognize_edidtext">#ff897764</color>
+    <color name="recognize_flag_frame_color">#33f28e00</color>
+    <color name="recognize_recog_frame">#66ff9000</color>
+    <color name="recognize_recog_frame_flag_line">#ff099aff</color>
+    <color name="default_text_hint_color">#ff929292</color>
+    <color name="default_text_color">#ff525252</color>
+</resources>

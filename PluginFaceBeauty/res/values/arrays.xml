@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fb_diy_icons">
+        <item>@drawable/fb_diy_soften_skin_icon</item>
+        <item>@drawable/fb_diy_whiten_icon</item>
+        <item>@drawable/fb_diy_slender_face_icon</item>
+        <item>@drawable/fb_diy_enlarge_eye_icon</item>
+    </array>
+    <string-array name="fb_diy_titles">
+        <item>@string/fb_diy_soften_skin_title</item>
+        <item>@string/fb_diy_whiten_title</item>
+        <item>@string/fb_diy_slender_face_title</item>
+        <item>@string/fb_diy_enlarge_eye_title</item>
+    </string-array>
+    <string-array name="fb_diy_names">
+        <item>soften_skin</item>
+        <item>skin_bright</item>
+        <item>slender_face</item>
+        <item>enlarge_eye</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="pano_ui_container">false</item>
+    <item type="id" name="pano_thumbnail">false</item>
+    <item type="id" name="pano_img_preview">false</item>
+    <item type="id" name="pano_left_arrow">false</item>
+    <item type="id" name="pano_right_arrow">false</item>
+    <item type="id" name="pano_tips_tv">false</item>
+</resources>

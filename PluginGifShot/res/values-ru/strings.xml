@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GifShotModule</string>
+    <string name="app_description">Это GIF файл</string>
+    <string name="app_label">GIF</string>
+    <string name="gif_capture_back">Назад</string>
+    <string name="gif_capture_save_success">Сохранен</string>
+    <string name="module_hold_camera">Не трясти объективом во время съемки</string>
+    <string name="module_shot_notice">Не двигать во время съемки</string>
+    <string name="pro_indication_close">Закрыть</string>
+    <string name="pro_indication">Не показывать снова</string>
+    <string name="pro_guide_info">Съемка нескольких снимков, чтобы сформировать простую анимацию</string>
+    <string name="gif_save_slow">Нормальный</string>
+    <string name="gif_save_quick">3X</string>
+    <string name="gif_dialog_title">Размер изображения</string>
+    <string name="gif_dialog_ok">OK</string>
+    <string name="gif_dialog_cancel">Отмена</string>
+</resources>

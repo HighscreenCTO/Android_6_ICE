@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="zzzzz_gn_themecombine" />
+    <string-array name="oversea_system_app">
+        <item>com.android.browser</item>
+        <item>com.android.calendar</item>
+        <item>com.mediatek.camera</item>
+        <item>com.android.contacts</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.email</item>
+        <item>com.android.mms</item>
+        <item>com.android.music</item>
+        <item>com.android.settings</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.android.calculator2</item>
+        <item>com.mediatek.FMRadio</item>
+        <item>com.cooliris.media</item>
+        <item>jlzn.com.android.appmanager</item>
+        <item>jlzn.com.android.compass</item>
+        <item>gn.com.android.filemanager</item>
+        <item>gn.com.android.firewall</item>
+        <item>gn.com.android.theme</item>
+        <item>com.gionee.weather</item>
+        <item>com.android.quicksearchbox</item>
+        <item>com.mediatek.StkSelection</item>
+        <item>com.mediatek.wifip2pwizardy</item>
+        <item>com.mediatek.filemanager</item>
+        <item>com.android.camera</item>
+        <item>com.android.gallery3d</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.gionee.change</item>
+        <item>com.coolwind.weather</item>
+        <item>com.gionee.account</item>
+        <item>gn.com.voice</item>
+        <item>com.gionee.flashlight</item>
+        <item>com.gionee.note</item>
+        <item>com.gionee.launcher</item>
+        <item>com.gionee.client</item>
+    </string-array>
+    <string-array name="domestic_system_app">
+        <item>com.android.browser</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>jlzn.com.android.compass</item>
+        <item>com.android.calendar</item>
+        <item>com.mediatek.camera</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.email</item>
+        <item>com.android.music</item>
+        <item>com.android.settings</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.mediatek.FMRadio</item>
+        <item>com.android.calculator2</item>
+        <item>com.cooliris.media</item>
+        <item>com.android.gallery</item>
+        <item>jlzn.com.android.appmanager</item>
+        <item>gn.com.android.firewall</item>
+        <item>gn.com.android.filemanager</item>
+        <item>com.mediatek.bluetooth</item>
+        <item>com.android.quicksearchbox</item>
+        <item>com.mediatek.StkSelection</item>
+        <item>gn.com.android.theme</item>
+        <item>com.mediatek.wifip2pwizardy</item>
+        <item>com.mediatek.filemanager</item>
+        <item>com.android.camera</item>
+        <item>com.android.gallery3d</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.gionee.filemanager</item>
+        <item>gn.com.android.appmanager</item>
+        <item>gn.com.android.update</item>
+        <item>gn.com.android.customerserver</item>
+        <item>com.uim</item>
+        <item>com.gionee.note</item>
+        <item>com.gionee.flashlight</item>
+        <item>gn.com.voice</item>
+        <item>com.gionee.change</item>
+        <item>com.coolwind.weather</item>
+        <item>com.gionee.account</item>
+        <item>com.gionee.launcher</item>
+        <item>com.gionee.note</item>
+        <item>com.gionee.flashlight</item>
+        <item>gn.com.voice</item>
+        <item>com.gionee.change</item>
+        <item>com.coolwind.weather</item>
+        <item>com.gionee.account</item>
+        <item>com.gionee.client</item>
+        <item>com.android.stk</item>
+        <item>com.android.stk2</item>
+        <item>com.gionee.anti.stolen</item>
+        <item>gn.com.android.gamehall</item>
+        <item>com.android.gionee.clean</item>
+        <item>com.gionee.gnservice</item>
+        <item>org.zywx.wbpalmstar.widgetone.uex11162977777</item>
+        <item>com.chaozh.iReaderFree15</item>
+        <item>cn.jj</item>
+        <item>com.tencent.mtt</item>
+        <item>com.UCMobile</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.baidu.searchbox_gionee</item>
+        <item>com.ting.mp3.oemc.android</item>
+        <item>org.cocos2dx.FishGame</item>
+        <item>org.cocos2dx.FishingJoy2</item>
+        <item>com.vancl.activity</item>
+        <item>com.mango.sanguo15.douwan</item>
+        <item>com.zeptolab.ctr.ads.chinese.game</item>
+        <item>gts.wackyduck.storm.jl.builtin</item>
+        <item>com.mas.wawagame.KuwalordJL</item>
+        <item>cn.kuwo.player</item>
+        <item>com.mt.mtxx.mtxx</item>
+        <item>com.mjiudian.hoteldroidg</item>
+        <item>com.gionee.aora.market</item>
+        <item>com.qiyi.video</item>
+        <item>com.itrends</item>
+        <item>com.bookshelf.ui</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.tencent.qqpimsecure</item>
+        <item>com.ophone.reader.ui</item>
+        <item>com.sohu.sohuvideoviewer</item>
+        <item>com.sohu.newsclient</item>
+        <item>com.gn.munion.apk</item>
+        <item>com.tencent.news</item>
+        <item>com.tmall.wireless</item>
+        <item>com.netease.newsreader.activity</item>
+        <item>com.sina.weibo</item>
+        <item>com.tencent.mm</item>
+        <item>com.chaozh.iReaderGionee</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.zeptolab.ctr.ads.chinese.gamebase</item>
+        <item>cn.wps.moffice_eng</item>
+        <item>com.zeptolab.ctr.ads.chinese.chinaunicom</item>
+        <item>com.gionee.ringtone</item>
+        <item>com.gionee.video</item>
+        <item>com.gionee.gps</item>
+        <item>com.android.gionee.nfctag</item>
+        <item>com.baidu.baidulife</item>
+        <item>com.soco.veggies2HD_gioneeIN</item>
+        <item>com.glu.ewarriors2</item>
+        <item>com.popcap.pvz2cthdjl</item>
+        <item>keylink.com.game.plane.client</item>
+        <item>com.google.android.gms</item>
+        <item>com.taobao.taobao</item>
+        <item>com.wanjiquan</item>
+    </string-array>
+    <string-array name="gn_entries_list_photo_options">
+        <item>Colorful</item>
+        <item>Hide</item>
+    </string-array>
+    <string-array name="gn_entryvalues_list_photo_options">
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="gn_entries_listitem_onclick_options">
+        <item>Show details</item>
+        <item>Dial directly</item>
+    </string-array>
+    <string-array name="gn_entryvalues_listitem_onclick_options">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="gn_add_block_alert_items">
+        <item>Choose from call log</item>
+        <item>Choose from message log</item>
+        <item>Choose a contact</item>
+        <item>Add phone number</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Copy number</item>
+        <item>Edit before dial</item>
+        <item>Add to blacklist</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options_gi">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Copy number</item>
+        <item>Edit before dial</item>
+        <item>Add to blacklist</item>
+        <item>Send number</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options2">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Copy number</item>
+        <item>Edit before dial</item>
+        <item>Delete to blacklist</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options_with_tag">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Tag</item>
+        <item>Copy number</item>
+        <item>Edit before dial</item>
+        <item>Add to blacklist</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options_with_tag2">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Tag</item>
+        <item>Copy number</item>
+        <item>Edit before dial</item>
+        <item>Delete to blacklist</item>
+    </string-array>
+    <string-array name="gn_call_log_item_longclick_options_unknow">
+        <item>Delete call log</item>
+    </string-array>
+    <string-array name="gn_tone_listitem_onclick_options">
+        <item>Default</item>
+        <item>Piano</item>
+        <item>Flute</item>
+        <item>Guzheng</item>
+        <item>Violin</item>
+    </string-array>
+    <string-array name="gn_tone_entryvalues_listitem_onclick_options">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="gn_tag_types">
+        <item>Promote</item>
+        <item>Bootie Call</item>
+        <item>Fraud</item>
+        <item>Express</item>
+        <item>Take-away</item>
+        <item>Agency</item>
+        <item>Insurance</item>
+    </string-array>
+    <string-array name="gn_tag_types_check">
+        <item>推销</item>
+        <item>骚扰</item>
+        <item>诈骗</item>
+        <item>快递</item>
+        <item>外卖</item>
+        <item>中介</item>
+        <item>保险</item>
+        <item>Promote</item>
+        <item>Bootie Call</item>
+        <item>Fraud</item>
+        <item>Express</item>
+        <item>Take-away</item>
+        <item>Agency</item>
+        <item>Insurance</item>
+    </string-array>
+    <string-array name="gn_detail_call_log_item_longclick">
+        <item>Delete call log</item>
+        <item>Add to privacy</item>
+    </string-array>
+    <string-array name="gn_detail_call_log_item_longclick_privacy">
+        <item>Delete call log</item>
+        <item>Remove from privacy</item>
+    </string-array>
+    <string-array name="gn_wallet_old_uri_link">
+        <item>http://wallet.gionee.com:8088/gionee-wallet/jsp/phoneCharge/phoneCharge.html?req_sys=0008</item>
+        <item>http://wallet.gionee.com:8088/gionee-wallet/jsp/flow/pay.html?req_sys=0008]</item>
+        <item>2</item>
+        <item>http://waimai.baidu.com/mobile/waimai?qt=shoplist</item>
+        <item>http://m.maoyan.com/?f=nohd&amp;f=nobanner&amp;utm_source=jinliqb</item>
+        <item>http://touch.qunar.com/h5/train/?bd_source=jlqb</item>
+        <item>http://touch.qunar.com/h5/hotel/hotellist?bd_source=jlqb</item>
+        <item>http://touch.qunar.com/h5/flight/?bd_source=jlqb</item>
+        <item>6</item>
+        <item>5</item>
+        <item>7</item>
+        <item>http://wap.cx580.com/illegal?user_from=jinli2015</item>
+    </string-array>
+    <string-array name="gn_wallet_uri_link">
+        <item>http://wallet.gionee.com:8088/gionee-wallet/walletRedirect.do?req_sys=0014&amp;trans_code=115001&amp;&amp;service_id=00000040</item>
+        <item>http://wallet.gionee.com:8088/gionee-wallet/walletRedirect.do?req_sys=0014&amp;trans_code=115001&amp;service_id=00000056</item>
+        <item>2</item>
+        <item>http://wallet.gionee.com:8088/gionee-wallet/walletRedirect.do?req_sys=0014&amp;trans_code=115001&amp;service_id=00000058</item>
+        <item>http://wallet.gionee.com:8088/gionee-wallet/walletRedirect.do?req_sys=0014&amp;trans_code=115001&amp;service_id=00000042</item>
+        <item>6</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="gn_wallet_uri_link_name">
+        <item>话费充值</item>
+        <item>流量充值</item>
+        <item>快递查询</item>
+        <item>火车票</item>
+        <item>订机票</item>
+        <item>打车</item>
+        <item>代驾服务</item>
+        <item>查违章</item>
+    </string-array>
+    <string-array name="gn_encryption_options">
+        <item>Private contacts</item>
+        <item>Private messages</item>
+        <item>Private call log</item>
+        <item>Private album</item>
+        <item>Private software</item>
+        <item>Settings</item>
+    </string-array>
+    <string-array name="gn_private_call_log_item_longclick_options_tag">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Tag</item>
+        <item>Copy number</item>
+        <item>Decrypt calls</item>
+        <item>Add to blacklist</item>
+        <item>Edit before dial</item>
+    </string-array>
+    <string-array name="gn_private_call_log_item_longclick_options">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Copy number</item>
+        <item>Decrypt calls</item>
+        <item>Add to blacklist</item>
+        <item>Edit before dial</item>
+    </string-array>
+    <string-array name="gn_private_call_log_item_longclick_options_deleteblocklist_tag">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Tag</item>
+        <item>Copy number</item>
+        <item>Decrypt calls</item>
+        <item>Delete to blacklist</item>
+        <item>Edit before dial</item>
+    </string-array>
+    <string-array name="gn_private_call_log_item_longclick_deleteblocklist_options">
+        <item>Send message</item>
+        <item>Delete call log</item>
+        <item>Copy number</item>
+        <item>Decrypt calls</item>
+        <item>Delete to blacklist</item>
+        <item>Edit before dial</item>
+    </string-array>
+    <string-array name="gn_call_log_type">
+        <item>All calls</item>
+        <item>Outgoing calls</item>
+        <item>Received calls</item>
+        <item>Missed calls</item>
+    </string-array>
+    <string-array name="gn_call_log_type_empty">
+        <item>No calls</item>
+        <item>No outgoing calls</item>
+        <item>No received calls</item>
+        <item>No missed calls</item>
+    </string-array>
+    <string-array name="gn_gionee_number">
+        <item>4007796666</item>
+        <item>076982781000</item>
+        <item>076982782000</item>
+        <item>076982784000</item>
+        <item>076982785000</item>
+        <item>076982786000</item>
+        <item>076982787000</item>
+    </string-array>
+    <string-array name="gn_alphbet_index">
+        <item>★</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_qm">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_fly">
+        <item>\#</item>
+        <item>A</item>
+        <item>C</item>
+        <item>E</item>
+        <item>G</item>
+        <item>I</item>
+        <item>K</item>
+        <item>M</item>
+        <item>O</item>
+        <item>R</item>
+        <item>T</item>
+        <item>V</item>
+        <item>X</item>
+        <item>Z</item>
+        <item>А</item>
+        <item>В</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>И</item>
+        <item>М</item>
+        <item>П</item>
+        <item>Ф</item>
+        <item>Ц</item>
+        <item>Ш</item>
+        <item>Ы</item>
+        <item>Э</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_vobis">
+        <item>А</item>
+        <item>В</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>И</item>
+        <item>М</item>
+        <item>П</item>
+        <item>Ф</item>
+        <item>Ц</item>
+        <item>Ш</item>
+        <item>Ы</item>
+        <item>Э</item>
+        <item>Я</item>
+        <item>\#</item>
+        <item>A</item>
+        <item>C</item>
+        <item>E</item>
+        <item>G</item>
+        <item>I</item>
+        <item>K</item>
+        <item>M</item>
+        <item>O</item>
+        <item>R</item>
+        <item>T</item>
+        <item>V</item>
+        <item>X</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_exp">
+        <item>\#</item>
+        <item>A</item>
+        <item>D</item>
+        <item>L</item>
+        <item>M</item>
+        <item>P</item>
+        <item>Z</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>Ф</item>
+        <item>Ш</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_lt">
+        <item>\#</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_kr">
+        <item>\#</item>
+        <item>ㄱ</item>
+        <item>ㄴ</item>
+        <item>ㄷ</item>
+        <item>ㄹ</item>
+        <item>ㅁ</item>
+        <item>ㅂ</item>
+        <item>ㅅ</item>
+        <item>ㅇ</item>
+        <item>ㅈ</item>
+        <item>ㅊ</item>
+        <item>ㅋ</item>
+        <item>ㅌ</item>
+        <item>ㅍ</item>
+        <item>ㅎ</item>
+        <item>ㄲ</item>
+        <item>ㄸ</item>
+        <item>ㅃ</item>
+        <item>ㅆ</item>
+        <item>ㅉ</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_ip">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+</resources>

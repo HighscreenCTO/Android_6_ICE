@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="amigo_config_maxResolverActivityColumns">3</integer>
+    <integer name="amigo_toolbar_item_padding_left_and_right">12</integer>
+    <integer name="amigo_shortAnimTime">200</integer>
+    <integer name="amigo_mediumAnimTime">250</integer>
+    <integer name="amigo_longAnimTime">500</integer>
+    <integer name="amigo_halfLargeAnimTime">400</integer>
+    <integer name="amigo_largeAnimTime">800</integer>
+    <integer name="amigo_startOffset">300</integer>
+    <integer name="amigo_preferences_left_pane_weight">4</integer>
+    <integer name="amigo_preferences_right_pane_weight">6</integer>
+    <integer name="amigo_preference_screen_header_scrollbarStyle">0x09000000</integer>
+    <integer name="amigo_preference_fragment_scrollbarStyle">0x09000000</integer>
+    <integer name="amigo_completion_Threshold">2</integer>
+    <integer name="amigo_disabled_alpha_animation_duration">100</integer>
+    <integer name="grid_column_num">3</integer>
+    <integer name="exit_and_enter_anim_time">200</integer>
+    <integer name="start_offset_time">100</integer>
+    <integer name="keep_time">500</integer>
+    <integer name="headview_textshow_maxsize">80</integer>
+</resources>

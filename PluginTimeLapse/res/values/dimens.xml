@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guide_parent_width">316.0dip</dimen>
+    <dimen name="guide_parent_height">308.0dip</dimen>
+    <dimen name="guide_parent_left_margin">23.0dip</dimen>
+    <dimen name="guide_parent_top_margin">68.0dip</dimen>
+    <dimen name="guide_close_btn_size">32.0dip</dimen>
+    <dimen name="guide_close_btn_top_margin">3.0dip</dimen>
+    <dimen name="guide_close_btn_right_margin">4.0dip</dimen>
+    <dimen name="guide_prompt_lr_margin">25.0dip</dimen>
+    <dimen name="guide_prompt_top_margin">24.0dip</dimen>
+    <dimen name="guide_prompt_bottom_margin">66.0dip</dimen>
+    <dimen name="guide_prompt_image_height">190.0dip</dimen>
+    <dimen name="guide_hint_cb_bottom_margin">9.0dip</dimen>
+    <dimen name="guide_hint_cb_text_size">12.0dip</dimen>
+    <dimen name="pro_guide_info_top_margin">14.0dip</dimen>
+</resources>

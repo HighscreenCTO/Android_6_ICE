@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Средство просмотра HTML</string>
+    <string name="str_permission_denied">Доступ запрещен. Вы можете изменить параметры в настройках и приложения.</string>
+</resources>

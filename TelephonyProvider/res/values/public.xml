@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher_phone" id="0x7f020000" />
+    <public type="mipmap" name="ic_launcher_phone" id="0x7f030000" />
+    <public type="xml" name="hbpcd_lookup_tables" id="0x7f040000" />
+    <public type="array" name="persist_apns_for_plmn" id="0x7f050002" />
+    <public type="array" name="APKTOOL_DUMMY_0" id="0x7f050000" />
+    <public type="array" name="APKTOOL_DUMMY_1" id="0x7f050001" />
+    <public type="string" name="app_label" id="0x7f060000" />
+    <public type="string" name="APKTOOL_DUMMY_1" id="0x7f060001" />
+</resources>

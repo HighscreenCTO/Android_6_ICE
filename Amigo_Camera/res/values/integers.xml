@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_video_recording_length">0</integer>
+    <integer name="dragged_item_fade_out_duration">150</integer>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <integer name="continuous_cap_num_indicator_shadow_size">3</integer>
+    <integer name="continuous_cap_num_indicator_shadow_radius">6</integer>
+</resources>

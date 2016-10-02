@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PolaroidModule</string>
+    <string name="app_label">Mood photo</string>
+    <string name="description">This is mood photo</string>
+    <string name="pro_indication">"Don't display again"</string>
+    <string name="pro_indication_close">Close</string>
+    <string name="pro_guide_info">Easy to shoot a good photo like Polaroid.</string>
+    <string name="edit_content_text">Write down your mood</string>
+    <string name="edit_content_text_max_length">The maximum length has been reached.</string>
+    <string name="icon_type_1">DroidSansFallbackFull.ttf</string>
+    <string name="icon_type_2">hyc1gjm.ttf</string>
+    <string name="icon_type_3">HYQingKongTiJ.ttf</string>
+    <string name="icon_type_4">hyg2gjm.ttf</string>
+    <string name="icon_type_5">HYShuaiXianTiW.ttf</string>
+</resources>

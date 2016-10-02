@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="gif_top_cover">false</item>
+    <item type="id" name="gif_bottom_cover">false</item>
+    <item type="id" name="gif_progress">false</item>
+    <item type="id" name="cal_cap_frame">false</item>
+    <item type="id" name="cal_cap_num">false</item>
+    <item type="id" name="git_choice_size">false</item>
+    <item type="id" name="gif_container">false</item>
+    <item type="id" name="gif_top_bar">false</item>
+    <item type="id" name="gif_btn_back">false</item>
+    <item type="id" name="gif_btn_save_all">false</item>
+    <item type="id" name="gif_player">false</item>
+    <item type="id" name="gif_cap_time">false</item>
+    <item type="id" name="gif_speed_seekbar">false</item>
+    <item type="id" name="pro_guide_parent">false</item>
+    <item type="id" name="pro_guide_close_btn">false</item>
+    <item type="id" name="pro_guide_prompt">false</item>
+    <item type="id" name="pro_guide_hint_cb">false</item>
+</resources>

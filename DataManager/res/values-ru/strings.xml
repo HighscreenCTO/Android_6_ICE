@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test">Сроки отправки</string>
+    <string name="app_name">Менеджер данных</string>
+    <string name="show_toast">Добро пожаловать в Gionee!</string>
+    <string name="show_toast_test">данные будут отправлены через одну минуту!</string>
+    <string name="minutes_later">минут спустя</string>
+    <string name="reset">Снять флажок отправления</string>
+</resources>

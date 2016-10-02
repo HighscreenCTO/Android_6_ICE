@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="amigosearchResultListItemHeight" format="dimension" />
+    <attr name="amigosearchViewEditQuery" format="reference" />
+    <attr name="amigosearchViewEditQueryBackground" format="reference" />
+    <attr name="amigoListItemStyleLevel1" format="reference" />
+    <attr name="amigoListItemStyleLevel2" format="reference" />
+    <attr name="pannelBackgroundColor" format="reference|color" />
+    <attr name="itemBackground" format="reference" />
+    <attr name="amigopaddingLeft" format="dimension" />
+    <attr name="amigopaddingTop" format="dimension" />
+    <attr name="amigopaddingRight" format="dimension" />
+    <attr name="amigopaddingBottom" format="dimension" />
+    <attr name="amigotextAppearance" format="reference" />
+    <attr name="amigopanelMenuListWidth" format="dimension" />
+    <attr name="amigolistPreferredItemPaddingStart" format="dimension" />
+    <attr name="amigolistPreferredItemPaddingEnd" format="dimension" />
+    <attr name="amigoitemTextAppearance" format="reference" />
+    <attr name="amigohorizontalDivider" format="reference" />
+    <attr name="amigoverticalDivider" format="reference" />
+    <attr name="amigoheaderBackground" format="reference|color" />
+    <attr name="amigoitemBackground" format="reference|color" />
+    <attr name="amigowindowAnimationStyle" format="reference" />
+    <attr name="amigoitemIconDisabledAlpha" format="float" />
+    <attr name="amigopreserveIconSpacing" format="boolean" />
+    <attr name="amigoEditModeLeftBtnTxt" format="string" />
+    <attr name="amigoEditModeRightBtnTxt" format="string" />
+    <attr name="amigoEditModeBtnTxtColor" format="reference|color" />
+    <attr name="amigoEditModeBackground" format="reference|color" />
+</resources>

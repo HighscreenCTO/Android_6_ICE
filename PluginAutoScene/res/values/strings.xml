@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoSceneSceneMode</string>
+    <string name="app_label">Smart scene</string>
+    <string name="description">auto to match scene.</string>
+    <string name="scene_mode_normal">Auto</string>
+    <string name="scene_mode_fogorflare">Fog/Flare</string>
+    <string name="scene_mode_hdr">HDR</string>
+    <string name="scene_mode_night">Night</string>
+</resources>

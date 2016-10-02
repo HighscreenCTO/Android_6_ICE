@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FloatingTouch</string>
+    <string name="gn_notification_title">Suspend button</string>
+    <string name="gn_notification_content">Tab to display again</string>
+    <string name="gn_notification_tickerText">Suspend button is hiding here!</string>
+    <string name="gn_notification_state">Suspend button</string>
+    <string name="gn_notification_info">\"Suspend button\" is running</string>
+    <string name="application_not_exist">The application does not exist</string>
+    <string name="invalable_assist">Other voice functions are being used，please try again later.</string>
+    <string name="gn_notification_title_qm">Quick button</string>
+    <string name="gn_notification_tickerText_qm">Quick button is hiding here!</string>
+    <string name="gn_notification_state_qm">Quick button</string>
+    <string name="gn_notification_info_qm">\"Quick button\" is running</string>
+    <string name="activity_title_size">Button size</string>
+    <string name="activity_title_transparency">Transparency</string>
+    <string name="activity_title_customization">Customization</string>
+    <string name="activity_title_customization_feature">Customization feature</string>
+    <string name="basic_feature">Basic feature</string>
+    <string name="customization_hint">Order &amp; Option</string>
+    <string name="open_app">Open app</string>
+    <string name="other_app_camera">Camera</string>
+    <string name="other_app_note">Notes</string>
+    <string name="other_app_music">Music</string>
+    <string name="other_app_other">Other app</string>
+    <string name="basic_feature_voice">VoiceAssistant</string>
+    <string name="basic_feature_single_hand">Single hand model</string>
+    <string name="basic_feature_lock">LockScreen</string>
+    <string name="basic_feature_home">Home page</string>
+    <string name="basic_feature_back">Back</string>
+    <string name="basic_feature_menu">Menu</string>
+</resources>

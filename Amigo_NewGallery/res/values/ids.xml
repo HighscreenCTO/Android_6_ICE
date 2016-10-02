@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="editorDirect" />
+    <item type="id" name="editorParametric" />
+    <item type="id" name="editorCurves" />
+    <item type="id" name="editorVignette" />
+    <item type="id" name="editorCrop" />
+    <item type="id" name="editorStraighten" />
+    <item type="id" name="activity_root_view" />
+    <item type="id" name="action_select_all" />
+    <item type="id" name="viewpager" />
+    <item type="id" name="action_share" />
+    <item type="id" name="action_plug" />
+    <item type="id" name="action_delete" />
+    <item type="id" name="action_delete_system" />
+    <item type="id" name="action_edit" />
+    <item type="id" name="action_slideshow" />
+    <item type="id" name="action_details" />
+    <item type="id" name="action_setas" />
+    <item type="id" name="action_setting" />
+    <item type="id" name="safe_action_recover" />
+    <item type="id" name="safe_action_encryption" />
+    <item type="id" name="safe_action_add" />
+    <item type="id" name="action_encrypt" />
+    <item type="id" name="action_copy" />
+    <item type="id" name="action_cut" />
+    <item type="id" name="action_tuya" />
+    <item type="id" name="action_move_to_other" />
+    <item type="id" name="action_move_out_other" />
+    <item type="id" name="action_rename" />
+    <item type="id" name="action_add_to_tidy" />
+    <item type="id" name="action_remove_from_tidy" />
+    <item type="id" name="action_delete_album" />
+    <item type="id" name="action_tidy_new_album" />
+    <item type="id" name="action_tidy_add_image" />
+    <item type="id" name="action_tidy_more" />
+    <item type="id" name="freya_action_bar_layout" />
+    <item type="id" name="freya_action_bar_head_layout" />
+    <item type="id" name="freya_action_bar_head_parent_layout" />
+    <item type="id" name="freya_action_bar_footer_layout" />
+    <item type="id" name="freya_action_bar_head_title_layout" />
+    <item type="id" name="freya_action_bar_head_tab_layout" />
+    <item type="id" name="freya_action_bar_list" />
+    <item type="id" name="freya_action_bar_item_more" />
+    <item type="id" name="freya_title_home" />
+    <item type="id" name="freya_title_title" />
+    <item type="id" name="freya_title_date" />
+    <item type="id" name="freya_title_time" />
+    <item type="id" name="freya_title_slideshow" />
+    <item type="id" name="freya_title_select_reverse" />
+    <item type="id" name="freya_title_create_new_folder" />
+    <item type="id" name="freya_float_bar_setting" />
+    <item type="id" name="freya_float_bar_safe_album" />
+    <item type="id" name="freya_lock_inner_point_wrong" />
+    <item type="id" name="freya_lock_outter_cicle_correct" />
+    <item type="id" name="freya_lock_outter_cicle_wrong" />
+    <item type="id" name="freya_title_private_space" />
+    <item type="id" name="extender_standard_title_rigth_id" />
+    <item type="id" name="plugin_copy" />
+    <item type="id" name="plugin_cut" />
+    <item type="id" name="action_recover_from_trash" />
+    <item type="id" name="action_delete_from_trash" />
+    <item type="id" name="action_delete_to_trash" />
+    <item type="id" name="action_privacy_add" />
+    <item type="id" name="action_privacy_decrypt" />
+    <item type="id" name="action_privacy_delete" />
+    <item type="id" name="action_privacy_crypt" />
+    <item type="id" name="tuya_id_head" />
+    <item type="id" name="tuya_id_content_panel" />
+    <item type="id" name="tuya_id_content" />
+    <item type="id" name="tuya_id_footer" />
+    <item type="id" name="tuya_id_drop_image" />
+    <item type="id" name="tuya_id_save_image" />
+    <item type="id" name="tuya_id_undo" />
+    <item type="id" name="tuya_id_redo" />
+    <item type="id" name="tuya_id_circle" />
+    <item type="id" name="tuya_id_rectangle" />
+    <item type="id" name="tuya_id_pathline" />
+    <item type="id" name="tuya_id_arrow" />
+    <item type="id" name="tuya_id_mosaic" />
+    <item type="id" name="tuya_id_mosaic_content" />
+    <item type="id" name="tuya_id_paint_size_1" />
+    <item type="id" name="tuya_id_paint_size_2" />
+    <item type="id" name="tuya_id_paint_size_3" />
+    <item type="id" name="tuya_id_paint_color_red" />
+    <item type="id" name="tuya_id_paint_color_yellow" />
+    <item type="id" name="tuya_id_paint_color_green" />
+    <item type="id" name="tuya_id_paint_color_blue" />
+    <item type="id" name="tuya_id_paint_color_while" />
+    <item type="id" name="tuya_id_drawing_select_panel" />
+    <item type="id" name="tuya_id_paint_size_select_panel" />
+    <item type="id" name="tuya_id_paint_color_select_panel" />
+    <item type="id" name="tuya_id_mosaic_blur_select_panel" />
+    <item type="id" name="tuya_id_mosaic_blur_select_bar" />
+    <item type="id" name="tidy_album_list">false</item>
+    <item type="id" name="tidy_album_selection_cancel">false</item>
+    <item type="id" name="tidy_album_selection_ok">false</item>
+    <item type="id" name="tidy_album_list_item_checkbox">false</item>
+    <item type="id" name="tidy_album_list_item_text">false</item>
+    <item type="id" name="amigo_checkbox_dialog_title">false</item>
+    <item type="id" name="amigo_checkbox_dialog_message">false</item>
+    <item type="id" name="amigo_checkbox_dialog_checkbox">false</item>
+    <item type="id" name="amigo_checkbox_dialog_cancel">false</item>
+    <item type="id" name="amigo_checkbox_dialog_ok">false</item>
+    <item type="id" name="amigo_confirm_dialog_id_title">false</item>
+    <item type="id" name="amigo_confirm_dialog_id_message">false</item>
+    <item type="id" name="amigo_confirm_dialog_id_cancel">false</item>
+    <item type="id" name="amigo_confirm_dialog_id_ok">false</item>
+    <item type="id" name="amigo_determinate_progress_dialog_id_message">false</item>
+    <item type="id" name="amigo_determinate_progress_dialog_id_progress">false</item>
+    <item type="id" name="amigo_determinate_progress_dialog_id_progressbar">false</item>
+    <item type="id" name="amigo_determinate_progress_dialog_id_cancel_ly">false</item>
+    <item type="id" name="amigo_determinate_progress_dialog_id_cancel">false</item>
+    <item type="id" name="amigo_indeterminate_progress_dialog_id_progressbar">false</item>
+    <item type="id" name="amigo_indeterminate_progress_dialog_id_message">false</item>
+    <item type="id" name="amigo_single_confirm_dialog_title">false</item>
+    <item type="id" name="amigo_single_confirm_dialog_message">false</item>
+    <item type="id" name="amigo_single_confirm_dialog_checkbox">false</item>
+    <item type="id" name="amigo_single_confirm_dialog_ok">false</item>
+    <item type="id" name="amigo_text_input_dialog_title">false</item>
+    <item type="id" name="amigo_text_input_dialog_input">false</item>
+    <item type="id" name="amigo_text_input_dialog_cancel">false</item>
+    <item type="id" name="amigo_text_input_dialog_ok">false</item>
+    <item type="id" name="gallery_app_info">false</item>
+    <item type="id" name="info_app_logo">false</item>
+    <item type="id" name="info_app_name">false</item>
+    <item type="id" name="info_app_version">false</item>
+    <item type="id" name="info_copyright">false</item>
+    <item type="id" name="app_setting_content">false</item>
+    <item type="id" name="picture_setting">false</item>
+    <item type="id" name="rotate_switch">false</item>
+    <item type="id" name="picture_scan_content_line1">false</item>
+    <item type="id" name="picture_scan_content_line2">false</item>
+    <item type="id" name="album_select">false</item>
+    <item type="id" name="cover_select">false</item>
+    <item type="id" name="others_setting">false</item>
+    <item type="id" name="trash_manager_id">false</item>
+    <item type="id" name="hide_folder_manager_id">false</item>
+    <item type="id" name="common_problems">false</item>
+    <item type="id" name="upgrade_app">false</item>
+    <item type="id" name="info_app_content">false</item>
+    <item type="id" name="mainView">false</item>
+    <item type="id" name="filtershow_main_panel">false</item>
+    <item type="id" name="crop_done">false</item>
+    <item type="id" name="cropView">false</item>
+    <item type="id" name="details_list">false</item>
+    <item type="id" name="details_position_button">false</item>
+    <item type="id" name="details_content">false</item>
+    <item type="id" name="details_list_title">false</item>
+    <item type="id" name="details_list_datetime">false</item>
+    <item type="id" name="details_list_location">false</item>
+    <item type="id" name="details_list_pixels">false</item>
+    <item type="id" name="details_list_size">false</item>
+    <item type="id" name="details_list_path">false</item>
+    <item type="id" name="details_list_exif_info">false</item>
+    <item type="id" name="details_list_aperture">false</item>
+    <item type="id" name="details_list_exposure">false</item>
+    <item type="id" name="details_list_focale">false</item>
+    <item type="id" name="details_list_iso">false</item>
+    <item type="id" name="standard_ly_title">false</item>
+    <item type="id" name="fb_new_feedback_btn">false</item>
+    <item type="id" name="fb_new_feedback_text_view">false</item>
+    <item type="id" name="question_0">false</item>
+    <item type="id" name="answer_0">false</item>
+    <item type="id" name="line_0">false</item>
+    <item type="id" name="question_1">false</item>
+    <item type="id" name="answer_1">false</item>
+    <item type="id" name="question_2">false</item>
+    <item type="id" name="answer_2">false</item>
+    <item type="id" name="question_3">false</item>
+    <item type="id" name="answer_3">false</item>
+    <item type="id" name="question_4">false</item>
+    <item type="id" name="answer_4">false</item>
+    <item type="id" name="question_5">false</item>
+    <item type="id" name="answer_5">false</item>
+    <item type="id" name="question_6">false</item>
+    <item type="id" name="answer_6">false</item>
+    <item type="id" name="line_6">false</item>
+    <item type="id" name="question_7">false</item>
+    <item type="id" name="answer_7">false</item>
+    <item type="id" name="note_7">false</item>
+    <item type="id" name="line_7">false</item>
+    <item type="id" name="question_8">false</item>
+    <item type="id" name="answer_8">false</item>
+    <item type="id" name="line_8">false</item>
+    <item type="id" name="question_9">false</item>
+    <item type="id" name="answer_9">false</item>
+    <item type="id" name="line_9">false</item>
+    <item type="id" name="last_line">false</item>
+    <item type="id" name="touch_feedback">false</item>
+    <item type="id" name="gn_fb_id_deleteViewPager">false</item>
+    <item type="id" name="fb_problem_content">false</item>
+    <item type="id" name="gn_fb_id_attach_count">false</item>
+    <item type="id" name="gn_fb_id_senddate">false</item>
+    <item type="id" name="gn_fb_id_replylist">false</item>
+    <item type="id" name="gn_fb_id_replyviewline">false</item>
+    <item type="id" name="gn_fb_id_replycontent">false</item>
+    <item type="id" name="gn_fb_id_reply_person">false</item>
+    <item type="id" name="gn_fb_id_replydate">false</item>
+    <item type="id" name="new_feedback_btn_id">false</item>
+    <item type="id" name="new_feedback_text_view_id">false</item>
+    <item type="id" name="gn_fb_id_recordlayout">false</item>
+    <item type="id" name="gn_fb_id_recordempty">false</item>
+    <item type="id" name="gn_fb_id_messageEditText">false</item>
+    <item type="id" name="gn_fb_id_addAttachImabeView">false</item>
+    <item type="id" name="gn_fb_id_contactEditText">false</item>
+    <item type="id" name="gn_fb_id_sendButton">false</item>
+    <item type="id" name="gn_fb_id_sendButton_expendtextView">false</item>
+    <item type="id" name="filtershow_drop">false</item>
+    <item type="id" name="filtershow_undoButton">false</item>
+    <item type="id" name="filtershow_redoButton">false</item>
+    <item type="id" name="filtershow_save">false</item>
+    <item type="id" name="subView">false</item>
+    <item type="id" name="filtershow_action_bar">false</item>
+    <item type="id" name="current_button_name">false</item>
+    <item type="id" name="filtershow_image_show">false</item>
+    <item type="id" name="editorContainer">false</item>
+    <item type="id" name="defaultImageShow">false</item>
+    <item type="id" name="category_panel_container">false</item>
+    <item type="id" name="bottom_panel_container">false</item>
+    <item type="id" name="categorySelectedIndicator">false</item>
+    <item type="id" name="basicEditor">false</item>
+    <item type="id" name="beautyShotButton">false</item>
+    <item type="id" name="fxButton">false</item>
+    <item type="id" name="editorButton">false</item>
+    <item type="id" name="enhanceButton">false</item>
+    <item type="id" name="listItems">false</item>
+    <item type="id" name="cancelFilter">false</item>
+    <item type="id" name="applyFilter">false</item>
+    <item type="id" name="control_area">false</item>
+    <item type="id" name="seekBar">false</item>
+    <item type="id" name="filtershow_splash">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="imageVignette">false</item>
+    <item type="id" name="freya_action_bar_showContainer">false</item>
+    <item type="id" name="freya_action_bar_listContainer">false</item>
+    <item type="id" name="freya_tab_layout">false</item>
+    <item type="id" name="gl_root_view">false</item>
+    <item type="id" name="gl_root_cover">false</item>
+    <item type="id" name="empty_container">false</item>
+    <item type="id" name="icon_empty_albumset">false</item>
+    <item type="id" name="tv_empty_albumset">false</item>
+    <item type="id" name="gn_id_fold_stage">false</item>
+    <item type="id" name="rename_title">false</item>
+    <item type="id" name="rename_text">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="ok">false</item>
+    <item type="id" name="grid_dialog_title">false</item>
+    <item type="id" name="grid_view">false</item>
+    <item type="id" name="freya_float_bar_camera">false</item>
+    <item type="id" name="guideline_private_tip_img">false</item>
+    <item type="id" name="guideline_private_tip_msg">false</item>
+    <item type="id" name="btn_exit">false</item>
+    <item type="id" name="freya_path_cancel">false</item>
+    <item type="id" name="freya_path_ok">false</item>
+    <item type="id" name="freya_path_number">false</item>
+    <item type="id" name="pressure_image">false</item>
+    <item type="id" name="pressure_menu">false</item>
+    <item type="id" name="pressure_delete">false</item>
+    <item type="id" name="pressure_encrypt">false</item>
+    <item type="id" name="pressure_beautify">false</item>
+    <item type="id" name="pressure_tuya">false</item>
+    <item type="id" name="pressure_share">false</item>
+    <item type="id" name="details_ok_button">false</item>
+    <item type="id" name="freya_private_title">false</item>
+    <item type="id" name="freya_private_camera">false</item>
+    <item type="id" name="freya_private_desktop">false</item>
+    <item type="id" name="privacy_add_numbers">false</item>
+    <item type="id" name="privacy_add_select_all">false</item>
+    <item type="id" name="privacy_add_cancel">false</item>
+    <item type="id" name="privacy_add_ok">false</item>
+    <item type="id" name="share_app_icon">false</item>
+    <item type="id" name="share_app_name">false</item>
+    <item type="id" name="action_tidy_more_share">false</item>
+    <item type="id" name="action_tidy_more_rename">false</item>
+    <item type="id" name="action_tidy_more_slideshow">false</item>
+    <item type="id" name="tu_ya_id_blur_icon">false</item>
+    <item type="id" name="action_show_on_map">false</item>
+    <item type="id" name="action_rename_file">false</item>
+</resources>

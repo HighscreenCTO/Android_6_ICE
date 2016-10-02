@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="message">false</item>
+    <item type="id" name="bluetooth_device_picker_fragment">false</item>
+    <item type="id" name="widget_frame">false</item>
+    <item type="id" name="deviceDetails">false</item>
+    <item type="id" name="bluetooth_pb_remember_choice">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="pin_values_hint">false</item>
+    <item type="id" name="alphanumeric_pin">false</item>
+    <item type="id" name="message_below_pin">false</item>
+    <item type="id" name="message_title">false</item>
+    <item type="id" name="message_name">false</item>
+    <item type="id" name="message_pin_title">false</item>
+    <item type="id" name="message_pin">false</item>
+    <item type="id" name="switch_bar">false</item>
+    <item type="id" name="main_content">false</item>
+    <item type="id" name="button_bar">false</item>
+    <item type="id" name="back_button">false</item>
+    <item type="id" name="skip_button">false</item>
+    <item type="id" name="next_button">false</item>
+    <item type="id" name="bt_dialog_custom">false</item>
+    <item type="id" name="buttons">false</item>
+    <item type="id" name="cancel_custom">false</item>
+    <item type="id" name="scan_custom">false</item>
+    <item type="id" name="edittext">false</item>
+    <item type="id" name="dock_audio_media_enable_cb">false</item>
+    <item type="id" name="iv_empty">false</item>
+    <item type="id" name="tv_empty">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="scanning_progress">false</item>
+    <item type="id" name="remember">false</item>
+    <item type="id" name="switch_text">false</item>
+    <item type="id" name="switch_widget">false</item>
+</resources>

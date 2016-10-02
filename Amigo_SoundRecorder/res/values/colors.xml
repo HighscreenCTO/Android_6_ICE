@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gn_action_mode_title_textcolor">#ffffffff</color>
+    <color name="gn_light_empty_textcolor">#33000000</color>
+    <color name="gn_action_bar_textcolor">#ffffffff</color>
+    <color name="gn_playing_paused_textcolor">#ff33b5e5</color>
+    <color name="timer_color">#ffffffff</color>
+    <color name="recorder_background_color">#ff101010</color>
+    <color name="setting_background_color">#fffdfdfd</color>
+    <color name="setting_list_item_color">#ff222222</color>
+    <color name="amigo_alert_dialog_title">#ff444444</color>
+    <color name="amigo_sound_circle_color_1">#fffff710</color>
+    <color name="amigo_sound_circle_color_2">#ffffade6</color>
+    <color name="amigo_sound_circle_color_3">#ff5eaba5</color>
+    <color name="amigo_sound_circle_color_4">#ff1376fe</color>
+    <color name="amigo_sound_circle_color_5">#fff2007d</color>
+    <color name="amigo_sound_circle_color_6">#ff55b3ff</color>
+    <color name="amigo_sound_circle_color_7">#ffe95eed</color>
+    <color name="amigo_sound_circle_color_8">#ffffd553</color>
+    <color name="amigo_sound_circle_color_9">#ff493cef</color>
+    <color name="amigo_sound_circle_color_10">#ffcb88ff</color>
+    <color name="pallet_color">#ffc92530</color>
+    <color name="file_list_title_color">#cc000000</color>
+    <color name="file_list_duration_color">#66000000</color>
+    <color name="action_bar_color">#ff404040</color>
+    <color name="status_bar_color">#ff1f1f1f</color>
+</resources>

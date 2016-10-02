@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="gn_guide_textcolor">#ffffffff</color>
+    <color name="gn_angle_textcolor">#ffee8d00</color>
+    <color name="gn_tab_textcolor">#ffffffff</color>
+    <color name="pressure_text_color">#ff474646</color>
+    <color name="start_bg_color">#ffe6e6e6</color>
+    <color name="fallMaskColor">#ffe6e6e6</color>
+</resources>

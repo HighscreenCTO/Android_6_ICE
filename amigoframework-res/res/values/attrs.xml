@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="amigoswitchStyle" format="reference" />
+    <attr name="amigonumberPickerStyle" format="reference" />
+    <attr name="amigodatePickerStyle" format="reference" />
+    <attr name="amigotimePickerStyle" format="reference" />
+    <attr name="amigothumb" format="reference" />
+    <attr name="amigotrack" format="reference" />
+    <attr name="amigotextOn" format="reference" />
+    <attr name="amigotextOff" format="reference" />
+    <attr name="amigothumbTextPadding" format="dimension" />
+    <attr name="amigoswitchMinWidth" format="dimension" />
+    <attr name="amigoswitchPadding" format="dimension" />
+    <attr name="amigosolidColor" format="reference|color" />
+    <attr name="amigoselectionDivider" format="reference" />
+    <attr name="amigoselectionDividerHeight" format="dimension" />
+    <attr name="amigoselectionDividersDistance" format="dimension" />
+    <attr name="amigointernalMinHeight" format="dimension" />
+    <attr name="amigointernalMaxHeight" format="dimension" />
+    <attr name="amigointernalMinWidth" format="dimension" />
+    <attr name="amigointernalMaxWidth" format="dimension" />
+    <attr name="amigointernalLayout" format="reference" />
+    <attr name="amigovirtualButtonPressedDrawable" format="reference" />
+    <attr name="amigoselectionSrc" format="reference" />
+    <attr name="amigobackground" format="reference" />
+    <attr name="amigostartYear" format="integer" />
+    <attr name="amigoendYear" format="integer" />
+    <attr name="amigospinnersShown" format="boolean" />
+    <attr name="amigocalendarViewShown" format="boolean" />
+    <attr name="amigominDate" format="string" />
+    <attr name="amigomaxDate" format="string" />
+    <attr name="amigoframeListBackground" format="reference" />
+    <attr name="amigoframeListTopBackground" format="reference" />
+    <attr name="amigoframeListMiddleBackground" format="reference" />
+    <attr name="amigoframeListBottomBackground" format="reference" />
+    <attr name="amigoicon" format="reference" />
+    <attr name="amigokey" format="string" />
+    <attr name="amigotitle" format="string" />
+    <attr name="amigosummary" format="string" />
+    <attr name="amigoorder" format="integer" />
+    <attr name="amigofragment" format="string" />
+    <attr name="amigolayout" format="reference" />
+    <attr name="amigowidgetLayout" format="reference" />
+    <attr name="amigoenabled" format="boolean" />
+    <attr name="amigoselectable" format="boolean" />
+    <attr name="amigodependency" format="string" />
+    <attr name="amigopersistent" format="boolean" />
+    <attr name="amigodefaultValue" format="reference|string|integer|boolean|float" />
+    <attr name="amigoshouldDisableView" format="boolean" />
+    <attr name="amigosummaryOn" format="string" />
+    <attr name="amigosummaryOff" format="string" />
+    <attr name="amigoswitchTextOn" format="string" />
+    <attr name="amigoswitchTextOff" format="string" />
+    <attr name="amigodisableDependentsState" format="boolean" />
+    <attr name="amigoid" format="reference" />
+    <attr name="amigobreadCrumbTitle" format="string" />
+    <attr name="amigobreadCrumbShortTitle" format="string" />
+    <attr name="amigoorderingFromXml" format="boolean" />
+    <attr name="amigodialogTitle" format="string" />
+    <attr name="amigodialogMessage" format="string" />
+    <attr name="amigodialogIcon" format="reference" />
+    <attr name="amigopositiveButtonText" format="string" />
+    <attr name="amigonegativeButtonText" format="string" />
+    <attr name="amigodialogLayout" format="reference" />
+    <attr name="amigoentries" format="reference" />
+    <attr name="amigoentryValues" format="reference" />
+    <attr name="amigoringtoneType">
+        <flag name="alarm" value="0x00000004" />
+        <flag name="all" value="0x00000007" />
+        <flag name="notification" value="0x00000002" />
+        <flag name="ringtone" value="0x00000001" />
+    </attr>
+    <attr name="amigoshowDefault" format="boolean" />
+    <attr name="amigoshowSilent" format="boolean" />
+    <attr name="amigostreamType">
+        <enum name="alarm" value="4" />
+        <enum name="music" value="3" />
+        <enum name="ring" value="2" />
+        <enum name="system" value="1" />
+        <enum name="voice" value="0" />
+    </attr>
+    <attr name="amigofullDark" format="reference|color" />
+    <attr name="amigotopDark" format="reference|color" />
+    <attr name="amigocenterDark" format="reference|color" />
+    <attr name="amigobottomDark" format="reference|color" />
+    <attr name="amigofullBright" format="reference|color" />
+    <attr name="amigotopBright" format="reference|color" />
+    <attr name="amigocenterBright" format="reference|color" />
+    <attr name="amigobottomBright" format="reference|color" />
+    <attr name="amigobottomMedium" format="reference|color" />
+    <attr name="amigocenterMedium" format="reference|color" />
+    <attr name="amigolistLayout" format="reference" />
+    <attr name="amigomultiChoiceItemLayout" format="reference" />
+    <attr name="amigosingleChoiceItemLayout" format="reference" />
+    <attr name="amigolistItemLayout" format="reference" />
+    <attr name="amigoprogressLayout" format="reference" />
+    <attr name="amigohorizontalProgressLayout" format="reference" />
+    <attr name="amigotextAppearanceMediumSecond" format="reference" />
+    <attr name="amigotextAppearanceMediumSecondInverse" format="reference" />
+    <attr name="amigonavigationMode">
+        <enum name="listMode" value="1" />
+        <enum name="normal" value="0" />
+        <enum name="tabMode" value="2" />
+    </attr>
+    <attr name="amigodisplayOptions">
+        <flag name="disableHome" value="0x00000020" />
+        <flag name="homeAsUp" value="0x00000004" />
+        <flag name="none" value="0x00000000" />
+        <flag name="showCustom" value="0x00000010" />
+        <flag name="showHome" value="0x00000002" />
+        <flag name="showTitle" value="0x00000008" />
+        <flag name="useLogo" value="0x00000001" />
+    </attr>
+    <attr name="amigosubtitle" format="string" />
+    <attr name="amigotitleTextStyle" format="reference" />
+    <attr name="amigosubtitleTextStyle" format="reference" />
+    <attr name="amigologo" format="reference" />
+    <attr name="amigodivider" format="reference" />
+    <attr name="amigobackgroundStacked" format="reference|color" />
+    <attr name="amigobackgroundSplit" format="reference|color" />
+    <attr name="amigocustomNavigationLayout" format="reference" />
+    <attr name="amigoheight" format="dimension" />
+    <attr name="amigohomeLayout" format="reference" />
+    <attr name="amigoprogressBarStyle" format="reference" />
+    <attr name="amigoindeterminateProgressStyle" format="reference" />
+    <attr name="amigoprogressBarPadding" format="dimension" />
+    <attr name="amigoitemPadding" format="dimension" />
+    <attr name="amigoactionBarStyle" format="reference" />
+    <attr name="amigocompletionHint" format="string" />
+    <attr name="amigocompletionHintView" format="reference" />
+    <attr name="amigocompletionThreshold" format="integer" min="1" />
+    <attr name="amigodropDownSelector" format="reference|color" />
+    <attr name="amigodropDownVerticalOffset" format="dimension" />
+    <attr name="amigodropDownHorizontalOffset" format="dimension" />
+    <attr name="amigodropDownAnchor" format="reference" />
+    <attr name="amigodropDownWidth" format="dimension">
+        <enum name="fill_parent" value="-1" />
+        <enum name="match_parent" value="-1" />
+        <enum name="wrap_content" value="-2" />
+    </attr>
+    <attr name="amigodropDownHeight" format="dimension">
+        <enum name="fill_parent" value="-1" />
+        <enum name="match_parent" value="-1" />
+        <enum name="wrap_content" value="-2" />
+    </attr>
+    <attr name="amigoalertDialogStyle" format="reference" />
+    <attr name="amigospinnerMode">
+        <enum name="dialog" value="0" />
+        <enum name="dropdown" value="1" />
+    </attr>
+    <attr name="amigospinnerStyle" format="reference" />
+    <attr name="amigoprompt" format="reference" />
+    <attr name="amigogroupIndicator" format="reference" />
+    <attr name="amigochildIndicator" format="reference" />
+    <attr name="amigoindicatorLeft" format="dimension" />
+    <attr name="amigoindicatorRight" format="dimension" />
+    <attr name="amigochildIndicatorLeft" format="dimension" />
+    <attr name="amigochildIndicatorRight" format="dimension" />
+    <attr name="amigochildDivider" format="reference|color" />
+    <attr name="amigoExpandableListViewStyle" format="reference" />
+    <attr name="amigooptionMenuListBackground" format="reference" />
+    <attr name="amigooptionMenuMoreBg" format="reference" />
+    <attr name="amigooptionMenuBg" format="reference" />
+    <attr name="selectableMenuItemBackground" format="reference" />
+    <attr name="amigoDialogPostiveBtnColor" format="reference|color" />
+    <attr name="amigotabheight" format="dimension" />
+    <attr name="amigoButtonHeight" format="dimension" />
+    <attr name="amigoOptionsMenuAsUp" format="boolean" />
+    <attr name="amigoselectiontopDivider" format="reference" />
+    <attr name="amigoselectionbottomDivider" format="reference" />
+    <attr name="amigoStrongHintDialogLayout" format="reference" />
+    <attr name="amigoSearchViewStyle" format="reference" />
+    <attr name="amigoTextColor" format="color" />
+    <attr name="amigoHintColor" format="color" />
+    <attr name="amigoBackground" format="reference|color" />
+    <attr name="amigoVoiceIcon" format="reference" />
+    <attr name="amigoDialogBackground" format="reference|color" />
+    <attr name="amigoTouchingLetterFontSize" format="dimension" />
+    <attr name="amigoEnableSectionColor" format="color" />
+    <attr name="amigoDisableSectionColor" format="color" />
+    <attr name="amigoShowingLetterColor" format="color" />
+    <attr name="amigoTouchingLeftOffset" format="dimension" />
+    <attr name="amigoSectionFontSize" format="dimension" />
+    <attr name="amigoDialogOtherBtnTxtColor" format="reference|color" />
+    <attr name="amigodatePickerDialogStyle" format="reference" />
+    <attr name="amigo_dialog_content_text_color" format="reference|color" />
+    <attr name="amigoDialogWindowBackground" format="reference|color" />
+    <attr name="amigo_spinner_item_text_color" format="reference|color" />
+    <attr name="amigoForceTouchPannelBackgroundColor" format="reference|color" />
+    <attr name="amigoForceTouchMenuItemBackgroundColor" format="reference|color" />
+    <attr name="amigoDarkTheme" format="boolean" />
+</resources>

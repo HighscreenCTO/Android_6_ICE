@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_file_type_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="record_mode_type_title">
+        <item>HD mode</item>
+        <item>Visit mode</item>
+        <item>Record mode</item>
+    </string-array>
+    <string-array name="record_mode_type_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

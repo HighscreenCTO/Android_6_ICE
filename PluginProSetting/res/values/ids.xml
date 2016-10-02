@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="bubble_item_icon" />
+    <item type="id" name="bubble_item_icon_2" />
+    <item type="id" name="bubble_item_text" />
+    <item type="id" name="pro_guide_parent">false</item>
+    <item type="id" name="pro_guide_close_btn">false</item>
+    <item type="id" name="pro_guide_prompt">false</item>
+    <item type="id" name="pro_guide_hint_cb">false</item>
+    <item type="id" name="pro_guide_item">false</item>
+    <item type="id" name="pro_guide_item_icon">false</item>
+    <item type="id" name="pro_guide_item_title">false</item>
+    <item type="id" name="pro_guide_item_prompt">false</item>
+    <item type="id" name="params_controlbar">false</item>
+    <item type="id" name="params_selector">false</item>
+    <item type="id" name="pro_setting_reset">false</item>
+    <item type="id" name="param_regulator">false</item>
+    <item type="id" name="indicator_container">false</item>
+    <item type="id" name="seekbar">false</item>
+    <item type="id" name="param_indicator_container">false</item>
+    <item type="id" name="param_indicator_title">false</item>
+    <item type="id" name="param_indicator_value">false</item>
+    <item type="id" name="pro_settings_popup">false</item>
+    <item type="id" name="switch_btn">false</item>
+</resources>

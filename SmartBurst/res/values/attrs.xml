@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="circleBackground" format="integer" />
+    <attr name="firstChildPosition">
+        <enum name="East" value="0" />
+        <enum name="North" value="270" />
+        <enum name="South" value="90" />
+        <enum name="West" value="180" />
+    </attr>
+    <attr name="rotateToCenter" format="boolean" />
+    <attr name="isRotating" format="boolean" />
+    <attr name="name" format="string" />
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scan_square_width">260.0dip</dimen>
+    <dimen name="scan_square_height">260.0dip</dimen>
+    <dimen name="scan_square_topmargin">155.0dip</dimen>
+    <dimen name="scan_text_topmargin">25.0dip</dimen>
+    <dimen name="scan_text_size">12.0dip</dimen>
+    <dimen name="scan_result_height">283.0dip</dimen>
+    <dimen name="scan_result_text_size">16.0dip</dimen>
+    <dimen name="scan_corner_length">8.0dip</dimen>
+    <dimen name="scan_corner_size">1.0dip</dimen>
+    <dimen name="scan_line_speed">2.0dip</dimen>
+</resources>

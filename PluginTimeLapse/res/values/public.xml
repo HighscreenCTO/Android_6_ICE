@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="first_guide_selector" id="0x7f020000" />
+    <public type="drawable" name="ic_settings_bg" id="0x7f020004" />
+    <public type="drawable" name="ic_guide_content" id="0x7f020003" />
+    <public type="drawable" name="ic_guide_cb_normal" id="0x7f020001" />
+    <public type="drawable" name="ic_guide_cb_pressed" id="0x7f020002" />
+    <public type="drawable" name="ic_timelapse_2s" id="0x7f020005" />
+    <public type="drawable" name="ic_timelapse_4s" id="0x7f020006" />
+    <public type="drawable" name="ic_timelapse_600ms" id="0x7f020007" />
+    <public type="drawable" name="logo" id="0x7f020008" />
+    <public type="layout" name="first_guide" id="0x7f030000" />
+    <public type="dimen" name="guide_parent_width" id="0x7f040000" />
+    <public type="dimen" name="guide_parent_height" id="0x7f040001" />
+    <public type="dimen" name="guide_parent_left_margin" id="0x7f040002" />
+    <public type="dimen" name="guide_parent_top_margin" id="0x7f040003" />
+    <public type="dimen" name="guide_close_btn_size" id="0x7f040004" />
+    <public type="dimen" name="guide_close_btn_top_margin" id="0x7f040005" />
+    <public type="dimen" name="guide_close_btn_right_margin" id="0x7f040006" />
+    <public type="dimen" name="guide_prompt_lr_margin" id="0x7f040007" />
+    <public type="dimen" name="guide_prompt_top_margin" id="0x7f040008" />
+    <public type="dimen" name="guide_prompt_bottom_margin" id="0x7f040009" />
+    <public type="dimen" name="guide_prompt_image_height" id="0x7f04000a" />
+    <public type="dimen" name="guide_hint_cb_bottom_margin" id="0x7f04000b" />
+    <public type="dimen" name="guide_hint_cb_text_size" id="0x7f04000c" />
+    <public type="dimen" name="pro_guide_info_top_margin" id="0x7f04000d" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="string" name="app_description" id="0x7f050001" />
+    <public type="string" name="app_label" id="0x7f050002" />
+    <public type="string" name="guide_info" id="0x7f050003" />
+    <public type="string" name="indication" id="0x7f050004" />
+    <public type="string" name="indication_close" id="0x7f050005" />
+    <public type="style" name="New_Guide_CheckBox" id="0x7f060000" />
+    <public type="id" name="guide_parent" id="0x7f070000" />
+    <public type="id" name="guide_close_btn" id="0x7f070001" />
+    <public type="id" name="guide_prompt" id="0x7f070002" />
+    <public type="id" name="guide_hint_cb" id="0x7f070003" />
+</resources>

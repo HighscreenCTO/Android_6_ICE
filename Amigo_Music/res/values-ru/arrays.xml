@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timer_sleep">
+        <item>Закрыть</item>
+        <item>Через пятнадцать минут</item>
+        <item>Через полчаса</item>
+        <item>Через час</item>
+        <item>После полутора часов</item>
+        <item>Через два часа</item>
+    </string-array>
+    <string-array name="nfc_timer_sleep">
+        <item>Через пятнадцать минут</item>
+        <item>Через полчаса</item>
+        <item>Через час</item>
+        <item>После полутора часов</item>
+        <item>Через два часа</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Загрузить обложки</item>
+        <item>Таймер сна</item>
+        <item>Сканировать</item>
+        <item>Настройки</item>
+        <item>Воспроизведение по Bluetooth</item>
+    </string-array>
+    <string-array name="menu_items_nocover">
+        <item>Таймер сна</item>
+        <item>Сканировать</item>
+        <item>Настройки</item>
+        <item>Воспроизведение по Bluetooth</item>
+    </string-array>
+    <string-array name="menu_items_nocover_noeffect">
+        <item>Таймер сна</item>
+        <item>Сканировать</item>
+        <item>Настройки</item>
+        <item>Воспроизведение по Bluetooth</item>
+    </string-array>
+    <string-array name="menu_items_noeffect">
+        <item>Загрузить обложки</item>
+        <item>Таймер сна</item>
+        <item>Сканировать</item>
+        <item>Настройки</item>
+        <item>Воспроизведение по Bluetooth</item>
+    </string-array>
+    <string-array name="menu_items_addshare">
+        <item>Загрузить обложки</item>
+        <item>Установить мелодию</item>
+        <item>Сканирование</item>
+        <item>Настройки</item>
+        <item>Поделиться</item>
+        <item>Воспроизведение по Bluetooth</item>
+        <item>Корректировать информацию</item>
+    </string-array>
+    <string-array name="online_catalog_menu">
+        <item>Настройки</item>
+        <item>Поиск онлайн</item>
+        <item>Воспроизведение по Bluetooth</item>
+    </string-array>
+    <string-array name="online_tab">
+        <item>Популярный</item>
+        <item>Список хитов</item>
+        <item>Популярный исполнитель</item>
+    </string-array>
+    <string-array name="main_tab">
+        <item>Онлайн</item>
+        <item>Локальный</item>
+    </string-array>
+    <string-array name="online_playlist_tab">
+        <item>Настройки</item>
+        <item>Поиск онлайн</item>
+        <item>Плейлист</item>
+        <item>Воспроизведение по Bluetooth</item>
+        <item>Поделиться</item>
+    </string-array>
+    <string-array name="online_play_tab">
+        <item>Настройки</item>
+        <item>Поиск онлайн</item>
+        <item>Плейлист</item>
+        <item>Воспроизведение по Bluetooth</item>
+        <item>Поделиться</item>
+    </string-array>
+    <string-array name="online_playlist_menu">
+        <item>Настройки</item>
+        <item>Поиск онлайн</item>
+        <item>Воспроизведение по Bluetooth</item>
+    </string-array>
+    <string-array name="music_cover_item">
+        <item>Загрузить песню</item>
+        <item>Установить как обои</item>
+        <item>Social Share</item>
+    </string-array>
+    <string-array name="sound_effect_mode">
+        <item>Standard</item>
+        <item>Nature</item>
+        <item>Surround</item>
+        <item>Voice</item>
+        <item>По умолчанию</item>
+    </string-array>
+    <string-array name="sound_effect_style">
+        <item>Classic</item>
+        <item>Jazz</item>
+        <item>Rock</item>
+        <item>RB</item>
+        <item>Dance</item>
+    </string-array>
+    <string-array name="lrc_pic_error">
+        <item>Ошибка при загрузке текста</item>
+        <item>Ошибка при загрузке изображения</item>
+        <item>Ошибка при загрузке изображения или текста</item>
+    </string-array>
+    <string-array name="music_menu_more_allsong">
+        <item>Управление группой</item>
+        <item>Сканирование</item>
+        <item>Упорядочить по алфавиту</item>
+        <item>Упорядочить по дате</item>
+    </string-array>
+    <string-array name="music_menu_more_artist">
+        <item>Управление группой</item>
+        <item>Сканирование</item>
+        <item>Упорядочить по алфавиту</item>
+        <item>Упорядочить по количеству песен</item>
+    </string-array>
+    <string-array name="music_menu_more_mine">
+        <item>Управление группой</item>
+        <item>Импорт песен</item>
+        <item>Упорядочить по алфавиту</item>
+        <item>Упорядочить по дате</item>
+    </string-array>
+    <string-array name="music_more_item">
+        <item>Таймер сна</item>
+        <item>Поиск музыки</item>
+        <item>Основные настройки</item>
+        <item>Выйти</item>
+    </string-array>
+    <string-array name="offline_music_more_item">
+        <item>Таймер сна</item>
+        <item>Основные настройки</item>
+        <item>Выйти</item>
+    </string-array>
+    <string-array name="gn_alphbet_index">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>~</item>
+    </string-array>
+    <string-array name="onlineartist_tab">
+        <item>Китайский</item>
+        <item>Европа США</item>
+        <item>Япония</item>
+        <item>Корея</item>
+    </string-array>
+    <string-array name="onlineartist_type">
+        <item>Мужской Исполнитель</item>
+        <item>Женский Исполнитель</item>
+        <item>комбинированный</item>
+        <item>POP Исполнитель</item>
+    </string-array>
+    <string-array name="onlineartist_content">
+        <item>Сингл</item>
+        <item>Альбом</item>
+        <item>видео</item>
+    </string-array>
+    <string-array name="searchresult_tab">
+        <item>песни</item>
+        <item>Исполнители</item>
+        <item>Список песен</item>
+        <item>Альбом</item>
+    </string-array>
+    <string-array name="simsel_items">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+</resources>

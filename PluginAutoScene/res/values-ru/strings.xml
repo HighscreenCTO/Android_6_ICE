@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Режим сцены Авто</string>
+    <string name="app_label">Режим сцены Смарт</string>
+    <string name="description">Автоматический подбор режима сцены</string>
+    <string name="scene_mode_normal">Авто</string>
+    <string name="scene_mode_fogorflare">Туман/вспышка</string>
+    <string name="scene_mode_hdr">HDR</string>
+    <string name="scene_mode_night">Ночь</string>
+</resources>

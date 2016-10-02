@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mf_topbar_height">48.0dip</dimen>
+    <dimen name="mf_topbar_btn_home_size">50.0dip</dimen>
+    <dimen name="mf_topbar_btn_save_size">55.0dip</dimen>
+    <dimen name="pro_guide_parent_width">310.0dip</dimen>
+    <dimen name="pro_guide_parent_height">344.0dip</dimen>
+    <dimen name="pro_guide_parent_left_margin">25.0dip</dimen>
+    <dimen name="pro_guide_parent_top_margin">62.0dip</dimen>
+    <dimen name="pro_guide_close_btn_size">32.0dip</dimen>
+    <dimen name="pro_guide_close_btn_top_margin">3.0dip</dimen>
+    <dimen name="pro_guide_close_btn_right_margin">4.0dip</dimen>
+    <dimen name="pro_guide_prompt_lr_margin">25.0dip</dimen>
+    <dimen name="pro_guide_prompt_top_margin">24.0dip</dimen>
+    <dimen name="pro_guide_prompt_bottom_margin">65.0dip</dimen>
+    <dimen name="pro_guide_hint_cb_bottom_margin">5.0dip</dimen>
+    <dimen name="pro_guide_hint_cb_text_size">12.0dip</dimen>
+    <dimen name="pro_guide_info_top_margin">14.0dip</dimen>
+    <dimen name="edit_image_height">203.0dip</dimen>
+    <dimen name="edit_item_height">50.599976dip</dimen>
+    <dimen name="edit_page_dialog_width">360.0dip</dimen>
+    <dimen name="edit_page_text_size">18.0dip</dimen>
+</resources>

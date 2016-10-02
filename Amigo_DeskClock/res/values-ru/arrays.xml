@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_name">
+        <item>Latest information</item>
+        <item>National news</item>
+        <item>International news</item>
+        <item>Sports online</item>
+        <item>Entertainment headlines</item>
+        <item>Business brief</item>
+        <item>Science and Technology pioneer</item>
+        <item>Social news</item>
+    </string-array>
+    <string-array name="news_id">
+        <item>0</item>
+        <item>71</item>
+        <item>72</item>
+        <item>231</item>
+        <item>232</item>
+        <item>279</item>
+        <item>290</item>
+        <item>299</item>
+    </string-array>
+    <string-array name="big_small_names">
+        <item>С понедельника по пятницу</item>
+        <item>С понедельника по субботу</item>
+        <item>Пользовательский</item>
+    </string-array>
+    <string-array name="alarm_type_items">
+        <item>Будильник. Обычный режим</item>
+        <item>Будильник. Режим повтора</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Выкл.</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Отложить</item>
+        <item>Отключить</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Будильник зазвонит менее чем через минуту.</item>
+        <item>Будильник зазвонит через %1$s</item>
+        <item>Будильник зазвонит через %2$s</item>
+        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %3$s</item>
+        <item>Будильник зазвонит через %1$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s и %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="amigo_window_background_light">#fffdfdfd</item>
+    <item type="drawable" name="amigo_window_background_dark">#ff222222</item>
+</resources>

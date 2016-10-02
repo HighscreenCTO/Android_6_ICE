@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="GnSettingsLightTheme" parent="@amigo:style/Theme.Amigo.Light">
+        <item name="android:actionBarStyle">@style/LightActionBarStyle</item>
+        <item name="android:actionBarTabBarStyle">@style/LightActionBarTabBarStyle</item>
+        <item name="amigo:amigoactionBarStyle">@style/LightActionBarStyle</item>
+    </style>
+    <style name="LightActionBarStyle" parent="@amigo:style/Widget.Amigo.Light.ActionBar.Solid">
+        <item name="amigo:amigobackground">@color/gn_actionbar_color</item>
+        <item name="amigo:amigobackgroundStacked">@color/gn_actionbar_color</item>
+    </style>
+    <style name="LightActionBarTabBarStyle" parent="@amigo:style/Widget.Amigo.ActionBar.TabBar">
+        <item name="android:background">@color/gn_actionbar_color</item>
+        <item name="amigo:amigobackground">@color/gn_actionbar_color</item>
+    </style>
+</resources>

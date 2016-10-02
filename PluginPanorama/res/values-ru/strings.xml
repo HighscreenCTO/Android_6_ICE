@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Модуль панорамы</string>
+    <string name="app_label">Панорама</string>
+    <string name="description">Это панорама</string>
+    <string name="pano_hint_text">Нажмите кнопку камеры и двигайте телефон в одном направлении.</string>
+    <string name="pano_err_quickly_text">Слишком быстро</string>
+    <string name="pano_err_slowly_text">Слишком медленно</string>
+    <string name="pano_err_big_shake_text">Камера сильно трясется</string>
+    <string name="pano_err_stitch_direction_text">Неправильное направление</string>
+</resources>

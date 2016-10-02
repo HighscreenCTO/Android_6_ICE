@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="Setting_Translater_In_fromYDelta">600</integer>
+    <integer name="Setting_Translater_In_toYDelta">0</integer>
+    <integer name="Setting_Translater_Out_fromYDelta">0</integer>
+    <integer name="Setting_Translater_Out_toYDelta">600</integer>
+</resources>

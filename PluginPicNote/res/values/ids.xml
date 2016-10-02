@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="export_pdf_finish" />
+    <item type="id" name="export_pdf_fail" />
+    <item type="id" name="list_dragimg" />
+    <item type="id" name="pdf_edit">false</item>
+    <item type="id" name="mf_top_bar">false</item>
+    <item type="id" name="mf_btn_home">false</item>
+    <item type="id" name="eidt_bottombar">false</item>
+    <item type="id" name="pn_convert">false</item>
+    <item type="id" name="edit_addlistview">false</item>
+    <item type="id" name="picnote_edit">false</item>
+    <item type="id" name="mf_btn_right">false</item>
+    <item type="id" name="mf_bottom_bar">false</item>
+    <item type="id" name="mf_btn_save">false</item>
+    <item type="id" name="mf_rotate_parent">false</item>
+    <item type="id" name="mf_rotate_layout">false</item>
+    <item type="id" name="mf_image">false</item>
+    <item type="id" name="mf_crop">false</item>
+    <item type="id" name="mf_progress">false</item>
+    <item type="id" name="lastitem">false</item>
+    <item type="id" name="note_img">false</item>
+    <item type="id" name="note_check">false</item>
+    <item type="id" name="note_img_bg">false</item>
+    <item type="id" name="pdf_file_name">false</item>
+    <item type="id" name="pdf_file_path">false</item>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PicNoteModule</string>
+    <string name="app_label">PicNote</string>
+    <string name="description">This is PicNote</string>
+    <string name="pn_image_saving">Processing ...</string>
+    <string name="string_message_hint">Intelligent crop and optimize the text photo after shooting.</string>
+    <string name="super_zoom_text">Super zoom actived</string>
+    <string name="remind_to_open_super_zoom_text">Turn off the flash light to open super zoom</string>
+    <string name="btn_save_pdf">Convert to PDF</string>
+    <string name="image_file_name_format">"'Crop'_yyyyMMdd_HHmmss"</string>
+    <string name="kids_mode_image_file_name_format">"'KidsMode_IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="text_add_hint">Crop the picture while adding</string>
+    <string name="string_eidtpage_title">Edit Photo(%d)</string>
+    <string name="pn_alert_set_pdf_name">Set the PDF name</string>
+    <string name="pn_alert_file_name">File name:</string>
+    <string name="pn_alert_file_name_hint">Please input file name</string>
+    <string name="pn_alert_pdf_dialog_path">Storage location:</string>
+    <string name="pn_alert_convert">OK</string>
+    <string name="overwrite_file_dialog_title">File is existed.</string>
+    <string name="overwrite_file_dialog_content">The file is existed, rewrite it?</string>
+    <string name="pn_info_internal_path">Phone Storage</string>
+    <string name="pn_info_external_path">SD Card</string>
+    <string name="pn_alert_yes">OK</string>
+    <string name="pn_alert_no">Cancel</string>
+    <string name="pdf_export_success">Convert PDF success</string>
+    <string name="pdf_export_fail">Convert PDF fail</string>
+    <string name="pdf_file_name_exceed">Exceed the number of words</string>
+    <string name="btn_action_process">Save</string>
+    <string name="convert_finish_dialog_title">Converting finished.</string>
+    <string name="convert_finish_dialog_content">Converting finished, you can choose to share or view it.</string>
+    <string name="share">Share</string>
+    <string name="view">See</string>
+    <string name="string_message_title">Notice</string>
+    <string name="error_share_file">Share file error</string>
+    <string name="error_open_file">Open file error</string>
+    <string name="pdf_dialog_title">Tips</string>
+    <string name="pdf_dialog_msg">Quit editing</string>
+    <string name="pdf_dialog_ok">Yes</string>
+    <string name="pdf_dialog_cancel">No</string>
+    <string name="pn_clipsave_success">Saved successful</string>
+</resources>

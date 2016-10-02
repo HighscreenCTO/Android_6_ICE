@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="file_icon">false</item>
+    <item type="id" name="file_size">false</item>
+    <item type="id" name="file_name">false</item>
+    <item type="id" name="file_transfer_hint">false</item>
+    <item type="id" name="file_transfer_progressbar">false</item>
+    <item type="id" name="file_receive_list">false</item>
+    <item type="id" name="notification_icon">false</item>
+    <item type="id" name="notification_title">false</item>
+    <item type="id" name="notification_hint">false</item>
+    <item type="id" name="file_transfer_title_layout">false</item>
+    <item type="id" name="file_transfer_title">false</item>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="status_icon">false</item>
+    <item type="id" name="status_text">false</item>
+    <item type="id" name="status_view_layout">false</item>
+    <item type="id" name="status_search_view">false</item>
+    <item type="id" name="status_connect_view">false</item>
+    <item type="id" name="status_send_view">false</item>
+    <item type="id" name="status_complete_view">false</item>
+    <item type="id" name="device_list_layout">false</item>
+    <item type="id" name="device_list_title_layout">false</item>
+    <item type="id" name="refresh_button">false</item>
+    <item type="id" name="device_list_title">false</item>
+    <item type="id" name="device_list">false</item>
+    <item type="id" name="file_Transfer_layout">false</item>
+    <item type="id" name="file_list">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="my_name">false</item>
+    <item type="id" name="my_status">false</item>
+    <item type="id" name="device_icon">false</item>
+    <item type="id" name="device_name">false</item>
+    <item type="id" name="device_details">false</item>
+    <item type="id" name="progress_info">false</item>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deskclock_background">#ff267eba</color>
+    <color name="white">#ffffffff</color>
+    <color name="time_text_color">#e6ffffff</color>
+    <color name="ampm_text_color">#99ffffff</color>
+    <color name="screen_saver_color">#ff006688</color>
+    <color name="gn_alarm_alert_color">#ffffffff</color>
+    <color name="fontcolor_white">#ff9d9d9d</color>
+    <color name="fontcolor_select_white">#ff000000</color>
+    <color name="gn_holo_green_light">#ffff9000</color>
+    <color name="world_search_no_city_white">#99ffffff</color>
+    <color name="clock_white">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="gn_shadowColor">#bb000000</color>
+    <color name="gn_alrmclock_notchecked">#33ffffff</color>
+    <color name="gn_alrmclock_checked">#ccffffff</color>
+    <color name="gn_alarm_setting_text_press">#ffff9000</color>
+    <color name="gn_get_up_ring">#80ffffff</color>
+    <color name="gn_alarm_label_color">#ffffffff</color>
+    <color name="gn_lock_view_black">#cc000000</color>
+    <color name="gn_broadcast_bg_color">#77000000</color>
+    <color name="gn_broadcast_content_color">#ffffffff</color>
+    <color name="add_alarm_color">#ff222222</color>
+    <color name="button_click_color">#80ffffff</color>
+    <color name="sky_mode_text_clock_color">#ffffffff</color>
+    <color name="setting_summary_text_color">#50ffffff</color>
+    <color name="alerm_alert_close_button">#ffffffff</color>
+</resources>

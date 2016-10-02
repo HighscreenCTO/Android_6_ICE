@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="bt_title">false</item>
+    <item type="id" name="bt_content">false</item>
+    <item type="id" name="camera_preview">false</item>
+    <item type="id" name="button_capture">false</item>
+    <item type="id" name="keys">false</item>
+    <item type="id" name="tv_freq">false</item>
+    <item type="id" name="tv_data">false</item>
+    <item type="id" name="light_proximity_rl">false</item>
+    <item type="id" name="nfc_test_title">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="promt">false</item>
+    <item type="id" name="item">false</item>
+    <item type="id" name="result">false</item>
+    <item type="id" name="tip">false</item>
+    <item type="id" name="t2">false</item>
+    <item type="id" name="t3">false</item>
+</resources>

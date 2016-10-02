@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fb_diy_text_color">#ffffffff</color>
+    <color name="menu_item_normal">#ffffffff</color>
+    <color name="menu_item_selected">#fffac300</color>
+</resources>

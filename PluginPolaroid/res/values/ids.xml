@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="edit">false</item>
+    <item type="id" name="mf_container">false</item>
+    <item type="id" name="mf_top_bar">false</item>
+    <item type="id" name="mf_btn_home">false</item>
+    <item type="id" name="mf_btn_save">false</item>
+    <item type="id" name="mf_content">false</item>
+    <item type="id" name="viewpager">false</item>
+    <item type="id" name="page_indicator">false</item>
+    <item type="id" name="mf_progress">false</item>
+    <item type="id" name="mf_text">false</item>
+    <item type="id" name="mf_flash">false</item>
+    <item type="id" name="mf_group">false</item>
+    <item type="id" name="icon_type_1">false</item>
+    <item type="id" name="icon_type_2">false</item>
+    <item type="id" name="icon_type_3">false</item>
+    <item type="id" name="icon_type_4">false</item>
+    <item type="id" name="icon_type_5">false</item>
+    <item type="id" name="mf_main_top">false</item>
+    <item type="id" name="pro_guide_parent">false</item>
+    <item type="id" name="pro_guide_close_btn">false</item>
+    <item type="id" name="pro_guide_prompt">false</item>
+    <item type="id" name="pro_guide_hint_cb">false</item>
+</resources>

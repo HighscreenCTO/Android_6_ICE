@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Модуль Time Lapse</string>
+    <string name="app_description">Это промежуток времени</string>
+    <string name="app_label">Таймлапс</string>
+    <string name="indication_close">Выкл</string>
+</resources>

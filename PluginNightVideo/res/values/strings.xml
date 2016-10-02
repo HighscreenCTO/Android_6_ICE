@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NightVideoMode</string>
+    <string name="app_label">Night</string>
+    <string name="description">Real-time Night Preview reduces noise intelligently.</string>
+    <string name="night_mode_hint_text">Keep the lens steady during the photo shoot</string>
+    <string name="guide_info">Through nightscape noise reduction, we see the thing as it actually is.</string>
+    <string name="indication">"Don't display again"</string>
+    <string name="indication_close">Close</string>
+    <string name="contrast">Contrast</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="min_text">false</item>
+    <item type="id" name="testbutton">false</item>
+    <item type="id" name="resetbutton">false</item>
+</resources>

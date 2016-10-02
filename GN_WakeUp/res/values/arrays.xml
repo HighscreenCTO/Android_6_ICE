@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="gn_c_up_letter_drawable">
+        <item>@drawable/gn_wakeup_c_up_00</item>
+        <item>@drawable/gn_wakeup_c_up_01</item>
+        <item>@drawable/gn_wakeup_c_up_02</item>
+        <item>@drawable/gn_wakeup_c_up_03</item>
+        <item>@drawable/gn_wakeup_c_up_04</item>
+        <item>@drawable/gn_wakeup_c_up_05</item>
+        <item>@drawable/gn_wakeup_c_up_06</item>
+        <item>@drawable/gn_wakeup_c_up_07</item>
+        <item>@drawable/gn_wakeup_c_up_08</item>
+    </array>
+    <array name="gn_c_down_letter_drawable">
+        <item>@drawable/gn_wakeup_c_down_00</item>
+        <item>@drawable/gn_wakeup_c_down_01</item>
+        <item>@drawable/gn_wakeup_c_down_02</item>
+        <item>@drawable/gn_wakeup_c_down_03</item>
+        <item>@drawable/gn_wakeup_c_down_04</item>
+        <item>@drawable/gn_wakeup_c_down_05</item>
+        <item>@drawable/gn_wakeup_c_down_06</item>
+        <item>@drawable/gn_wakeup_c_down_07</item>
+        <item>@drawable/gn_wakeup_c_down_08</item>
+    </array>
+    <array name="gn_c_left_letter_drawable">
+        <item>@drawable/gn_wakeup_c_left_00</item>
+        <item>@drawable/gn_wakeup_c_left_01</item>
+        <item>@drawable/gn_wakeup_c_left_02</item>
+        <item>@drawable/gn_wakeup_c_left_03</item>
+        <item>@drawable/gn_wakeup_c_left_04</item>
+        <item>@drawable/gn_wakeup_c_left_05</item>
+        <item>@drawable/gn_wakeup_c_left_06</item>
+        <item>@drawable/gn_wakeup_c_left_07</item>
+        <item>@drawable/gn_wakeup_c_left_08</item>
+        <item>@drawable/gn_wakeup_c_left_09</item>
+    </array>
+    <array name="gn_c_right_letter_drawable">
+        <item>@drawable/gn_wakeup_c_right_00</item>
+        <item>@drawable/gn_wakeup_c_right_01</item>
+        <item>@drawable/gn_wakeup_c_right_02</item>
+        <item>@drawable/gn_wakeup_c_right_03</item>
+        <item>@drawable/gn_wakeup_c_right_04</item>
+        <item>@drawable/gn_wakeup_c_right_05</item>
+        <item>@drawable/gn_wakeup_c_right_06</item>
+        <item>@drawable/gn_wakeup_c_right_07</item>
+        <item>@drawable/gn_wakeup_c_right_08</item>
+    </array>
+    <array name="gn_triangular_letter_drawable">
+        <item>@drawable/gn_wakeup_blackground</item>
+        <item>@drawable/gn_wakeup_triangular_01</item>
+        <item>@drawable/gn_wakeup_triangular_02</item>
+        <item>@drawable/gn_wakeup_triangular_03</item>
+        <item>@drawable/gn_wakeup_triangular_04</item>
+        <item>@drawable/gn_wakeup_triangular_05</item>
+        <item>@drawable/gn_wakeup_triangular_05</item>
+        <item>@drawable/gn_wakeup_triangular_05</item>
+        <item>@drawable/gn_wakeup_triangular_05</item>
+        <item>@drawable/gn_wakeup_blackground</item>
+    </array>
+    <array name="gn_e_letter_drawable">
+        <item>@drawable/gn_wakeup_e_00</item>
+        <item>@drawable/gn_wakeup_e_01</item>
+        <item>@drawable/gn_wakeup_e_02</item>
+        <item>@drawable/gn_wakeup_e_03</item>
+        <item>@drawable/gn_wakeup_e_04</item>
+        <item>@drawable/gn_wakeup_e_05</item>
+        <item>@drawable/gn_wakeup_e_06</item>
+        <item>@drawable/gn_wakeup_e_07</item>
+        <item>@drawable/gn_wakeup_e_08</item>
+        <item>@drawable/gn_wakeup_e_09</item>
+        <item>@drawable/gn_wakeup_e_10</item>
+    </array>
+    <array name="gn_m_letter_drawable">
+        <item>@drawable/gn_wakeup_m_00</item>
+        <item>@drawable/gn_wakeup_m_01</item>
+        <item>@drawable/gn_wakeup_m_02</item>
+        <item>@drawable/gn_wakeup_m_03</item>
+        <item>@drawable/gn_wakeup_m_04</item>
+        <item>@drawable/gn_wakeup_m_05</item>
+        <item>@drawable/gn_wakeup_m_06</item>
+        <item>@drawable/gn_wakeup_m_07</item>
+        <item>@drawable/gn_wakeup_m_08</item>
+        <item>@drawable/gn_wakeup_m_09</item>
+        <item>@drawable/gn_wakeup_m_10</item>
+        <item>@drawable/gn_wakeup_m_11</item>
+    </array>
+    <array name="gn_o_letter_drawable">
+        <item>@drawable/gn_wakeup_o_00</item>
+        <item>@drawable/gn_wakeup_o_01</item>
+        <item>@drawable/gn_wakeup_o_02</item>
+        <item>@drawable/gn_wakeup_o_03</item>
+        <item>@drawable/gn_wakeup_o_04</item>
+        <item>@drawable/gn_wakeup_o_05</item>
+        <item>@drawable/gn_wakeup_o_06</item>
+        <item>@drawable/gn_wakeup_o_07</item>
+        <item>@drawable/gn_wakeup_o_08</item>
+    </array>
+    <array name="gn_s_letter_drawable">
+        <item>@drawable/gn_wakeup_s_00</item>
+        <item>@drawable/gn_wakeup_s_01</item>
+        <item>@drawable/gn_wakeup_s_02</item>
+        <item>@drawable/gn_wakeup_s_03</item>
+        <item>@drawable/gn_wakeup_s_04</item>
+        <item>@drawable/gn_wakeup_s_05</item>
+        <item>@drawable/gn_wakeup_s_06</item>
+        <item>@drawable/gn_wakeup_s_07</item>
+        <item>@drawable/gn_wakeup_s_08</item>
+        <item>@drawable/gn_wakeup_s_09</item>
+    </array>
+    <array name="gn_w_letter_drawable">
+        <item>@drawable/gn_wakeup_w_00</item>
+        <item>@drawable/gn_wakeup_w_01</item>
+        <item>@drawable/gn_wakeup_w_02</item>
+        <item>@drawable/gn_wakeup_w_03</item>
+        <item>@drawable/gn_wakeup_w_04</item>
+        <item>@drawable/gn_wakeup_w_05</item>
+        <item>@drawable/gn_wakeup_w_06</item>
+        <item>@drawable/gn_wakeup_w_07</item>
+        <item>@drawable/gn_wakeup_w_08</item>
+        <item>@drawable/gn_wakeup_w_09</item>
+        <item>@drawable/gn_wakeup_w_10</item>
+        <item>@drawable/gn_wakeup_w_11</item>
+    </array>
+    <array name="gn_z_letter_drawable">
+        <item>@drawable/gn_wakeup_z_00</item>
+        <item>@drawable/gn_wakeup_z_01</item>
+        <item>@drawable/gn_wakeup_z_02</item>
+        <item>@drawable/gn_wakeup_z_03</item>
+        <item>@drawable/gn_wakeup_z_04</item>
+        <item>@drawable/gn_wakeup_z_05</item>
+        <item>@drawable/gn_wakeup_z_06</item>
+        <item>@drawable/gn_wakeup_z_07</item>
+        <item>@drawable/gn_wakeup_z_08</item>
+        <item>@drawable/gn_wakeup_z_09</item>
+        <item>@drawable/gn_wakeup_z_10</item>
+    </array>
+    <array name="gn_up_slide_letter_drawable">
+        <item>@drawable/gn_wakeup_up_slide_00</item>
+        <item>@drawable/gn_wakeup_up_slide_01</item>
+        <item>@drawable/gn_wakeup_up_slide_02</item>
+        <item>@drawable/gn_wakeup_up_slide_03</item>
+        <item>@drawable/gn_wakeup_up_slide_04</item>
+        <item>@drawable/gn_wakeup_up_slide_05</item>
+        <item>@drawable/gn_wakeup_up_slide_06</item>
+        <item>@drawable/gn_wakeup_up_slide_07</item>
+        <item>@drawable/gn_wakeup_up_slide_08</item>
+        <item>@drawable/gn_wakeup_up_slide_09</item>
+        <item>@drawable/gn_wakeup_up_slide_10</item>
+        <item>@drawable/gn_wakeup_up_slide_11</item>
+    </array>
+    <array name="gn_down_slide_letter_drawable">
+        <item>@drawable/gn_wakeup_down_slide_00</item>
+        <item>@drawable/gn_wakeup_down_slide_01</item>
+        <item>@drawable/gn_wakeup_down_slide_02</item>
+        <item>@drawable/gn_wakeup_down_slide_03</item>
+        <item>@drawable/gn_wakeup_down_slide_04</item>
+        <item>@drawable/gn_wakeup_down_slide_05</item>
+        <item>@drawable/gn_wakeup_down_slide_06</item>
+        <item>@drawable/gn_wakeup_down_slide_07</item>
+        <item>@drawable/gn_wakeup_down_slide_08</item>
+        <item>@drawable/gn_wakeup_down_slide_09</item>
+    </array>
+    <array name="gn_left_slide_letter_drawable">
+        <item>@drawable/gn_wakeup_left_slide_00</item>
+        <item>@drawable/gn_wakeup_left_slide_01</item>
+        <item>@drawable/gn_wakeup_left_slide_02</item>
+        <item>@drawable/gn_wakeup_left_slide_03</item>
+        <item>@drawable/gn_wakeup_left_slide_04</item>
+        <item>@drawable/gn_wakeup_left_slide_05</item>
+        <item>@drawable/gn_wakeup_left_slide_06</item>
+        <item>@drawable/gn_wakeup_left_slide_07</item>
+        <item>@drawable/gn_wakeup_left_slide_08</item>
+        <item>@drawable/gn_wakeup_left_slide_09</item>
+        <item>@drawable/gn_wakeup_left_slide_10</item>
+    </array>
+    <array name="gn_right_slide_letter_drawable">
+        <item>@drawable/gn_wakeup_right_slide_00</item>
+        <item>@drawable/gn_wakeup_right_slide_01</item>
+        <item>@drawable/gn_wakeup_right_slide_02</item>
+        <item>@drawable/gn_wakeup_right_slide_03</item>
+        <item>@drawable/gn_wakeup_right_slide_04</item>
+        <item>@drawable/gn_wakeup_right_slide_05</item>
+        <item>@drawable/gn_wakeup_right_slide_06</item>
+        <item>@drawable/gn_wakeup_right_slide_07</item>
+        <item>@drawable/gn_wakeup_right_slide_08</item>
+        <item>@drawable/gn_wakeup_right_slide_09</item>
+        <item>@drawable/gn_wakeup_right_slide_10</item>
+    </array>
+</resources>

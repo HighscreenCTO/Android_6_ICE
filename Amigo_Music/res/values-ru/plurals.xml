@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d треков</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d песни были удалены.</item>
+        <item quantity="one">1 song was удалить?.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d трек добавлен в избранное.</item>
+        <item quantity="one">1 трек добавлен в избранное.</item>
+    </plurals>
+</resources>

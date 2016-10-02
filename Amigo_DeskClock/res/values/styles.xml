@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GNAlarmAlertNoFullScreenTheme" parent="@amigo:style/Theme.Amigo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+    <style name="GNTabDiverLine">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="GNTabTitleStyle" parent="@android:style/Widget.Holo.Light.ActionButton">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="GNTabTitleTextStyle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#99ffffff</item>
+    </style>
+    <style name="GNAlarmClockListTimeCheckedTextStyle">
+        <item name="android:textSize">38.0sp</item>
+    </style>
+    <style name="GNAlarmClockListTimeNotCheckedTextStyle">
+        <item name="android:textSize">40.0sp</item>
+        <item name="android:textColor">#33ffffff</item>
+    </style>
+    <style name="GNAlarmClockListAMPmCheckTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="GNAlarmClockListAMPmNotCheckTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#33ffffff</item>
+    </style>
+    <style name="GNAlarmClockListLabelWeekCheckedTextStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#80ffffff</item>
+    </style>
+    <style name="GNAlarmClockListLabelNotCheckedWeekTextStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#33ffffff</item>
+    </style>
+    <style name="GNStopTimeTextStyle">
+        <item name="android:textSize">54.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="GNStopTimeMillionTextStyle">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="GNStopMarkNumberTextStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#80ffffff</item>
+    </style>
+    <style name="GNStoplistMarkLastTextStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#80ffffff</item>
+    </style>
+    <style name="GNStopMarkTimeTextStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="LightActionBarTabViewAmigo" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@null</item>
+        <item name="android:paddingStart">1.0dip</item>
+        <item name="android:paddingEnd">1.0dip</item>
+    </style>
+    <style name="DeskClockButtonStyle" parent="@android:attr/buttonBarButtonStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/gn_button_selector_text</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="GNAlarmEditTitleTextStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#33ffffff</item>
+    </style>
+    <style name="GNAlarmSettingContentText">
+        <item name="android:textSize">@dimen/gn_alarm_setting_content_text_size</item>
+        <item name="android:textColor">@color/add_alarm_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/gn_alarm_setting_content_margin_left_or_right</item>
+        <item name="android:paddingRight">@dimen/gn_alarm_setting_content_margin_left_or_right</item>
+        <item name="android:layout_marginLeft">0.0dip</item>
+        <item name="android:layout_marginRight">0.0dip</item>
+    </style>
+    <style name="EditAlarmCustomActionButton" parent="@android:style/Widget.Holo.Light.ActionButton">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="EditAlarmCustomActionButtonImage">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="GNEditAlarmTextActionBar">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="tab_menu_anim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/gn_popup_enter</item>
+        <item name="android:windowExitAnimation">@anim/gn_popup_exit</item>
+    </style>
+    <style name="GNActionBarTitleTextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff222222</item>
+    </style>
+    <style name="SettingsStyleLight" parent="@amigo:style/Theme.Amigo.Light">
+        <item name="amigo:amigoactionBarStyle">@style/GN_ActionBarStyleSolidLight</item>
+    </style>
+    <style name="GN_ActionBarStyleSolidLight" parent="@amigo:style/Widget.Amigo.Light.ActionBar.Solid.Inverse">
+        <item name="amigo:amigotitleTextStyle">@style/Gn_actionBarTitleTextStyle_Light</item>
+    </style>
+    <style name="Gn_actionBarTitleTextStyle_Light" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="GNChronometerQuickSetTimeTextStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#80ffffff</item>
+    </style>
+    <style name="GNAlarmAlertFullScreenTheme" parent="@amigo:style/Theme.Amigo.Light.Dialog">
+        <item name="android:windowBackground">@color/gn_lock_view_black</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+    <style name="GNBroadcastFullScreenTheme" parent="@style/GNAlarmAlertFullScreenTheme">
+        <item name="android:windowBackground">@color/gn_broadcast_bg_color</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+    <style name="GNWorldCityTopTimeAPPmTextStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="GNWorldCityTopTimeTextStyle">
+        <item name="android:textSize">56.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="GNWorldCityTopNameTextStyle">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textColor">#ccffffff</item>
+    </style>
+    <style name="GNWorldCityTopDateTextStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#66ffffff</item>
+    </style>
+    <style name="GNWorldCityTimeDayTextStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="GNWorldCityTimeTextStyle">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textColor">#80ffffff</item>
+    </style>
+    <style name="GNWorldCityNameTextStyle">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ccffffff</item>
+    </style>
+    <style name="GNWorldCityDateTextStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#99ffffff</item>
+    </style>
+    <style name="GNButtonPressStyle">
+        <item name="android:background">@drawable/gn_add_alarm_create_button_on_off</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:layout_marginTop">2.0dip</item>
+        <item name="android:layout_marginBottom">2.0dip</item>
+    </style>
+    <style name="GNButtonPressChildStyle" parent="@style/GNButtonPressStyle" />
+    <style name="BottomStyle">
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+    </style>
+    <style name="BottomActionBarTextStyle">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="SkylightText">
+        <item name="android:shadowColor">#30000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">5.0</item>
+    </style>
+    <style name="CycleAlarmTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ccffffff</item>
+    </style>
+    <style name="CycleAlarmSummary">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#66ffffff</item>
+    </style>
+    <style name="CycleAlarmSetView">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/deskclock_ripple_rectangle</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="AppBaseTheme" parent="@amigo:style/Theme.Amigo.Light" />
+    <style name="SettingTheme" parent="@style/AppTheme">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@color/setting_summary_text_color</item>
+    </style>
+    <style name="AppTheme" parent="@amigo:style/Theme.Amigo.Light">
+        <item name="android:actionModeBackground">@android:color/transparent</item>
+        <item name="android:actionBarTabBarStyle">@style/TabBarStyle</item>
+        <item name="android:actionModeSplitBackground">@android:color/transparent</item>
+        <item name="amigo:amigoactionBarStyle">@style/LightActionBarStyle</item>
+    </style>
+    <style name="TabBarStyle" parent="@amigo:style/Widget.Amigo.ActionBar.TabBar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="amigo:amigobackgroundStacked">@android:color/transparent</item>
+    </style>
+    <style name="LightActionBarStyle" parent="@amigo:style/Widget.Amigo.Light.ActionBar.Solid">
+        <item name="amigo:amigobackground">@android:color/transparent</item>
+        <item name="amigo:amigobackgroundStacked">@android:color/transparent</item>
+    </style>
+    <style name="Widget.Holo.ActionBar.TabText" parent="@android:style/Widget.ActionBar.TabText">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="Theme.StartUp" parent="@amigo:style/Theme.Amigo.Light.SplashLight">
+        <item name="android:windowBackground">@color/deskclock_background</item>
+    </style>
+    <style name="alarm_list_left_column">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">64.0dip</item>
+    </style>
+    <style name="big_bold">
+        <item name="android:textSize">@dimen/big_font_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">@color/gn_shadowColor</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="widget_big_bold" parent="@style/big_bold">
+        <item name="android:textSize">@dimen/widget_big_font_size</item>
+    </style>
+    <style name="big_thin">
+        <item name="android:textSize">@dimen/big_font_size</item>
+        <item name="android:shadowColor">@color/gn_shadowColor</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="widget_big_thin" parent="@style/big_thin">
+        <item name="android:textSize">@dimen/widget_big_font_size</item>
+    </style>
+    <style name="widget_big_bold_single_digital" parent="@style/big_bold">
+        <item name="android:textSize">@dimen/widget_big_font_size_single_digital</item>
+    </style>
+    <style name="widget_big_thin_single_digital" parent="@style/big_thin">
+        <item name="android:textSize">@dimen/widget_big_font_size_single_digital</item>
+    </style>
+    <style name="label">
+        <item name="android:textSize">@dimen/label_font_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">@color/gn_shadowColor</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Theme.AndroidDevelopers.White" parent="@amigo:style/Theme.Amigo.Light">
+        <item name="android:actionModeBackground">@drawable/tab_title_bg_white</item>
+        <item name="android:actionModeSplitBackground">@drawable/gn_menu_light_bg</item>
+        <item name="amigo:amigoactionBarStyle">@style/MyActionBarStyleWhite</item>
+    </style>
+    <style name="MyActionBarStyleWhite" parent="@amigo:style/Widget.Amigo.Light.ActionBar.Solid.Inverse">
+        <item name="amigo:amigobackground">@drawable/tab_title_bg_white</item>
+        <item name="amigo:amigobackgroundStacked">@drawable/tab_bar_bg_white</item>
+        <item name="amigo:amigobackgroundSplit">@drawable/gn_menu_light_bg</item>
+    </style>
+</resources>

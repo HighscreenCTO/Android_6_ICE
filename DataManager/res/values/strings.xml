@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test">Timing send</string>
+    <string name="app_name">DataManger</string>
+    <string name="show_toast">welcome to gionee!</string>
+    <string name="show_toast_test">data will be sent in one minuites!</string>
+    <string name="minutes_later">mins later</string>
+    <string name="reset">Clear send flag</string>
+</resources>

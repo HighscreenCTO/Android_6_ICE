@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="pdr_height">false</item>
+    <item type="id" name="pdr_weight">false</item>
+    <item type="id" name="pdr_gender">false</item>
+    <item type="id" name="pdr_step_len">false</item>
+    <item type="id" name="set">false</item>
+    <item type="id" name="pdr_distance">false</item>
+    <item type="id" name="pdr_step_title">false</item>
+    <item type="id" name="calc_start_stop">false</item>
+    <item type="id" name="step_length_title">false</item>
+    <item type="id" name="step_length_value">false</item>
+    <item type="id" name="set_step">false</item>
+    <item type="id" name="clear_step">false</item>
+</resources>

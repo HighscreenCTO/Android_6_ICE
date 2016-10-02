@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="zzzzz_gn_global_actions_style">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowEnterAnimation">@anim/zzzzz_gn_shutdown_dialog_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/zzzzz_gn_shutdown_dialog_exit_anim</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

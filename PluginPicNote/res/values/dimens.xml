@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mf_topbar_height">53.399994dip</dimen>
+    <dimen name="mf_bottombar_height">93.399994dip</dimen>
+    <dimen name="mf_crop_length">480.0dip</dimen>
+    <dimen name="managecity_lastitem_height">136.0dip</dimen>
+    <dimen name="managecity_item_height">200.0dip</dimen>
+    <dimen name="managecity_item_right">4.6999817dip</dimen>
+    <dimen name="managecity_item_left">4.0dip</dimen>
+    <dimen name="note_image_bg_height">194.69998dip</dimen>
+    <dimen name="note_image_height">192.69998dip</dimen>
+    <dimen name="note_image_width">271.6953dip</dimen>
+    <dimen name="mf_topbar_home_btn_margin_left">4.6999817dip</dimen>
+    <dimen name="mf_topbar_right_btn_margin_right">12.0dip</dimen>
+    <dimen name="mf_topbar_title_text_size">20.0dip</dimen>
+    <dimen name="pdf_topbar_text_margin_left">25.0dip</dimen>
+    <dimen name="save_btn_text_size">16.0dip</dimen>
+    <dimen name="pdf_topbar_text_size">18.699982dip</dimen>
+    <dimen name="pdf_add_item_paddingTop">6.6999817dip</dimen>
+    <dimen name="pdf_listview_paddingTop">6.6999817dip</dimen>
+</resources>

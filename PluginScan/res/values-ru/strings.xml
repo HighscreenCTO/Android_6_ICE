@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">СканироватьModule</string>
+    <string name="app_label">Сканер</string>
+    <string name="description">Идет интеллектуальное сканирование</string>
+    <string name="scan_result_title">Подробная информация</string>
+    <string name="scan_info">Наведите камеру на QR/Bar код</string>
+    <string name="jump_browser_error">Веб приложение зависло.</string>
+</resources>

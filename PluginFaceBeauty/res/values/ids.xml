@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="fb_controller_bar">false</item>
+    <item type="id" name="fb_seekbar_layout">false</item>
+    <item type="id" name="fb_seekbar">false</item>
+    <item type="id" name="fb_level_text">false</item>
+    <item type="id" name="fb_selector_layout">false</item>
+    <item type="id" name="fb_exit_btn">false</item>
+    <item type="id" name="diy_parent_layout">false</item>
+    <item type="id" name="bubble_item_icon">false</item>
+    <item type="id" name="bubble_item_text">false</item>
+    <item type="id" name="fb_contrast_view_layout">false</item>
+    <item type="id" name="fb_contrast_btn">false</item>
+    <item type="id" name="fb_contrast_text">false</item>
+    <item type="id" name="fb_diy_controller_stub">false</item>
+    <item type="id" name="fb_diy_controller_stub_4_1">false</item>
+    <item type="id" name="fb_item_name">false</item>
+</resources>

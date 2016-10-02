@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Holo.Translucent" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="LightHoloWallpaper" parent="@amigo:style/Theme.Amigo.Light">
+        <item name="android:actionModeBackground">@color/action_bar_color</item>
+        <item name="amigo:amigoactionBarStyle">@style/LightActionBarStyle</item>
+        <item name="gnIcFloder">@drawable/gn_ic_folder_light</item>
+        <item name="gnIcMenuDelete">@drawable/ic_menu_delete_light</item>
+        <item name="gnIcMenuShare">@drawable/ic_menu_share_light</item>
+    </style>
+    <style name="HoloWallpaperNoTitleBar" parent="@amigo:style/Theme.Amigo.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="LightHoloWallpaperNoTitleBar" parent="@amigo:style/Theme.Amigo.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="LightActionBarStyle" parent="@amigo:style/Widget.Amigo.Light.ActionBar.Solid">
+        <item name="amigo:amigobackground">@color/action_bar_color</item>
+        <item name="amigo:amigotitleTextStyle">?android:textAppearanceMediumInverse</item>
+    </style>
+    <style name="SoundRecoderStyle" parent="@amigo:style/Theme.Amigo.Light.NoActionBar">
+        <item name="android:windowBackground">@color/status_bar_color</item>
+    </style>
+</resources>

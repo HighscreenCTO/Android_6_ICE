@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzzzz_gn_update_time_title">Update time successfully</string>
+    <string name="zzzzz_gn_time_title">Your time is very accurate up</string>
+    <string name="zzzzz_gn_fail_update_time">Fail to update time,please check your network</string>
+    <string name="zzzzz_gn_perm_title">Request permission</string>
+    <string name="zzzzz_gn_perm_meg">“%1$s” need to start following permissions:</string>
+    <string name="zzzzz_gn_perm_setting">Setting</string>
+    <string name="zzzzz_gn_perm_ok">Allow</string>
+    <string name="zzzzz_gn_perm_cancel">Refuse(%1d)</string>
+    <string name="zzzzz_gn_perm_more">If you also need other permissions, please go to the settings to modify.</string>
+    <string name="zzzzz_gn_perm_default">Default</string>
+    <string name="zzzzz_gn_default_permission_group">Default</string>
+    <string name="zzzzz_gn_permissions_format">%1$s, %2$s</string>
+    <string name="zzzzz_gn_permlab_readMms">read mms</string>
+    <string name="zzzzz_gn_permlab_writeMms">edit/delete mms</string>
+    <string name="zzzzz_gn_perm_send_mms">send mms</string>
+    <string name="zzzzz_gn_perm_remember_my_choice">Remember My choice</string>
+    <string name="zzzzz_gn_perms_hide">Hide</string>
+    <string name="zzzzz_gn_perms_show_all">Show all</string>
+    <string name="zzzzz_gn_aerr_title">Application error</string>
+    <string name="zzzzz_gn_anr_title">Application not responding</string>
+    <string name="zzzzz_gn_close_dialog">close</string>
+    <string name="zzzzz_gn_send_error_log">send error report</string>
+    <string name="zzzzz_gn_installed_protect_dialog_title">Safety Tips</string>
+    <string name="zzzzz_gn_installed_protect_dialog_message">"This application without gionee test certification, may contain malicious programs or compatibility problems. It is recommended that you download from the gionee official ways.
+
+For mobile phones from using these applications, data loss or damage that need you to bear the responsibility. 
+
+Continue with the installation?"</string>
+    <string name="zzzzz_gn_installed_protect_dialog_ok">Yes</string>
+    <string name="zzzzz_gn_installed_protect_dialog_cancel">No</string>
+    <string name="zzzzz_gn_no_permissions">No permissions required</string>
+    <string name="zzzzz_gn_shutdown_text">Power off</string>
+    <string name="zzzzz_gn_reboot_text">Reboot</string>
+    <string name="zzzzz_gn_airplane_text">Airplane</string>
+    <string name="zzzzz_gn_voice_text">Silent</string>
+    <string name="zzzzz_gn_memoryfull_hint">Some system functions may not work.Click to release memory.</string>
+    <string name="zzzzz_gn_memoryfull_noboot_hint">Not enough storage for the system. Make sure you have 250MB of free space.Click to release memory.</string>
+    <string name="zzzzz_gn_memoryfull_dialog_title">Choose how to release space:</string>
+    <string name="zzzzz_gn_memoryfull_goto_sysmgr">Go to System Manager</string>
+    <string name="zzzzz_gn_memoryfull_move_to_sdcard">Move data to SD card</string>
+    <string name="zzzzz_gn_memoryfull_card_inserted">Move data to SD card</string>
+    <string name="zzzzz_gn_memoryfull_delete_files">Go to file manager</string>
+    <string name="zzzzz_gn_memoryfull_show_details">Show memory usage detail</string>
+    <string name="zzzzz_gn_memoryfull_do_nothing">Do nothing now</string>
+    <string name="zzzzz_gn_memoryfull_do_now">OK</string>
+    <string name="zzzzz_gn_memoryfull_notification_title">Free storage less than 1G</string>
+    <string name="zzzzz_gn_memoryfull_notification_content">Please release storage to keep OS smooth</string>
+    <string name="zzzzz_gn_memoryfull_extreme_low">Storage is extremely low</string>
+    <string name="zzzzz_gn_memoryfull_extreme_low_content">Storage is less than 500M.You may not be able to take photos or install app.Release space immediately.</string>
+    <string name="zzzzz_gn_clone_suffix">Clone</string>
+    <string name="zzzzz_gn_secret_notification_hint">Unread notification</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_pending_beside">16.0dip</dimen>
+    <dimen name="checkbox_pending_beside">16.0dip</dimen>
+    <dimen name="setting_text_pending_beside">20.0dip</dimen>
+</resources>

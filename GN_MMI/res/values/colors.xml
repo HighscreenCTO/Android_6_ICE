@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_black_dim">#b2000000</color>
+    <color name="btp_255255255">#ffffffff</color>
+    <color name="mmi_all_bkg">#ff2f2f2f</color>
+    <color name="mmi_divider_bkg">#ff5a9f14</color>
+    <color name="mmi_content_bkg">#ff232323</color>
+    <color name="mmi_white">#ffffffff</color>
+    <color name="mmi_green">#ff6db400</color>
+    <color name="mmi_pass_green">#ff46a656</color>
+    <color name="mmi_yellow">#ffe9bb00</color>
+    <color name="mmi_red">#ffcd2e1c</color>
+    <color name="test_blue">#ff63b8ff</color>
+    <color name="test_blue_press">#ff1c86ee</color>
+    <color name="lock_pattern_view_background">#ff334455</color>
+    <color name="tp_test_background">#ff8c8c8c</color>
+</resources>

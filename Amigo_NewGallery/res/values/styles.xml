@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FilterShowSlider">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/filtershow_slider</item>
+        <item name="android:progressDrawable">@drawable/filtershow_slider</item>
+    </style>
+    <style name="Theme.GalleryBase" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/gallery_launch_color</item>
+    </style>
+    <style name="Theme.Gallery" parent="@style/Theme.GalleryBase" />
+    <style name="Theme.GoogleGallery" parent="@style/Theme.Gallery">
+        <item name="android:windowBackground">@color/photo_background</item>
+    </style>
+    <style name="Animation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_close_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_close_exit</item>
+        <item name="android:taskOpenEnterAnimation">@anim/task_open_enter</item>
+        <item name="android:taskOpenExitAnimation">@anim/task_open_exit</item>
+        <item name="android:taskCloseEnterAnimation">@anim/task_close_enter</item>
+        <item name="android:taskCloseExitAnimation">@anim/task_close_exit</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/task_open_enter</item>
+        <item name="android:taskToFrontExitAnimation">@anim/task_open_exit</item>
+        <item name="android:taskToBackEnterAnimation">@anim/task_close_enter</item>
+        <item name="android:taskToBackExitAnimation">@anim/task_close_exit</item>
+    </style>
+    <style name="FullDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@style/AnimationDialog</item>
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="AnimationDialog">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="Theme.Filtershow" parent="@style/Theme.Gallery">
+        <item name="android:windowBackground">@color/background_screen</item>
+    </style>
+    <style name="Theme.Crop" parent="@style/Theme.Gallery">
+        <item name="android:windowBackground">@color/background_screen</item>
+    </style>
+    <style name="Theme.Tuya" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/tu_ya_col_cover_bg</item>
+    </style>
+    <style name="AmigoDialogTheme">
+        <item name="android:windowBackground">@color/dialog_background</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/AmigoAnimationDialog</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowSoftInputMode">stateHidden</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+    <style name="AmigoAnimationDialog">
+        <item name="android:windowEnterAnimation">@anim/amigo_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/amigo_dialog_exit</item>
+    </style>
+</resources>

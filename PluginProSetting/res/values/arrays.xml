@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_whitebalance_entries">
+        <item>@string/pref_whitebalance_entry_auto</item>
+        <item>@string/pref_whitebalance_entry_cloudy</item>
+        <item>@string/pref_whitebalance_entry_daylight</item>
+        <item>@string/pref_whitebalance_entry_fluorescent</item>
+        <item>@string/pref_whitebalance_entry_incandescent</item>
+    </string-array>
+    <string-array name="pref_whitebalance_entryvalues">
+        <item>auto</item>
+        <item>cloudy-daylight</item>
+        <item>daylight</item>
+        <item>fluorescent</item>
+        <item>incandescent</item>
+    </string-array>
+    <array name="pref_whitebalance_icons">
+        <item>@drawable/pref_wb_auto_icon</item>
+        <item>@drawable/pref_wb_cloudy_icon</item>
+        <item>@drawable/pref_wb_daylight_icon</item>
+        <item>@drawable/pref_wb_fluorescent_icon</item>
+        <item>@drawable/pref_wb_incandescent_icon</item>
+    </array>
+    <array name="pref_whitebalance_subicons">
+        <item>@drawable/pref_wb_auto_subicon</item>
+        <item>@drawable/pref_wb_cloudy_subicon</item>
+        <item>@drawable/pref_wb_daylight_subicon</item>
+        <item>@drawable/pref_wb_fluorescent_subicon</item>
+        <item>@drawable/pref_wb_incandescent_subicon</item>
+    </array>
+    <array name="pref_whitebalance_largeicons">
+        <item>@drawable/pref_wb_auto_icon</item>
+        <item>@drawable/pref_wb_cloudy_icon</item>
+        <item>@drawable/pref_wb_daylight_icon</item>
+        <item>@drawable/pref_wb_fluorescent_icon</item>
+        <item>@drawable/pref_wb_incandescent_icon</item>
+    </array>
+    <string-array name="pref_exposure_entries">
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+    </string-array>
+    <string-array name="pref_exposure_entryvalues">
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+    </string-array>
+    <array name="pref_exposure_icons" />
+    <array name="pref_exposure_largeicons" />
+    <string-array name="pref_iso_entries">
+        <item>@string/pref_iso_entry_auto</item>
+        <item>@string/pref_iso_entry_100</item>
+        <item>@string/pref_iso_entry_200</item>
+        <item>@string/pref_iso_entry_400</item>
+        <item>@string/pref_iso_entry_800</item>
+        <item>@string/pref_iso_entry_1600</item>
+    </string-array>
+    <string-array name="pref_iso_entryvalues">
+        <item>auto</item>
+        <item>100</item>
+        <item>200</item>
+        <item>400</item>
+        <item>800</item>
+        <item>1600</item>
+    </string-array>
+    <array name="pref_iso_icons" />
+    <array name="pref_iso_largeicons" />
+    <string-array name="pref_shutterspeed_entries">
+        <item>@string/pref_shutterspeed_entry_auto</item>
+        <item>@string/pref_shutterspeed_entry_1_30</item>
+        <item>@string/pref_shutterspeed_entry_1_15</item>
+        <item>@string/pref_shutterspeed_entry_1_8</item>
+        <item>@string/pref_shutterspeed_entry_1_4</item>
+        <item>@string/pref_shutterspeed_entry_1_2</item>
+        <item>@string/pref_shutterspeed_entry_1</item>
+        <item>@string/pref_shutterspeed_entry_2</item>
+        <item>@string/pref_shutterspeed_entry_3</item>
+        <item>@string/pref_shutterspeed_entry_4</item>
+        <item>@string/pref_shutterspeed_entry_8</item>
+        <item>@string/pref_shutterspeed_entry_16</item>
+        <item>@string/pref_shutterspeed_entry_30</item>
+    </string-array>
+    <string-array name="pref_shutterspeed_entryvalues">
+        <item>auto</item>
+        <item>33</item>
+        <item>66</item>
+        <item>125</item>
+        <item>250</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>8000</item>
+        <item>16000</item>
+        <item>30000</item>
+    </string-array>
+    <string-array name="pref_show_shutterspeed_entries">
+        <item>@string/pref_shutterspeed_entry_auto</item>
+        <item>@string/pref_shutterspeed_entry_1_8</item>
+        <item>@string/pref_shutterspeed_entry_1</item>
+        <item>@string/pref_shutterspeed_entry_4</item>
+        <item>@string/pref_shutterspeed_entry_30</item>
+    </string-array>
+    <string-array name="pref_focallength_entries">
+        <item>@string/pref_focallength_entry_auto</item>
+        <item>@string/pref_focallength_entry_manual</item>
+        <item>@string/pref_focallength_entry_infinite</item>
+    </string-array>
+    <string-array name="pref_focallength_entryvalues">
+        <item>auto</item>
+        <item>manual</item>
+        <item>infinity</item>
+    </string-array>
+    <array name="pref_focallength_icons">
+        <item>@drawable/pref_pro_fl_auto_icon</item>
+        <item>@drawable/pref_pro_fl_manual_icon</item>
+        <item>@drawable/pref_pro_fl_infinite_icon</item>
+    </array>
+    <array name="pref_focallength_subicons">
+        <item>@drawable/pref_pro_fl_auto_subicon</item>
+        <item>@drawable/pref_pro_fl_manual_subicon</item>
+        <item>@drawable/pref_pro_fl_infinite_subicon</item>
+    </array>
+    <array name="pref_focallength_largeicons">
+        <item>@drawable/pref_pro_fl_auto_icon</item>
+        <item>@drawable/pref_pro_fl_manual_icon</item>
+        <item>@drawable/pref_pro_fl_infinite_icon</item>
+    </array>
+    <array name="pro_first_guide_icons">
+        <item>@drawable/ic_pro_fl_guide</item>
+        <item>@drawable/ic_pro_ss_guide</item>
+        <item>@drawable/ic_pro_wb_guide</item>
+        <item>@drawable/ic_pro_iso_guide</item>
+        <item>@drawable/ic_pro_ae_guide</item>
+    </array>
+    <string-array name="pro_first_guide_titles">
+        <item>@string/pro_fl_guide_title</item>
+        <item>@string/pro_ss_guide_title</item>
+        <item>@string/pro_wb_guide_title</item>
+        <item>@string/pro_iso_guide_title</item>
+        <item>@string/pro_ae_guide_title</item>
+    </string-array>
+    <string-array name="pro_first_guide_prompts">
+        <item>@string/pro_fl_guide_prompt</item>
+        <item>@string/pro_ss_guide_prompt</item>
+        <item>@string/pro_wb_guide_prompt</item>
+        <item>@string/pro_iso_guide_prompt</item>
+        <item>@string/pro_ae_guide_prompt</item>
+    </string-array>
+</resources>

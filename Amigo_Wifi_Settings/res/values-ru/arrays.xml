@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>сканирование…</item>
+        <item>Подключение…</item>
+        <item>Авторизация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>подвесной</item>
+        <item>тключение…</item>
+        <item>Отключен</item>
+        <item>неудачный</item>
+        <item>Заблокированные</item>
+        <item>Временно избежать плохое соединение</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s...</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Открытая</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Подключено</item>
+        <item>приглашенный</item>
+        <item>неудачный</item>
+        <item>доступный</item>
+        <item>Из-за границы диапазона</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Плохой</item>
+        <item>Нормальный</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Всегда работает</item>
+        <item>Работает только при зарядке</item>
+        <item>всегда выключать (увеличивает моб. трафик)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда работает</item>
+        <item>Работает только при зарядке</item>
+        <item>всегда выключать</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>НЕТ</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Отключен</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
+        <item>Подключено</item>
+        <item>Время Вышло</item>
+        <item>неудачный</item>
+    </string-array>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Первые 4 цифры</item>
+        <item>Последние 4 цифры</item>
+        <item>Не отображать</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Только домашняя</item>
+        <item>Домашняя + роуминг</item>
+    </string-array>
+    <string-array name="hdmi_video_resolution_entries">
+        <item>Авто</item>
+    </string-array>
+    <string-array name="hdmi_video_resolution_entries_8193">
+        <item>Авто</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Полноэкранный режим</item>
+        <item>Растянуть</item>
+        <item>Оригинальный размер</item>
+    </string-array>
+    <string-array name="hdmi_color_space_entries">
+        <item>RGB</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Авто</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Никогда</item>
+        <item>Отключить при бездействии в течение 5 мин.</item>
+        <item>Отключить при бездействии в течение 10 мин.</item>
+        <item>Отключить при бездействии в течение 20 мин.</item>
+        <item>Отключить при бездействии в течение 30 мин.</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>Нажать кнопку</item>
+        <item>PIN клиента</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 пользователь</item>
+        <item>2 пользователя</item>
+        <item>3 пользователя</item>
+        <item>4 пользователя</item>
+        <item>5 пользователей</item>
+        <item>6 пользователей</item>
+        <item>7 пользователей</item>
+        <item>8 пользователей</item>
+    </string-array>
+    <string-array name="gn_wifi_status">
+        <item></item>
+        <item>канирование…</item>
+        <item>Подключение…</item>
+        <item>Авторизация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item></item>
+        <item>Отключение…</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

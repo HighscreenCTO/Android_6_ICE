@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gn_searchFoundContacts">
+        <item quantity="other">%d contacts are found</item>
+        <item quantity="one">" 1 contact is found"</item>
+    </plurals>
+    <plurals name="gn_phoneRecords">
+        <item quantity="other">%d records</item>
+        <item quantity="one">1 record</item>
+    </plurals>
+    <plurals name="gn_private_add_prompt">
+        <item quantity="other">If you add %d contacts, all call log and SMS of the contacts will be encrypted</item>
+        <item quantity="one">If you add 1 contact, all call log and SMS of the contact will be encrypted</item>
+    </plurals>
+    <plurals name="gn_private_remove_prompt">
+        <item quantity="other">If you remove %d contacts, all calls and SMS of the contacts will be decrypted</item>
+        <item quantity="one">If you remove 1 contact, all calls and SMS of the contact will be decrypted</item>
+    </plurals>
+    <plurals name="gn_private_add_prompt_google">
+        <item quantity="other">Add %d contacts, all calls of the contacts will be encrypted</item>
+        <item quantity="one">Add 1 contact, all calls of the contact will be encrypted</item>
+    </plurals>
+    <plurals name="gn_private_remove_prompt_google">
+        <item quantity="other">Remove %d contacts, all calls of the contacts will be decrypted</item>
+        <item quantity="one">Remove 1 contact, all calls of the contact will be decrypted</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contacts with phone numbers</item>
+        <item quantity="one">1 contact with phone number</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">merged from %0$d sources</item>
+        <item quantity="one">not merged</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d groups</item>
+        <item quantity="one">1 group</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d contacts from %2$s</item>
+        <item quantity="one">%1$d person from %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d contacts</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Voicemails</item>
+        <item quantity="one">Voicemail</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d call logs</item>
+        <item quantity="one">1 call log</item>
+    </plurals>
+</resources>

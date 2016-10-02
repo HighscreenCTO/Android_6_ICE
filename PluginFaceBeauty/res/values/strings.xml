@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FaceBeautyModule</string>
+    <string name="app_label">Face beauty</string>
+    <string name="description">Beautify face</string>
+    <string name="fb_diy">DIY</string>
+    <string name="fb_diy_soften_skin_title">Smoother</string>
+    <string name="fb_diy_slender_face_title">Slimming</string>
+    <string name="fb_diy_enlarge_eye_title">Eye Enlarger</string>
+    <string name="fb_diy_whiten_title">Whitening</string>
+    <string name="fb_contrast">Compare</string>
+</resources>

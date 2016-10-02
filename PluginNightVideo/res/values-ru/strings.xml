@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ночной режим видео</string>
+    <string name="app_label">Ночь</string>
+    <string name="description">Делайте фото просто, даже в темноте</string>
+    <string name="night_mode_hint_text">Не двигайте телефон когда снимаете.</string>
+    <string name="guide_info">Используя снижение шумов, вы можете видеть вещи в темноте так, как они выглядят на самом деле.</string>
+    <string name="indication">Не показывать снова</string>
+    <string name="indication_close">Закрыть</string>
+    <string name="contrast">Контраст</string>
+</resources>

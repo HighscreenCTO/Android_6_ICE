@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Модуль заметки</string>
+    <string name="app_label">Заметка</string>
+    <string name="description">Это заметка</string>
+    <string name="pn_image_saving">Выполнение…</string>
+    <string name="string_message_hint">Интеллектуальная обрезка и оптимизация текста фото при сьемке</string>
+    <string name="super_zoom_text">Супер зум включен</string>
+    <string name="remind_to_open_super_zoom_text">Выключите вспышку, чтобы открыть супер зум</string>
+    <string name="pn_alert_convert">Я знаю</string>
+    <string name="pn_info_internal_path">Память телефона</string>
+    <string name="pn_info_external_path">SD-карта</string>
+    <string name="pn_alert_yes">Я знаю</string>
+    <string name="pn_alert_no">Отмена</string>
+    <string name="btn_action_process">Сохранить</string>
+    <string name="share">Отправить</string>
+    <string name="pdf_dialog_title">Подсказки</string>
+    <string name="pdf_dialog_ok">Да</string>
+    <string name="pdf_dialog_cancel">Нет</string>
+</resources>

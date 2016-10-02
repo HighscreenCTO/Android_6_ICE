@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="gnIcFloder" format="reference" />
+    <attr name="gnIcMenuDelete" format="reference" />
+    <attr name="gnIcMenuShare" format="reference" />
+</resources>

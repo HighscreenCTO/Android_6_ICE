@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Плавающий сенсор</string>
+    <string name="gn_notification_title">Виртуальная кнопка</string>
+    <string name="gn_notification_content">Дотроньтесь ещё раз чтобы кнопка появилась</string>
+    <string name="gn_notification_tickerText">Виртуальная кнопка прячется здесь!</string>
+    <string name="gn_notification_state">Виртуальная кнопка</string>
+    <string name="gn_notification_info">Виртуальная кнопка включена</string>
+    <string name="application_not_exist">Приложение не сущевствует</string>
+    <string name="gn_notification_title_qm">Быстрая кнопка</string>
+    <string name="gn_notification_state_qm">Быстрая кнопка</string>
+</resources>

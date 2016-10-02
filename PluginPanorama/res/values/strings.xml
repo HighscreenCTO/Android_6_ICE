@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PanoramaModule</string>
+    <string name="app_label">Panorama</string>
+    <string name="description">This is Panorama</string>
+    <string name="pano_hint_text">Press camera button and move the phone in one direction slowly.</string>
+    <string name="pano_err_quickly_text">You are moving too fast</string>
+    <string name="pano_err_slowly_text">You are moving too slow</string>
+    <string name="pano_err_big_shake_text">Camera is shaking violently.</string>
+    <string name="pano_err_stitch_direction_text">Wrong direction</string>
+</resources>

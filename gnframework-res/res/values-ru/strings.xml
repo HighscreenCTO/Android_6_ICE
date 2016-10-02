@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzzzz_gn_update_time_title">Обновление времени завершено</string>
+    <string name="zzzzz_gn_time_title">Время выставлено точно</string>
+    <string name="zzzzz_gn_fail_update_time">Ошибка обновления, проверьте подключение к сети.</string>
+    <string name="zzzzz_gn_perm_title">Разрешить доступ?</string>
+    <string name="zzzzz_gn_perm_meg">“%1$s” Для запуска нужно разрешение:</string>
+    <string name="zzzzz_gn_perm_setting">Настройка</string>
+    <string name="zzzzz_gn_perm_ok">Да</string>
+    <string name="zzzzz_gn_perm_cancel">Отклонить(%1d)</string>
+    <string name="zzzzz_gn_perm_more">Если нужны другие разрешения, зайдите в настройки, чтобы изменить</string>
+    <string name="zzzzz_gn_perm_default">По умолчанию</string>
+    <string name="zzzzz_gn_default_permission_group">По умолчанию</string>
+    <string name="zzzzz_gn_permlab_readMms">Читать mms</string>
+    <string name="zzzzz_gn_permlab_writeMms">редактировать/удалить mms</string>
+    <string name="zzzzz_gn_perm_send_mms">отправить mms</string>
+    <string name="zzzzz_gn_perm_remember_my_choice">Запомнить мой выбор</string>
+    <string name="zzzzz_gn_perms_hide">Скрыть</string>
+    <string name="zzzzz_gn_perms_show_all">Показать все</string>
+    <string name="zzzzz_gn_aerr_title">Ошибка приложения</string>
+    <string name="zzzzz_gn_anr_title">Приложение не отвечает</string>
+    <string name="zzzzz_gn_close_dialog">Закрыть</string>
+    <string name="zzzzz_gn_send_error_log">Сообщить об ошибке</string>
+    <string name="zzzzz_gn_installed_protect_dialog_title">Советы по безопасности</string>
+    <string name="zzzzz_gn_installed_protect_dialog_message">"Это приложение без gionee тест-сертификации, может содержать вредоносные программы или привести к проблемам совместимости. Рекомендуется скачивать приложения на официальных сайтах.
+ Использование этих приложений на мобильных телефонах может привести к потери или повреждению данных,за которые вы несете ответственность. 
+
+Продолжить установку?"</string>
+    <string name="zzzzz_gn_installed_protect_dialog_ok">Да</string>
+    <string name="zzzzz_gn_installed_protect_dialog_cancel">Нет</string>
+    <string name="zzzzz_gn_no_permissions">Не требуется разрешений</string>
+    <string name="zzzzz_gn_shutdown_text">Отключить питание</string>
+    <string name="zzzzz_gn_reboot_text">Перезагрузка</string>
+    <string name="zzzzz_gn_airplane_text">Самолет.</string>
+    <string name="zzzzz_gn_voice_text">Без звука</string>
+    <string name="zzzzz_gn_memoryfull_do_now">OK</string>
+</resources>

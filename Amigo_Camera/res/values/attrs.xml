@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="listPreferredItemHeightSmall" format="dimension" />
+    <attr name="switchStyle" format="reference" />
+    <attr name="title" format="string" />
+    <attr name="key" format="string" />
+    <attr name="defaultValue" format="reference|string" />
+    <attr name="entryValues" format="reference" />
+    <attr name="entries" format="reference" />
+    <attr name="labelList" format="reference" />
+    <attr name="icons" format="reference" />
+    <attr name="modes" format="reference" />
+    <attr name="singleIcon" format="reference" />
+    <attr name="largeIcons" format="reference" />
+    <attr name="images" format="reference" />
+    <attr name="vpiCirclePageIndicatorStyle" format="reference" />
+    <attr name="centered" format="boolean" />
+    <attr name="selectedColor" format="color" />
+    <attr name="strokeWidth" format="dimension" />
+    <attr name="unselectedColor" format="color" />
+    <attr name="fillColor" format="color" />
+    <attr name="pageColor" format="color" />
+    <attr name="radius" format="dimension" />
+    <attr name="snap" format="boolean" />
+    <attr name="strokeColor" format="color" />
+    <attr name="roundColor" format="color" />
+    <attr name="roundProgressColor" format="color" />
+    <attr name="roundWidth" format="dimension" />
+    <attr name="max" format="integer" />
+    <attr name="style">
+        <enum name="fill" value="1" />
+        <enum name="stroke" value="0" />
+    </attr>
+    <attr name="scale5drawable" format="reference" />
+    <attr name="scalecolor" format="color" />
+    <attr name="scalewidth" format="dimension" />
+    <attr name="shortscaleheight" format="dimension" />
+    <attr name="longscaleheight" format="dimension" />
+</resources>

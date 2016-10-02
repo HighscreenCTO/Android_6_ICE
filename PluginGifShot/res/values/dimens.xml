@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gif_player_top_padding">40.0dip</dimen>
+    <dimen name="gif_player_left_right_padding">20.0dip</dimen>
+    <dimen name="gif_player_width">274.0dip</dimen>
+    <dimen name="gif_player_control_height">27.0dip</dimen>
+    <dimen name="gif_player_text_left_right_padding">10.0dip</dimen>
+    <dimen name="gif_topbar_height">51.0dip</dimen>
+    <dimen name="gif_player_margin_bottom">110.0dip</dimen>
+    <dimen name="gif_player_top_bottom_margin">54.0dip</dimen>
+    <dimen name="gif_player_slow_fast_text_size">12.0dip</dimen>
+    <dimen name="gif_player_back_text_size">20.0dip</dimen>
+    <dimen name="gif_topbar_btn_home_size">51.0dip</dimen>
+    <dimen name="gif_topbar_btn_save_size">55.0dip</dimen>
+    <dimen name="gif_selector_item_margin_bottom">35.0dip</dimen>
+    <dimen name="gif_seekbar_thumbOffset">5.0dip</dimen>
+    <dimen name="gif_content_mask_top">60.0dip</dimen>
+    <dimen name="gif_content_mask_content">360.0dip</dimen>
+    <dimen name="gif_progressbar_margin_bottom_4_3">-7.0dip</dimen>
+    <dimen name="gif_preview_capture_top_offset">160.0px</dimen>
+    <dimen name="pro_guide_parent_width">310.0dip</dimen>
+    <dimen name="pro_guide_parent_height">344.0dip</dimen>
+    <dimen name="pro_guide_parent_left_margin">25.0dip</dimen>
+    <dimen name="pro_guide_parent_top_margin">62.0dip</dimen>
+    <dimen name="pro_guide_close_btn_size">32.0dip</dimen>
+    <dimen name="pro_guide_close_btn_top_margin">3.0dip</dimen>
+    <dimen name="pro_guide_close_btn_right_margin">4.0dip</dimen>
+    <dimen name="pro_guide_prompt_lr_margin">25.0dip</dimen>
+    <dimen name="pro_guide_prompt_top_margin">24.0dip</dimen>
+    <dimen name="pro_guide_prompt_bottom_margin">65.0dip</dimen>
+    <dimen name="pro_guide_hint_cb_bottom_margin">5.0dip</dimen>
+    <dimen name="pro_guide_hint_cb_text_size">12.0dip</dimen>
+    <dimen name="edit_hint_top_margin">510.0dip</dimen>
+    <dimen name="pro_guide_info_top_margin">14.0dip</dimen>
+</resources>

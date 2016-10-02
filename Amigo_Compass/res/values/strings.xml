@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="pressure">Pressure</string>
+    <string name="altitude">Altitude</string>
+    <string name="pressure_unit">hpa</string>
+    <string name="altitude_unit">m</string>
+    <string name="north">N</string>
+    <string name="south">S</string>
+    <string name="east">E</string>
+    <string name="west">W</string>
+    <string name="northeast">NE</string>
+    <string name="northwest">NW</string>
+    <string name="southeast">SE</string>
+    <string name="southwest">SW</string>
+    <string name="degree">°</string>
+    <string name="noGps">No GPS</string>
+    <string name="gettingGps">Getting GPS data…</string>
+    <string name="latitude">LAT:</string>
+    <string name="longitude">LONG:</string>
+    <string name="calibration">Calibrate Compass</string>
+    <string name="ok">Close</string>
+    <string name="guide_content">Standing in an open space ,hold your phone flat with the display facing the sky.Move it in front of you in large figure-8 patterns in two complete rounds.Hold the phone upright with the display facing your face.Repeat the figure-8 movement again for two complete rounds.</string>
+    <string name="accuracy_calibration">please calibrate the accuracy</string>
+    <string name="exit">Cancel</string>
+    <string name="help">Help</string>
+    <string name="magnetic_interference_one">Magnetic interference</string>
+    <string name="magnetic_interference_two">Move your phone like the animation for compass calibration</string>
+    <string name="guide">Calibrate like the following action!</string>
+    <string name="success">Calibration is OK</string>
+    <string name="magnetic_interference_title">Accurate</string>
+</resources>

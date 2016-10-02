@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="other_app">
+        <item>@string/other_app_camera</item>
+        <item>@string/other_app_note</item>
+        <item>@string/other_app_music</item>
+        <item>@string/other_app_other</item>
+    </string-array>
+    <string-array name="size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="transparency">
+        <item>Low</item>
+        <item>Normal</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="function">
+        <item>@string/basic_feature_voice</item>
+        <item>@string/basic_feature_single_hand</item>
+        <item>@string/basic_feature_lock</item>
+        <item>@string/basic_feature_home</item>
+        <item>@string/basic_feature_back</item>
+        <item>@string/basic_feature_menu</item>
+    </string-array>
+</resources>

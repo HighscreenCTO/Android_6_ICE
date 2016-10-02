@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GifShotModule</string>
+    <string name="app_description">This is a GIF</string>
+    <string name="app_label">GIF</string>
+    <string name="gif_capture_back">Back</string>
+    <string name="gif_capture_save_success">Saved successfully</string>
+    <string name="module_hold_camera">Keep the lens stable while shooting.</string>
+    <string name="module_shot_notice">Don’t move while shooting.</string>
+    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="kids_mode_image_file_name_format">"'KidsMode_IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="kids_mode_video_file_name_format">"'KidsMode_VID'_yyyyMMdd_HHmmss"</string>
+    <string name="pro_indication_close">Close</string>
+    <string name="pro_indication">"Don't display again"</string>
+    <string name="pro_guide_info">Shooting multiple images to form a simple animation</string>
+    <string name="gif_save_slow">Normal</string>
+    <string name="gif_save_quick">3X</string>
+    <string name="gif_dialog_title">Image Size</string>
+    <string name="gif_dialog_ok">OK</string>
+    <string name="gif_dialog_cancel">Cancel</string>
+</resources>

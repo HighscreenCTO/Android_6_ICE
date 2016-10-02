@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Счастливый</item>
+        <item>Грустный</item>
+        <item>Подмигивает</item>
+        <item>Показывает язык</item>
+        <item>Удивлен</item>
+        <item>Поцелуй</item>
+        <item>Крик</item>
+        <item>Клевый</item>
+        <item>Жадный</item>
+        <item>Болтливый</item>
+        <item>Смущен</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Плачущий</item>
+        <item>Рот на замке</item>
+        <item>Смех</item>
+        <item>В замешательстве</item>
+        <item>Сердце</item>
+        <item>Злой</item>
+        <item>Самодовольный</item>
+        <item>Безразличие</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Ты где?</item>
+        <item>Что делаешь?</item>
+        <item>Перезвони мне!</item>
+        <item>Я на совещании.</item>
+        <item>Я перезвоню.</item>
+        <item>Не волнуйся! Я в порядке!</item>
+        <item>Я иду домой.</item>
+        <item>Я скоро буду.</item>
+        <item>Обязательно приходи!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Ограниченный</item>
+        <item>С предупреждением</item>
+        <item>Свободный</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Высокое</item>
+        <item>Средний</item>
+        <item>Низкий</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Азбука GSM</item>
+        <item>Юникод</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Телефон</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="planets">
+        <item>Телефон</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="blade_full_sections">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="blade_replaced_sections">
+        <item>\#</item>
+        <item>A</item>
+        <item>-</item>
+        <item>C</item>
+        <item>-</item>
+        <item>E</item>
+        <item>-</item>
+        <item>G</item>
+        <item>-</item>
+        <item>I</item>
+        <item>-</item>
+        <item>K</item>
+        <item>-</item>
+        <item>M</item>
+        <item>-</item>
+        <item>O</item>
+        <item>-</item>
+        <item>Q</item>
+        <item>-</item>
+        <item>S</item>
+        <item>-</item>
+        <item>U</item>
+        <item>-</item>
+        <item>W</item>
+        <item>-</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <integer-array name="blade_section_baselines">
+        <item>21</item>
+        <item>37</item>
+        <item>49</item>
+        <item>65</item>
+        <item>77</item>
+        <item>93</item>
+        <item>105</item>
+        <item>121</item>
+        <item>133</item>
+        <item>149</item>
+        <item>161</item>
+        <item>177</item>
+        <item>189</item>
+        <item>205</item>
+        <item>217</item>
+        <item>233</item>
+        <item>245</item>
+        <item>261</item>
+        <item>273</item>
+        <item>289</item>
+        <item>301</item>
+        <item>317</item>
+        <item>329</item>
+        <item>345</item>
+        <item>357</item>
+        <item>373</item>
+        <item>389</item>
+    </integer-array>
+    <integer-array name="blade_indicator_tops">
+        <item>8</item>
+        <item>24</item>
+        <item>36</item>
+        <item>52</item>
+        <item>64</item>
+        <item>80</item>
+        <item>92</item>
+        <item>108</item>
+        <item>120</item>
+        <item>136</item>
+        <item>148</item>
+        <item>164</item>
+        <item>176</item>
+        <item>192</item>
+        <item>204</item>
+        <item>220</item>
+        <item>232</item>
+        <item>248</item>
+        <item>260</item>
+        <item>276</item>
+        <item>288</item>
+        <item>304</item>
+        <item>316</item>
+        <item>332</item>
+        <item>344</item>
+        <item>360</item>
+        <item>376</item>
+    </integer-array>
+    <string-array name="gn_tag_types">
+        <item>Promote</item>
+        <item>bootie call</item>
+        <item>fraud</item>
+        <item>express</item>
+        <item>take-away</item>
+        <item>agency</item>
+        <item>insurance</item>
+    </string-array>
+    <string-array name="gn_receiptors">
+        <item>Недавние контакты</item>
+        <item>Контакты</item>
+        <item>Группа</item>
+    </string-array>
+    <string-array name="gn_conv_spinner_list">
+        <item>Все</item>
+        <item>Блокировка</item>
+    </string-array>
+    <string-array name="gn_entries_list_photo_options">
+        <item>Отображать</item>
+        <item>Скрывать</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Другое…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>всегда</item>
+        <item>Без звука</item>
+        <item>никогда</item>
+    </string-array>
+</resources>

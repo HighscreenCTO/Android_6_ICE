@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeLapseModule</string>
+    <string name="app_description">This is Time Lapse</string>
+    <string name="app_label">Time-lapse</string>
+    <string name="guide_info">Time lapse photography is the rapid play of the video, a long period of time condensed to a very short period of time.</string>
+    <string name="indication">"Don't display again."</string>
+    <string name="indication_close">Close</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_color">#ffffffff</color>
+    <color name="black_color">#00000000</color>
+    <color name="face_detect_start">#80ffffff</color>
+    <color name="face_detect_success">#8050d060</color>
+    <color name="face_detect_fail">#80d05060</color>
+    <color name="plugin_indicator_text_color">#ccffffff</color>
+    <color name="menu_item_selected">#fffac300</color>
+    <color name="menu_item_normal">@color/white_color</color>
+    <color name="default_circle_indicator_fill_color">@color/white_color</color>
+    <color name="default_circle_indicator_page_color">@color/black_color</color>
+    <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
+    <color name="continuous_cap_num_indicator_shadow_color">#0adddddd</color>
+    <color name="recording_time_remaining_text">#ffff0033</color>
+    <color name="recording_time_elapsed_text">@color/white_color</color>
+    <color name="pluginlist_topbar_bg">#ff000000</color>
+    <color name="pluginlist_main_text">#ff333333</color>
+    <color name="pluginlist_sub_text">#ff898989</color>
+    <color name="pluginlist_btn_text">#ff82b530</color>
+    <color name="pluginlist_btn_pause_text">#ffb12828</color>
+    <color name="pluginlist_list_detail">#ffeeeeee</color>
+    <color name="pluginlist_list_item">#ffffffff</color>
+    <color name="pluginlist_list_item_p">#ffe4e4e4</color>
+    <color name="gesture_cd_color_normal">#b0fac300</color>
+    <color name="gesture_cd_color_pressed">#b0987700</color>
+    <color name="text_indicator_default_color">#ffffffff</color>
+    <color name="text_indicator_selected_color">#fffac300</color>
+    <color name="background_mask">#ff000000</color>
+    <color name="plugin_popup_bg">#99000000</color>
+    <color name="video_fb_text_color">#ffffffff</color>
+    <color name="fill_light_bg1">#fffff6db</color>
+    <color name="colorWhite">#ffffffff</color>
+    <color name="pressedColor">#ffd4d4d4</color>
+</resources>

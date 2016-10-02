@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zzzzz_gn_def_flip_on_sound">/system/media/audio/ui/FlipOn.ogg</string>
+    <string name="zzzzz_gn_def_flip_off_sound">/system/media/audio/ui/FlipOff.ogg</string>
+    <string name="zzzzz_gn_def_guest_pass" />
+    <string name="def_alarm_ring">content://media/internal/audio/media/5</string>
+    <string name="def_ringtone2" />
+    <string name="def_mms" />
+    <string name="def_mms2" />
+    <string name="def_theme_package_name">theme</string>
+    <string name="def_fast_operation_up_app">com.android.camera/com.android.camera.CameraLauncher</string>
+    <string name="def_fast_operation_right_app">com.tencent.mm/com.tencent.mm.ui.LauncherUI</string>
+    <string name="def_virtual_display_devices">0</string>
+    <string name="def_key_ringtone_data">/system/media/audio/ringtones/AmigoTune.ogg</string>
+    <string name="def_key_ringtone2_data">/system/media/audio/ringtones/AmigoTune.ogg</string>
+    <string name="def_key_notification_data">/system/media/audio/notifications/Crystal.ogg</string>
+    <string name="def_key_mms_data">/system/media/audio/notifications/Crystal.ogg</string>
+    <string name="def_key_mms2_data">/system/media/audio/notifications/Crystal.ogg</string>
+    <string name="def_key_video_data">/system/media/audio/ringtones/AmigoTune.ogg</string>
+    <string name="def_black_gesture_e_ba">1:com.boxer.email/com.boxer.email.activity.Welcome</string>
+    <string name="def_black_gesture_e">1:com.android.email/com.android.email.activity.Welcome</string>
+    <string name="def_black_gesture_u_right">1:com.android.camera/com.android.camera.CameraLauncher</string>
+    <string name="def_black_gesture_m">1:com.android.music/com.android.music.MusicScanResultActivity</string>
+    <string name="def_black_gesture_m_selfie">4:playpause</string>
+    <string name="def_black_gesture_s_selfie">0:selfie</string>
+    <string name="def_black_gesture_w_selfie">1:com.whatsapp/com.whatsapp.Main</string>
+    <string name="def_black_gesture_triangular" />
+    <string name="def_black_gesture_up_slide" />
+    <string name="def_black_gesture_down_slide" />
+    <string name="def_black_gesture_default" />
+    <string name="def_black_gesture_o_torch">1:com.gionee.flashlight/com.gionee.flashlight.FlashLightActivity</string>
+    <string name="def_zen_mode_days">days:1,2,3,4,5,6,7</string>
+    <string name="def_custom_gesture_value" />
+    <string name="def_vibration_effect_name">NOTIFICATION_GENERAL</string>
+    <string name="def_wirte_diag_config">diag,serial_smd,rmnet_bam,adb</string>
+    <string name="def_tranferdata_progress">null</string>
+    <string name="def_zenmode_public_holidays_info">22:0-7:0</string>
+    <string name="app_label">amigo Settings Storage</string>
+</resources>

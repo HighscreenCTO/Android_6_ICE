@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fb_contrast_btn_margin_top">19.0dip</dimen>
+    <dimen name="fb_contrast_btn_margin_right">3.0dip</dimen>
+    <dimen name="fb_diy_layout_margin_bottom">25.0dip</dimen>
+    <dimen name="fb_diy_layout_margin_right">3.0dip</dimen>
+    <dimen name="fb_diy_layout_size">65.0dip</dimen>
+    <dimen name="fb_diy_text_size">12.0dip</dimen>
+    <dimen name="fb_controlbar_margin_bottom">11.0dip</dimen>
+    <dimen name="fb_controlbar_margin_lr">5.0dip</dimen>
+    <dimen name="fb_seekbar_parent_padding_lr">4.0dip</dimen>
+    <dimen name="fb_selector_parent_marigin_top">20.0dip</dimen>
+    <dimen name="fb_selector_parent_height">72.0dip</dimen>
+    <dimen name="fb_exit_btn_margin_lr">6.0dip</dimen>
+    <dimen name="fb_exit_btn_margin_bottom">1.0dip</dimen>
+    <dimen name="fb_separator_vline_width">1.0dip</dimen>
+    <dimen name="fb_separator_vline_margin_right">57.0dip</dimen>
+    <dimen name="fb_separator_vline_margin_top">2.0dip</dimen>
+    <dimen name="fb_selector_margin_left">4.0dip</dimen>
+    <dimen name="fb_selector_margin_right">65.0dip</dimen>
+    <dimen name="fb_selector_text_size">12.0dip</dimen>
+    <dimen name="fb_selector_item_size">57.0dip</dimen>
+    <dimen name="fb_selector_item_margin_left">14.0dip</dimen>
+    <dimen name="fb_selector_margin_left_4_1">20.0dip</dimen>
+    <dimen name="fb_selector_item_margin_left_4_1">25.0dip</dimen>
+    <dimen name="fb_seekbar_width">310.0dip</dimen>
+    <dimen name="fb_level_text_margin_right">15.0dip</dimen>
+    <dimen name="top_bar_height">66.0dip</dimen>
+</resources>

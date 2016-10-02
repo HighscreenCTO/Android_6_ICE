@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="amigo_action_menu_presenter" />
+    <item type="id" name="amigo_action_bar_title" />
+    <item type="id" name="amigo_action_bar_subtitle" />
+    <item type="id" name="amigo_action_bar_back" />
+    <item type="id" name="amigo_action_bar_icon" />
+    <item type="id" name="amigo_alert_dialog_title" />
+    <item type="id" name="amigo_dialog_cancel_icon" />
+    <item type="id" name="amigo_alert_dialog_icon" />
+    <item type="id" name="amigo_message" />
+    <item type="id" name="amigo_pickers" />
+    <item type="id" name="amigo_month_day_layout" />
+    <item type="id" name="amigo_calendar_view" />
+    <item type="id" name="amigo_day" />
+    <item type="id" name="amigo_numberpicker_input" />
+    <item type="id" name="amigo_month" />
+    <item type="id" name="amigo_year" />
+    <item type="id" name="amigo_datePicker" />
+    <item type="id" name="amigo_timePicker" />
+    <item type="id" name="amigo_increment" />
+    <item type="id" name="amigo_decrement" />
+    <item type="id" name="amigo_progress" />
+    <item type="id" name="amigo_progress_number" />
+    <item type="id" name="amigo_progress_percent" />
+    <item type="id" name="amigo_hour" />
+    <item type="id" name="amigo_minute" />
+    <item type="id" name="amigo_amPm" />
+    <item type="id" name="amigo_toolbar_group" />
+    <item type="id" name="amigo_toolbar_position_arrow" />
+    <item type="id" name="amigo_title" />
+    <item type="id" name="amigo_icon" />
+    <item type="id" name="amigo_checkbox" />
+    <item type="id" name="amigo_edittext_container" />
+    <item type="id" name="amigo_list_footer" />
+    <item type="id" name="amigo_prefs_frame" />
+    <item type="id" name="amigo_headers" />
+    <item type="id" name="amigo_prefs" />
+    <item type="id" name="amigo_button_bar" />
+    <item type="id" name="amigo_back_button" />
+    <item type="id" name="amigo_skip_button" />
+    <item type="id" name="amigo_next_button" />
+    <item type="id" name="amigo_seekbar" />
+    <item type="id" name="amigo_switchWidget" />
+    <item type="id" name="amigo_contentPanel" />
+    <item type="id" name="amigo_topPanel" />
+    <item type="id" name="amigo_buttonPanel" />
+    <item type="id" name="amigo_customPanel" />
+    <item type="id" name="amigo_custom" />
+    <item type="id" name="amigo_titleDivider" />
+    <item type="id" name="amigo_titleDividerTop" />
+    <item type="id" name="amigo_cancel" />
+    <item type="id" name="amigo_title_template" />
+    <item type="id" name="amigo_alertTitle" />
+    <item type="id" name="amigo_scrollView" />
+    <item type="id" name="amigo_button1" />
+    <item type="id" name="amigo_button2" />
+    <item type="id" name="amigo_button3" />
+    <item type="id" name="amigo_text1" />
+    <item type="id" name="amigo_magic_bar_bg" />
+    <item type="id" name="amigo_overlap" />
+    <item type="id" name="amigo_magic_bar" />
+    <item type="id" name="amigo_magicbar_shadow" />
+    <item type="id" name="amigo_magicbar_tab" />
+    <item type="id" name="amigo_icon0" />
+    <item type="id" name="amigo_icon1" />
+    <item type="id" name="amigo_icon2" />
+    <item type="id" name="amigo_icon3" />
+    <item type="id" name="amigo_icon4" />
+    <item type="id" name="amigo_divider" />
+    <item type="id" name="amigo_listview" />
+    <item type="id" name="amigo_magic_listpublic_textview" />
+    <item type="id" name="amigo_magic_listpublic_checkbox" />
+    <item type="id" name="amigo_action_bar_container" />
+    <item type="id" name="amigo_action_bar" />
+    <item type="id" name="amigo_up" />
+    <item type="id" name="amigo_action_bar_intellgent_container" />
+    <item type="id" name="amigo_content" />
+    <item type="id" name="amigo_shortcut" />
+    <item type="id" name="amigo_action_bar_overlay_layout" />
+    <item type="id" name="amigo_action_context_bar" />
+    <item type="id" name="amigo_split_action_bar" />
+    <item type="id" name="amigo_action_mode_close_button" />
+    <item type="id" name="amigo_home" />
+    <item type="id" name="amigo_empty_view" />
+    <item type="id" name="amigo_search_button" />
+    <item type="id" name="amigo_search_src_text" />
+    <item type="id" name="amigo_search_edit_frame" />
+    <item type="id" name="amigo_search_plate" />
+    <item type="id" name="amigo_search_background" />
+    <item type="id" name="amigo_search_go_btn" />
+    <item type="id" name="amigo_search_close_btn" />
+    <item type="id" name="amigo_search_voice_btn" />
+    <item type="id" name="amigo_search_mag_icon" />
+    <item type="id" name="amigo_edit_query" />
+    <item type="id" name="amigo_resolver_grid" />
+    <item type="id" name="amigo_button_always" />
+    <item type="id" name="amigo_button_once" />
+    <item type="id" name="amigo_actionbar_container_stub" />
+    <item type="id" name="amigo_substance_bar" />
+    <item type="id" name="amigo_time_picker" />
+    <item type="id" name="amigo_search_bar" />
+    <item type="id" name="amigo_magicbar_backgroud" />
+    <item type="id" name="amigo_expandable_list_group_divider" />
+    <item type="id" name="amigo_preference_title_layout" />
+    <item type="id" name="amigo_right_button" />
+    <item type="id" name="amigo_multichoice_selectedCount" />
+    <item type="id" name="amigo_multichoice_selectall" />
+    <item type="id" name="tabHost" />
+    <item type="id" name="title_tv" />
+    <item type="id" name="amigo_customView" />
+    <item type="id" name="amigo_menuIcon" />
+    <item type="id" name="amigo_menuTitle" />
+    <item type="id" name="amigo_forcetouch_custom_view" />
+    <item type="id" name="amigo_forcetouch_indicator" />
+    <item type="id" name="amigo_submenuIcon" />
+    <item type="id" name="amigo_submenuIcon_layout" />
+    <item type="id" name="amigo_magic_listitem_textview" />
+    <item type="id" name="amigo_magic_listitem_checkbox" />
+    <item type="id" name="month_day_layout" />
+    <item type="id" name="amigo_menuIconContainer" />
+    <item type="id" name="body">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="about_current_version">false</item>
+    <item type="id" name="about_declare">false</item>
+    <item type="id" name="about_sina">false</item>
+    <item type="id" name="about_tencent">false</item>
+    <item type="id" name="about_qq_group">false</item>
+    <item type="id" name="about_email">false</item>
+    <item type="id" name="email">false</item>
+    <item type="id" name="check_upgrade">false</item>
+    <item type="id" name="check_upgrade_progress">false</item>
+    <item type="id" name="check_text">false</item>
+    <item type="id" name="user_question">false</item>
+    <item type="id" name="clause">false</item>
+    <item type="id" name="about_copyright">false</item>
+    <item type="id" name="more_ring">false</item>
+    <item type="id" name="amigo_parentPanel">false</item>
+    <item type="id" name="amigo_progress_percent_layout">false</item>
+    <item type="id" name="amigo_progress_percent_num">false</item>
+    <item type="id" name="amigo_left_btn">false</item>
+    <item type="id" name="amigo_expanded_menu">false</item>
+    <item type="id" name="amigo_radio">false</item>
+    <item type="id" name="selectall">false</item>
+    <item type="id" name="amigo_body">false</item>
+    <item type="id" name="amigo_search_badge">false</item>
+    <item type="id" name="viewpager">false</item>
+    <item type="id" name="local_list">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="intellegent_view">false</item>
+    <item type="id" name="adjust_layout">false</item>
+    <item type="id" name="play_button">false</item>
+    <item type="id" name="pp_text">false</item>
+    <item type="id" name="start_left">false</item>
+    <item type="id" name="start_right">false</item>
+    <item type="id" name="end_left">false</item>
+    <item type="id" name="end_right">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="save">false</item>
+    <item type="id" name="audio_wave">false</item>
+    <item type="id" name="startpos">false</item>
+    <item type="id" name="endpos">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="duration">false</item>
+    <item type="id" name="contenttv">false</item>
+    <item type="id" name="save_name">false</item>
+    <item type="id" name="save_btn">false</item>
+    <item type="id" name="buffer">false</item>
+    <item type="id" name="diy_again">false</item>
+    <item type="id" name="set_ringtone">false</item>
+    <item type="id" name="local_delete">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="crbt_item">false</item>
+    <item type="id" name="song_name">false</item>
+    <item type="id" name="check_box">false</item>
+    <item type="id" name="op_bttn">false</item>
+    <item type="id" name="radiobutton">false</item>
+    <item type="id" name="line">false</item>
+    <item type="id" name="expandImage">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="copyright">false</item>
+    <item type="id" name="textSelectedCount">false</item>
+    <item type="id" name="layout_go_to_order">false</item>
+    <item type="id" name="prelisten_none_imageview">false</item>
+    <item type="id" name="promt_text">false</item>
+    <item type="id" name="webview">false</item>
+    <item type="id" name="video">false</item>
+    <item type="id" name="root_layout">false</item>
+    <item type="id" name="bell_text">false</item>
+    <item type="id" name="ringtone_text">false</item>
+    <item type="id" name="about_button">false</item>
+    <item type="id" name="first_item">false</item>
+    <item type="id" name="first_icon">false</item>
+    <item type="id" name="first_text">false</item>
+    <item type="id" name="second_item">false</item>
+    <item type="id" name="second_icon">false</item>
+    <item type="id" name="second_text">false</item>
+    <item type="id" name="set_history">false</item>
+    <item type="id" name="prelisten_history">false</item>
+    <item type="id" name="select_slot">false</item>
+    <item type="id" name="layout_slot1">false</item>
+    <item type="id" name="slot1_one">false</item>
+    <item type="id" name="slot1_ring">false</item>
+    <item type="id" name="layout_slot2">false</item>
+    <item type="id" name="slot2_two">false</item>
+    <item type="id" name="slot2_ring">false</item>
+    <item type="id" name="umeng_fb_contact_info">false</item>
+    <item type="id" name="umeng_fb_save">false</item>
+    <item type="id" name="umeng_fb_conversation_contact_entry">false</item>
+    <item type="id" name="umeng_fb_conversation_list_wrapper">false</item>
+    <item type="id" name="umeng_fb_reply_list">false</item>
+    <item type="id" name="umeng_fb_reply_content_wrapper">false</item>
+    <item type="id" name="umeng_fb_send">false</item>
+    <item type="id" name="umeng_fb_reply_content">false</item>
+    <item type="id" name="umeng_fb_reply_date">false</item>
+    <item type="id" name="confirm_text">false</item>
+    <item type="id" name="delete">false</item>
+    <item type="id" name="diy">false</item>
+</resources>

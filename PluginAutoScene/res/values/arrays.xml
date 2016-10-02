@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_scene_detection_entries">
+        <item>@string/scene_mode_normal</item>
+        <item>@string/scene_mode_night</item>
+        <item>@string/scene_mode_fogorflare</item>
+        <item>@string/scene_mode_hdr</item>
+    </string-array>
+</resources>

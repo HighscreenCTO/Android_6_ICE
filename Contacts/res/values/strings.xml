@@ -272,7 +272,6 @@ Please wait..."</string>
     <string name="gn_contact_delete_all_tips">"There's already a contact deletion in background. Please cancel it first."</string>
     <string name="gn_confirm_export_title">Export contacts</string>
     <string name="gn_confirm_export_message">Are you sure to export your contact list to file: %s ?</string>
-    <string name="gn_customer_service">GIONEE Customer Service</string>
     <string name="gn_gallery_title">Gallery</string>
     <string name="gn_pick_photo_from_other_app">Choose photo from other application</string>
     <string name="gn_gallery_photo_view_title">Contact Head Portrait</string>

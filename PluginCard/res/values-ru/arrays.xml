@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lang_type">
+        <item>English</item>
+        <item>Simplified Chinese</item>
+        <item>Traditional Chinese</item>
+        <item>Russian</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>Portuguese</item>
+        <item>Korean</item>
+        <item>Japanese</item>
+        <item>Arabic</item>
+        <item>Italian</item>
+        <item>Hungarian</item>
+        <item>Dutch</item>
+        <item>Finnish</item>
+        <item>Danish</item>
+        <item>Swedish</item>
+        <item>Norwegian</item>
+    </string-array>
+</resources>

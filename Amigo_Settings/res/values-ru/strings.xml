@@ -3883,7 +3883,7 @@ A Google -это подход к данным синхронизируемыхд
     <string name="system_alert_window_access_title">Показывать поверх других окон</string>
     <string name="permit_draw_overlay">Разрешить показ поверх других приложений</string>
     <string name="app_overlay_permission_preference">Приложения прописываются на верхнем экране</string>
-    <string name="allow_overlay_description">Это разрешение позволяет приложению отображаться поверх других приложений, которые вы используете и может помешать использованию интерфейса в других приложениях, или изменить то, что вы думаете, что вы видите в других приложениях.</string>
+    <string name="allow_overlay_description">Это разрешение позволяет приложению отображаться поверх других приложений, которые вы используете.</string>
     <string name="keywords_system_alert_window">Системное диалоговое окно предупреждения прописывания поверх других приложений</string>
     <string name="overlay_settings">Прописывать поверх других окон</string>
     <string name="system_alert_window_summary" formatted="false">%d of %d приложениям разрешено прописываться поверх других приложений</string>

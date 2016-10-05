@@ -11,8 +11,8 @@
     <string name="callFailed_server_unreachable">Сервер недоступен</string>
     <string name="callFailed_number_unreachable">Номер недоступен</string>
     <string name="callFailed_invalid_credentials">Неверное имя пользователя или пароль</string>
-    <string name="callFailed_out_of_network">Внешние вызовы запрещены</string>
-    <string name="callFailed_server_error">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="callFailed_out_of_network">Нет сети</string>
+    <string name="callFailed_server_error">Ошибка сервера.</string>
     <string name="callFailed_noSignal">Нет сигнала</string>
     <string name="callFailed_limitExceeded">Превышен лимит ACM</string>
     <string name="callFailed_powerOff">Приемопередатчик выключен</string>
@@ -28,7 +28,7 @@
     <string name="ringtone_silent">Нет</string>
     <string name="ringtone_unknown">Мелодия не найдена</string>
     <string name="str_db_playlist_name">Мои записи</string>
-    <string name="alert_device_error">Ошибка аудиоустройства</string>
+    <string name="alert_device_error">Ошибка аудио устройства</string>
     <string name="ext_media_badremoval_notification_title">Карта SD неожиданно извлечена</string>
     <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
     <string name="confirm_device_info_full">На карте SD закончилось место, запись сохранена.</string>

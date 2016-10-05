@@ -8,12 +8,12 @@
     <string name="zzzzz_gn_perm_setting">Настройка</string>
     <string name="zzzzz_gn_perm_ok">Да</string>
     <string name="zzzzz_gn_perm_cancel">Отклонить(%1d)</string>
-    <string name="zzzzz_gn_perm_more">Если нужны другие разрешения, зайдите в настройки, чтобы изменить</string>
+    <string name="zzzzz_gn_perm_more">Если нужны другие разрешения, зайдите в настройки, чтобы их добавить</string>
     <string name="zzzzz_gn_perm_default">По умолчанию</string>
     <string name="zzzzz_gn_default_permission_group">По умолчанию</string>
     <string name="zzzzz_gn_permlab_readMms">Читать mms</string>
-    <string name="zzzzz_gn_permlab_writeMms">редактировать/удалить mms</string>
-    <string name="zzzzz_gn_perm_send_mms">отправить mms</string>
+    <string name="zzzzz_gn_permlab_writeMms">Редактировать/удалить mms</string>
+    <string name="zzzzz_gn_perm_send_mms">Отправить mms</string>
     <string name="zzzzz_gn_perm_remember_my_choice">Запомнить мой выбор</string>
     <string name="zzzzz_gn_perms_hide">Скрыть</string>
     <string name="zzzzz_gn_perms_show_all">Показать все</string>
@@ -22,8 +22,8 @@
     <string name="zzzzz_gn_close_dialog">Закрыть</string>
     <string name="zzzzz_gn_send_error_log">Сообщить об ошибке</string>
     <string name="zzzzz_gn_installed_protect_dialog_title">Советы по безопасности</string>
-    <string name="zzzzz_gn_installed_protect_dialog_message">"Это приложение без gionee тест-сертификации, может содержать вредоносные программы или привести к проблемам совместимости. Рекомендуется скачивать приложения на официальных сайтах.
- Использование этих приложений на мобильных телефонах может привести к потери или повреждению данных,за которые вы несете ответственность. 
+    <string name="zzzzz_gn_installed_protect_dialog_message">"Это приложение не сертифицировано и может содержать вредоносные программы или привести к проблемам совместимости. Рекомендуется скачивать приложения на официальных сайтах.
+ Использование этих приложений на мобильных телефонах может привести к потери или повреждению данных. 
 
 Продолжить установку?"</string>
     <string name="zzzzz_gn_installed_protect_dialog_ok">Да</string>

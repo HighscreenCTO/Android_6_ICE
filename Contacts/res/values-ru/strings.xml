@@ -398,7 +398,7 @@
     <string name="croping_dialog">Обрезка фото, ждите!</string>
     <string name="outofmemory_error">Невозможно обрезать фото! Недостаточно памяти. Освободите место в памяти устройства и попробуйте снова.</string>
     <string name="keyboard">Клавиатура</string>
-    <string name="gn_detail_call_log">Журнал вызовов</string>
+    <string name="gn_detail_call_log">Журнал</string>
     <string name="gn_detail_log">Сведения</string>
     <string name="gn_detail_msm_log">SMS</string>
     <string name="gn_detail_call_date_format">ГГГГ-MM-ДД ЧЧ: MM</string>

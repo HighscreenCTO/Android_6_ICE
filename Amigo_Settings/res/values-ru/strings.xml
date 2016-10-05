@@ -917,7 +917,7 @@ If you have any question or doubt with this, please Свяжитесь с нам
     <string name="gn_sim_switch_data_button_ok">Немедленно открыть</string>
     <string name="gn_sim_data_on_toast">Сотовые данные были включены</string>
     <string name="gn_sim_off">Закрыто</string>
-    <string name="gn_sim_default_data">Подключение для передачи данных</string>
+    <string name="gn_sim_default_data">Мобильные данные</string>
     <string name="gn_sim_default_call">Голосовой вызов</string>
     <string name="gn_sim_default_sms">Сообщения</string>
     <string name="gn_sim_default_setting">По умолчанию</string>

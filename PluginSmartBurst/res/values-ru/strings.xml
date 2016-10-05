@@ -11,5 +11,4 @@
     <string name="pro_indication_info_2">Режим "слежение" может собрать серию движений в один кадр.</string>
     <string name="pro_indication_info_3">Групповой снимок подберет вам наиболее выразительные лица.</string>
     <string name="pro_indication_info_4">Режим "размытие" очистит движущиеся объекты и добавит размытия на задний план.</string>
-    <string name="pro_indication_info_5">Режим "пешеход" поможет удалить с фото движущиеся объекты.</string>
 </resources>

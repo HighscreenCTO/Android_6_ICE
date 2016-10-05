@@ -750,8 +750,8 @@
     <string name="da_soundbox">Sound Box</string>
     <string name="da_bluetoothspeaker">Bluetooth Box</string>
     <string name="da_custom">Пользовательский</string>
-    <string name="device_adapter">адаптер устройства</string>
-    <string name="eq">объемные эффекты</string>
+    <string name="device_adapter">Адаптер устройства</string>
+    <string name="eq">Объемные эффекты</string>
     <string name="sound_modes">Звуковые режимы</string>
     <string name="eq_equalizer">EQ эквалайзер</string>
     <string name="sound_enhancerr">Звуковой Усилитель</string>

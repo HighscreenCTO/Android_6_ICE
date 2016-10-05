@@ -9,8 +9,8 @@
     <string name="unsupport_edit">Редактирование недоступно</string>
     <string name="main_title">Серийная съемка</string>
     <string name="plg_bestshot">Лучший снимок</string>
-    <string name="plg_sqeuence">Серия</string>
-    <string name="plg_picbest">Лучший кадр</string>
+    <string name="plg_sqeuence">Слежение</string>
+    <string name="plg_picbest">Лица</string>
     <string name="plg_picmotion">Размытие</string>
     <string name="save_as">Сохранить как</string>
     <string name="title_back">Назад</string>

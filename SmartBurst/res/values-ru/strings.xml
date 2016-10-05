@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartBurst</string>
+    <string name="action_settings">Settings</string>
+    <string name="picbest_noface">Face identified failure.</string>
+    <string name="picclear_noobject">Moving object identified failure.</string>
+    <string name="picmotion_motionblur">Bokeh degree</string>
+    <string name="invalid_file">Invalid file</string>
+    <string name="unsupport_edit">Unable edit</string>
+    <string name="main_title">Take anytime</string>
+    <string name="plg_bestshot">Best shot</string>
+    <string name="plg_sqeuence">Tracks</string>
+    <string name="plg_picbest">Best face</string>
+    <string name="plg_picmotion">Motion blur</string>
+    <string name="save_as">Save completed.</string>
+    <string name="title_back">Return</string>
+    <string name="dur_capture">Shooting now, please keep the camera steady.</string>
+    <string name="processing">Processing</string>
+</resources>

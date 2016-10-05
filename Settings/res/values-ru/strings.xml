@@ -10,11 +10,11 @@
     <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
     <string name="wifi_not_in_range">Недоступна</string>
     <string name="wifi_no_internet">Подключение к Интернету отсутствует и не будет восстановлено автоматически.</string>
-    <string name="saved_network">Кто сохранил: %1$s</string>
+    <string name="saved_network">Сохранено: %1$s</string>
     <string name="connected_via_wfa">Установлено подключение через Ассистента Wi-Fi</string>
     <string name="connected_via_passpoint">Подключено к %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
-    <string name="wifi_connected_no_internet">Подключено, без Интернета</string>
+    <string name="wifi_connected_no_internet">Подключено, без интернета</string>
     <string name="bluetooth_disconnected">Отключено</string>
     <string name="bluetooth_disconnecting">Отключение...</string>
     <string name="bluetooth_connecting">Подключение...</string>
@@ -46,8 +46,8 @@
     <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа к Интернету</string>
     <string name="bluetooth_map_profile_summary_use_for">Использовать для доступа к сообщениям</string>
     <string name="bluetooth_sap_profile_summary_use_for">Использовать для доступа к SIM-карте</string>
-    <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудио-устройства</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудио-устройства телефона</string>
     <string name="bluetooth_opp_profile_summary_use_for">Используется для передачи файлов</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
     <string name="bluetooth_pairing_accept">Подключить</string>
@@ -105,7 +105,7 @@
     <string name="wifi_ap_connected_title">Подключенные пользователи</string>
     <string name="wifi_ap_blocked_title">Заблокированные пользователи</string>
     <string name="wifi_ap_client_block_title">Заблокировать</string>
-    <string name="wifi_ap_client_unblock_title">Деблокировать</string>
+    <string name="wifi_ap_client_unblock_title">Разблокировать</string>
     <string name="wifi_ap_client_details_title">Описание</string>
     <string name="wifi_ap_client_mac_label">MAC-адрес:</string>
     <string name="wifi_ap_client_ip_label">IP-адрес:</string>
@@ -123,7 +123,7 @@
     <string name="wfd_sink_summary">Используется другими</string>
     <string name="wfd_device_category">СПИСОК УСТРОЙСТВ</string>
     <string name="wfd_sink_toast_enjoy">Оцените возможность просмотра экрана другого устройства</string>
-    <string name="wfd_sink_toast_disconnect">Экран-донор отключен</string>
+    <string name="wfd_sink_toast_disconnect">Внешний дисплей отключен</string>
     <string name="wfd_sink_disconnecting">Отключение…</string>
     <string name="wfd_sink_guide_btn">Получите</string>
     <string name="wfd_sink_guide_title">Как выйти из режима?</string>
@@ -187,7 +187,7 @@
     <string name="audio_profile_bes_surround_summary">Объемный звук</string>
     <string name="audio_profile_bes_surround_mode_movie">Режим фильма</string>
     <string name="audio_profile_bes_surround_mode_music">Режим музыки</string>
-    <string name="sms_vibrate_summary">vibrar dispositivos para sms</string>
+    <string name="sms_vibrate_summary">вибро-подтверждение sms</string>
     <string name="zen_mode_option_title_novoice">Уведомления</string>
     <string name="nfc_p2p_mode">Режим P2P</string>
     <string name="nfc_p2p_mode_summary">Отправка или получение уонтента приложения</string>
@@ -207,19 +207,19 @@
     <string name="card_emulation_two_sim_not_supported_message">Карты SIM1, SIM2 не поддерживают функцию эмуляции карты в режиме NFC.</string>
     <string name="nfc_hce_pay_summary">Использование устройства с функцией оплаты в одно касание в качестве Google Кошелька, кредитной карты и т.п.</string>
     <string name="beam_mgmt_tab_download_title">Принятые вызовы</string>
-    <string name="beam_mgmt_tab_upload_title">"3. Перейдите на вкладку совместного использования и выберите 'Разрешить другим пользователям сети подключаться с помощью Интернет--подключения данного компьютера'(выберите недавно добавленную сеть, которая работает с помощью устройства USB, если отображается сообщение 'Подключение к домашней сети')."</string>
-    <string name="beam_share_mgmt_notification_ticker">История Луч доля</string>
-    <string name="beam_share_mgmt_notification_title">История Луч доля</string>
-    <string name="beam_share_mgmt_notification_message">Выберите, чтобы просмотреть историю Луч акцию.</string>
+    <string name="beam_mgmt_tab_upload_title">"3. Перейдите на вкладку совместного использования и выберите 'Разрешить другим пользователям сети подключаться с помощью Интернет-подключения данного компьютера'(выберите недавно добавленную сеть, которая работает с помощью устройства USB, если отображается сообщение 'Подключение к домашней сети')."</string>
+    <string name="beam_share_mgmt_notification_ticker">История</string>
+    <string name="beam_share_mgmt_notification_title">История</string>
+    <string name="beam_share_mgmt_notification_message">Выберите, чтобы просмотреть историю.</string>
     <string name="beam_share_mgmt_tab_menu_clear">Удалить все настройки веб-сайтов?</string>
     <string name="beam_share_open_file_dialog_title">Невозможно открыть файл.</string>
     <string name="beam_share_open_file_unsupported_message">Невозможно открыть файл.</string>
     <string name="beam_share_open_file_not_found_message">Файл не найден: %1$s</string>
-    <string name="beam_share_transfer_fail_dialog_title">Луч не удалось</string>
+    <string name="beam_share_transfer_fail_dialog_title">Не удалось завершить операцию</string>
     <string name="beam_share_resend_dialog_message">%1$s не отправлен.</string>
     <string name="beam_share_resend_dialog_ok_button">Повторите попытку</string>
     <string name="beam_share_show_received_files_menu">Полученные файлы</string>
-    <string name="beam_share_history_title">История Луч доля</string>
+    <string name="beam_share_history_title">История</string>
     <string name="beam_share_clear_confirm_dialog_title">Удалить все</string>
     <string name="beam_share_clear_confirm_dialog_message">Очистить историю?</string>
     <string name="beam_share_receive_fail_dialog_message">%1$s не был получен успешно.</string>
@@ -274,9 +274,9 @@
     <string name="usb_use_built_in_cd_rom">Встроенный CD-ROM</string>
     <string name="usb_bicr_summary">Показать виртуальный привод CD-ROM с полезным программным обеспечением.</string>
     <string name="usb_use_mass_storage">USB-накопитель</string>
-    <string name="usb_ums_summary">Рекомендуется ОС XP. Позволяет передавать файлы между компьютером и USB-накопителем Android.</string>
+    <string name="usb_ums_summary">Позволяет передавать файлы между компьютером и USB-накопителем Android.</string>
     <string name="launch_error">Невозможно запустить данное приложение!</string>
-    <string name="security_not_set">Безопасность не установлена</string>
+    <string name="security_not_set">Безопасность не настроена</string>
     <string name="voice_ui_title">Голосовое управление</string>
     <string name="unlock_set_unlock_mode_voice_weak">Голос включен</string>
     <string name="voice_unlock_backup_info_summary">Что следует делать, если функция включения голоса не распознает ваш голос?</string>
@@ -348,7 +348,7 @@
     <string name="sdcard_unmount">Извлечь SD-карту</string>
     <string name="sdcard_format">Очистить SD-карту</string>
     <string name="small_font">Маленький</string>
-    <string name="medium_font">Среднее</string>
+    <string name="medium_font">Средний</string>
     <string name="large_font">Большой</string>
     <string name="font_size_save">ОК</string>
     <string name="sdcard_setting">SD-карта</string>
@@ -367,7 +367,7 @@
     <string name="bluetooth_only_visible_to_paired_devices">Доступно только для подключенных устройств</string>
     <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
     <string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
-    <string name="bluetooth_lock_voice_dialing_summary">Предотвратить использование телефона Bluetooth, когда экран заблокирован</string>
+    <string name="bluetooth_lock_voice_dialing_summary">Не использовать набор номера через Bluetooth, когда экран заблокирован</string>
     <string name="bluetooth_devices">Устройства Bluetooth</string>
     <string name="bluetooth_device_name">Имя устройства</string>
     <string name="bluetooth_device_details">Настройки устройства</string>
@@ -411,11 +411,11 @@
     <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\".</string>
     <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Запрос на доступ к списку контактов</string>
-    <string name="bluetooth_pb_acceptance_dialog_text">Устройство \"%1$s\" пытается получить доступ к вашим контактам и журналу звонков. Разрешить доступ для %2$s?</string>
+    <string name="bluetooth_pb_acceptance_dialog_text">Устройство \"%1$s\" запрашивает доступ к вашим контактам и журналу звонков. Разрешить доступ для %2$s?</string>
     <string name="bluetooth_remember_choice">Больше не спрашивать</string>
     <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
     <string name="bluetooth_map_request">Запрос на доступ к сообщениям</string>
-    <string name="bluetooth_map_acceptance_dialog_text">%1$s хочет получить доступ к вашим сообщениям. Предоставить доступ %2$s?</string>
+    <string name="bluetooth_map_acceptance_dialog_text">%1$s запрашивает доступ к вашим сообщениям. Предоставить доступ %2$s?</string>
     <string name="bluetooth_sap_request">Запрос на доступ к SIM-карте</string>
     <string name="bluetooth_sap_acceptance_dialog_text">Устройство \"%1$s\" запрашивает доступ к вашей SIM-карте. Если вы его предоставите, будет установлено соединение, на время которого будут отключены все сервисы передачи данных. Открыть доступ устройству \"%2$s?\"</string>
     <string name="date_and_time">Дата и время</string>
@@ -423,9 +423,9 @@
     <string name="display_preview_label">Предпросмотр:</string>
     <string name="display_font_size_label">Размер шрифта:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
-    <string name="intent_sender_action_label">Action:</string>
-    <string name="intent_sender_startactivity_text">Начать activity</string>
-    <string name="intent_sender_resource_label">Resource:</string>
+    <string name="intent_sender_action_label">Процесс:</string>
+    <string name="intent_sender_startactivity_text">Инициализация</string>
+    <string name="intent_sender_resource_label">Ресурс:</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
     <string name="proxy_settings_title">Прокси-сервер</string>
     <string name="proxy_clear_text">Очистить</string>
@@ -460,13 +460,13 @@
     <string name="radio_info_data_successes_label">Количество успешных обработок данных:</string>
     <string name="radio_info_ppp_received_label">Получено PPP:</string>
     <string name="radio_info_gsm_service_label">Служба GSM:</string>
-    <string name="radio_info_signal_strength_label">Громкость сигнала</string>
+    <string name="radio_info_signal_strength_label">Уровень сигнала</string>
     <string name="radio_info_call_status_label">Состояние вызова:</string>
     <string name="radio_info_ppp_sent_label">Отправлено PPP:</string>
     <string name="radio_info_radio_resets_label">Сброс настроек радио:</string>
     <string name="radio_info_message_waiting_label">Параллельное сообщение:</string>
     <string name="radio_info_phone_number_label">Номер телефона:</string>
-    <string name="radio_info_band_mode_label">Выбрать радиостанцию</string>
+    <string name="radio_info_band_mode_label">Выбрать диапазон</string>
     <string name="radio_info_network_type_label">Тип сети:</string>
     <string name="radio_info_set_perferred_label">Настроить предпочтительный тип сети:</string>
     <string name="radio_info_ping_ipaddr">Выполнить проверку ping IP-адреса:</string>
@@ -563,7 +563,7 @@
     <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
     <string name="owner_info_settings_summary">Нет текста</string>
     <string name="owner_info_settings_status">%1$d из %2$d</string>
-    <string name="owner_info_settings_edit_text_hint">Например, Android Саши</string>
+    <string name="owner_info_settings_edit_text_hint">Например, Мой Android</string>
     <string name="user_info_settings_title">Сведения о пользователе</string>
     <string name="show_profile_info_on_lockscreen_label">Показывать информацию профиля на заблокированном экране</string>
     <string name="profile_info_settings_title">Информация о профиле</string>
@@ -576,13 +576,13 @@
     <string name="security_passwords_title">Пароли</string>
     <string name="security_settings_fingerprint_preference_title">Отпечатки пальцев</string>
     <string name="fingerprint_manage_category_title">Управление отпечатками</string>
-    <string name="fingerprint_usage_category_title">Для чего использовать</string>
+    <string name="fingerprint_usage_category_title">Как использовать</string>
     <string name="fingerprint_add_title">Добавить отпечаток пальца</string>
     <string name="fingerprint_enable_keyguard_toggle_title">блокировка экрана</string>
     <string name="security_settings_fingerprint_enroll_onboard_title">Добавление отпечатка</string>
     <string name="security_settings_fingerprint_enroll_onboard_message">Чтобы использовать сканер для разблокировки экрана и подтверждения покупок:</string>
     <string name="security_settings_fingerprint_enroll_onboard_message_1">Настройте дополнительный способ блокировки экрана</string>
-    <string name="security_settings_fingerprint_enroll_onboard_message_2">сохраните отпечаток своего пальца.</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message_2">Сохраните отпечаток своего пальца.</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">Сканер отпечатков пальцев</string>
     <string name="security_settings_fingerprint_enroll_introduction_message">Чтобы разблокировать телефон, подтвердить покупку или войти в приложение, достаточно приложить палец к сканеру. Сохраните на устройстве отпечатки пальцев тех, кому доверяете, и они тоже смогут это делать.</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_warning">Обратите внимание: распознавание отпечатков пальцев дает менее надежную защиту, чем графический ключ или PIN-код.</string>
@@ -590,7 +590,7 @@
     <string name="security_settings_fingerprint_enroll_introduction_cancel">Отмена</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Продолжить</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Найдите сканер</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message">Найдите сканер отпечатков пальцев на задней поверхности телефона.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Найдите сканер отпечатков пальцев на телефоне.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">На этом рисунке показано, где находится сканер</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Название</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">ОК</string>
@@ -603,12 +603,12 @@
     <string name="security_settings_fingerprint_enroll_finish_message">Этот значок сообщает, что вы можете подтверждать покупки и проходить индентификацию с помощью отпечатка пальца.</string>
     <string name="security_settings_fingerprint_enroll_setup_screen_lock">Настроить блокировку экрана</string>
     <string name="security_settings_fingerprint_enroll_done">Готово</string>
-    <string name="security_settings_fingerprint_enroll_touch_dialog_title">Мимо! Это не сканер отпечатков пальцев...</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_title">Упс! Это не сканер отпечатков пальцев...</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Он точно есть на устройстве. Найдите его!</string>
     <string name="fingerprint_enroll_button_add">Добавить</string>
     <string name="fingerprint_enroll_button_next">Далее</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">Добавьте отпечаток пальца, чтобы только вы смогли разблокировать телефон, совершать покупки и открывать приложения. <annotation id="url">Подробнее…</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Блокировка экрана отключена. Добавьте отпечаток пальца, чтобы только вы смогли совершать покупки и открывать приложения. <annotation id="url">Подробнее…</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">Добавьте отпечаток пальца, чтобы только Вы смогли разблокировать телефон, совершать покупки и открывать приложения. <annotation id="url">Подробнее…</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Блокировка экрана отключена. Добавьте отпечаток пальца, чтобы только Вы смогли совершать покупки и открывать приложения. <annotation id="url">Подробнее…</annotation></string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Поднимите палец и снова приложите его к сканеру</string>
     <string name="fingerprint_add_max">Максимальное количество отпечатков пальца, которые можно добавить: %d</string>
     <string name="confirm_fingerprint_icon_content_description">Чтобы продолжить, используйте цифровой отпечаток</string>

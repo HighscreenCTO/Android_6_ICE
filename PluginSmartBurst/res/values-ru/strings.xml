@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartBurstModule</string>
+    <string name="app_description">This is Take anytime</string>
+    <string name="app_label">Take anytime</string>
+    <string name="module_hold_camera">Keep the lens steady during the photo.</string>
+    <string name="module_shot_notice">Don’t move while shooting.</string>
+    <string name="pro_indication_close">Close</string>
+    <string name="pro_indication">"Don't display again"</string>
+    <string name="pro_indication_info_1">The best shooting mode can recommend the best photo.</string>
+    <string name="pro_indication_info_2">The track shooting mode can record the object movement trail and then merge into one picture.</string>
+    <string name="pro_indication_info_3">The group shooting mode can recommend the best facial expression.</string>
+    <string name="pro_indication_info_4">The motion blur shooting mode can clear the moving object and blur the background.</string>
+    <string name="pro_indication_info_5">The pedestrian removal shooting mode can remove the moving objects from the photos.</string>
+</resources>

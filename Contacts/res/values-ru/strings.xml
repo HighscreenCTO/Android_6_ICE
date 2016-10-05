@@ -253,7 +253,6 @@
     <string name="gn_contact_delete_all_tips">В фоновом режиме уже происходит удаление контактов. Завершите процесс, чтобы запустить новый.</string>
     <string name="gn_confirm_export_title">Экспорт</string>
     <string name="gn_confirm_export_message">Экспортировать контакты в файл %s ?</string>
-    <string name="gn_customer_service">Техническая поддержка GIONEE</string>
     <string name="gn_gallery_title">Галерея</string>
     <string name="gn_pick_photo_from_other_app">Выбрать фото из другого приложения</string>
     <string name="gn_gallery_photo_view_title">Фото абонента</string>

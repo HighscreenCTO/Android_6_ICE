@@ -987,7 +987,7 @@
     <string name="vpn_lockdown_config">Нажмите, чтобы изменить настройки</string>
     <string name="upload_file">Выбрать файл</string>
     <string name="no_file_chosen">Не выбран файл</string>
-    <string name="reset">Сбросить</string>
+    <string name="reset">Сброс</string>
     <string name="submit">Отправить</string>
     <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
     <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь.</string>

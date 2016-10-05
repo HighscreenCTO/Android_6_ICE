@@ -105,7 +105,7 @@
     <string name="isnull">Неизвестно</string>
     <string name="close">Выкл</string>
     <string name="buildtime">Время создания</string>
-    <string name="gn_gbw_internal_v">Версия GN</string>
+    <string name="gn_gbw_internal_v">Версия ..</string>
     <string name="gn_ft_bt_result_success">Пропустить шаг</string>
     <string name="gn_ft_bt_result_fail">Ошибка</string>
     <string name="gn_ft_bt_result_no">Нет</string>
@@ -124,12 +124,12 @@
     <string name="gn_dialer_suggest_show">Поиск контактов по имени или номеру в журнале вызовов и тел.книге. Чтобы найти контакт под именем Иван, наберите 4225.</string>
     <string name="gn_dialer_suggest_show1">"1. Введите часть номера для поиска контакта
 "</string>
-    <string name="gn_dialer_suggest_show2">"1. Напр. Введите ^6666$ для поиска 400 779 6666
+    <string name="gn_dialer_suggest_show2">"1. Напр. Введите ^6666$ для поиска 800 700 4234
 
 "</string>
     <string name="gn_dialer_suggest_show3">"2. Введите первую букву имени контакта
 "</string>
-    <string name="gn_dialer_suggest_show4">"2. Напр. Введите ^72$, чтобы найти контакт Федор Гаврилов
+    <string name="gn_dialer_suggest_show4">"2. Напр. Введите ^72$, чтобы найти контакт Петр Иванов
 
 "</string>
     <string name="gn_dialer_suggest_show5">3. Нажмите и удерживайте кнопку DIAL для голосового типа</string>
@@ -531,7 +531,7 @@
     <string name="gn_confirm">Да</string>
     <string name="gn_select_sim_to_dial">Выберите SIM-карту для набора</string>
     <string name="need_permissions_tip">Доступ запрещен. Пожалуйста, откройте необходимые разрешения</string>
-    <string name="internal_contant_name_qm">Полиция, пожарная охрана, скорая помощь, отдел по борьбе с терроризмом, ГАИ, Эдхи, поддержка QMobile</string>
+    <string name="internal_contant_name_qm">Полиция, пожарная охрана, скорая помощь.</string>
     <string name="content_description_one">один</string>
     <string name="content_description_two">два</string>
     <string name="content_description_three">три</string>
@@ -553,9 +553,9 @@
     <string name="youju_event_cardlist">список вызовов</string>
     <string name="youju_event_details">Детали</string>
     <string name="youju_event_dial">Набор</string>
-    <string name="gn_youju_calllog_addblock">Long press to add blacklist по журналу вызовов</string>
-    <string name="gn_youju_contact_addblock">Long press to add blacklist по сведениям о контактахs</string>
-    <string name="gn_youju_quickcontact_addblock">Long press to add blacklist по контактам быстрого набора</string>
+    <string name="gn_youju_calllog_addblock">Удерживать для внесение в черный список из журнала вызовов</string>
+    <string name="gn_youju_contact_addblock">Удерживать для внесение в черный список из сведений о контактах</string>
+    <string name="gn_youju_quickcontact_addblock">Удерживать для внесение в черный список из быстрого набора</string>
     <string name="email_too_long">Слишком длинное имя ящика эл. почты</string>
     <string name="gn_youju_calllog_deleteblock">Удалить черный список по журналу вызовов</string>
     <string name="gn_youju_contact_deleteblock">Удалить черный список по сведениям о контактах</string>
@@ -612,7 +612,7 @@
     <string name="gn_youju_event_into_private_space_from_private_contacts">В личное пространство из личных контактов</string>
     <string name="gn_youju_label_encrypt">Зашифровать</string>
     <string name="gn_youju_label_decrypt">Расшифровать</string>
-    <string name="gn_youju_label_detele">Удалять</string>
+    <string name="gn_youju_label_detele">Удалить</string>
     <string name="launcherDialer">Телефон</string>
     <string name="people">Контакты</string>
     <string name="contactsList">Контакты</string>

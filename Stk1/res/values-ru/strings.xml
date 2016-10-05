@@ -57,7 +57,7 @@
     <string name="lable_declare_service">Объявить службу</string>
     <string name="lable_set_frame">Установить кадр</string>
     <string name="lable_get_frame_status">Состояние кадра</string>
-    <string name="lable_retrieve_multimedia_message">Извлечь мультимедийное сообщение</string>
+    <string name="lable_retrieve_multimedia_message">Вернуть мультимедийное сообщение</string>
     <string name="lable_submit_multimedia_message">Передать мультимедийное сообщение</string>
     <string name="lable_display_multimedia_message">Отобразить мультимедийное сообщение</string>
     <string name="lable_activate">Включить</string>

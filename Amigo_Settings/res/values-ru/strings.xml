@@ -3870,7 +3870,7 @@ A Google -это подход к данным синхронизируемыхд
     <string name="zen_access_warning_dialog_title">Вы хотитеразрешить %1$s для доступа Не беспокоить?</string>
     <string name="zen_access_warning_dialog_summary">Приложение сможет включать / выключать Не беспокоить режим и внести изменения в соответствующих настроек.</string>
     <string name="ignore_optimizations_on">Не оптимизировать</string>
-    <string name="ignore_optimizations_off">оптимизировать</string>
+    <string name="ignore_optimizations_off">Оптимизировать</string>
     <string name="ignore_optimizations_on_desc">Может разрядить батарею быстрее</string>
     <string name="ignore_optimizations_off_desc">Рекомендуется для увеличения срока работы батареи</string>
     <string name="app_list_preference_none">Нет</string>

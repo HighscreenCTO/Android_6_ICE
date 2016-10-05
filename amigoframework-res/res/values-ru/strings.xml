@@ -27,7 +27,7 @@
     <string name="amigo_multichoice_cancel_select_all">отменить выбор</string>
     <string name="amigo_multichoice_select_all">выбрать все</string>
     <string name="amigo_noApplications">Нет приложения которое может совершить данное действие</string>
-    <string name="amigo_app_name">AmigoUI</string>
+    <string name="amigo_app_name">Интерфейс UI</string>
     <string name="amigo_back_button_label">Назад</string>
     <string name="amigo_next_button_label">Дальше</string>
     <string name="amigo_skip_button_label">Пропустить</string>

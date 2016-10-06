@@ -5,8 +5,8 @@
         <item quantity="one">Вы почти у цели. (%1$d)Осталось несколько шагов, чтобы включить параметры разработчика.</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">%1$d fingerprints set up</item>
-        <item quantity="one">%1$d fingerprint set up</item>
+        <item quantity="other">зарегистрировано %1$d</item>
+        <item quantity="one">зарегистрирован %1$d</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Пароль должен содержать буквы (не менее %d).</item>
@@ -41,36 +41,36 @@
         <item quantity="one">Приложение с доступом к уведомлениям: %d</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">Изменить на оповещения только на %1$d минут (until %2$s)</item>
+        <item quantity="other">Изменить на оповещения только на %1$d минут (до %2$s)</item>
         <item quantity="one">Изменить на оповещения только на одну минуту до %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Изменить на оповещения только на %1$d часов до %2$s</item>
-        <item quantity="one">Изменить на оповещения только на one hour until %2$s</item>
+        <item quantity="one">Изменить на оповещения только на за час до %2$s</item>
     </plurals>
     <plurals name="permissions_summary">
-        <item quantity="other">%d permissions granted</item>
-        <item quantity="one">%d permission granted</item>
+        <item quantity="other">%d разрешений установлено</item>
+        <item quantity="one">%d разрешение установлено</item>
     </plurals>
     <plurals name="runtime_permissions_summary">
-        <item quantity="other">%1$d of %2$d permissions granted</item>
-        <item quantity="one">%1$d of %2$d permission granted</item>
+        <item quantity="other">%1$d из %2$d разрешений установлено</item>
+        <item quantity="one">%1$d из %2$d разрешение установлено</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d additional permissions</item>
-        <item quantity="one">%d additional permission</item>
+        <item quantity="other">%d доп разрешений</item>
+        <item quantity="one">%d доп разрешение</item>
     </plurals>
     <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d приложения могут открывать поддерживаемые ссылки</item>
-        <item quantity="zero">Нет приложение не может открыть любую поддерживаемую ссылку</item>
-        <item quantity="one">Одно приложение может открыть свои поддерживаемые ссылки</item>
+        <item quantity="other">%d приложений(-я) могут открывать поддерживаемые ссылки</item>
+        <item quantity="zero">Нет приложений которые могут открывать поддерживаемые ссылки</item>
+        <item quantity="one">Одно приложение может открыть поддерживаемые ссылки</item>
     </plurals>
     <plurals name="high_power_count">
-        <item quantity="other">%d приложенияv разрешено игнорировать оптимизацию батареи</item>
-        <item quantity="one">1 приложение разрешено игнорировать оптимизацию батареи</item>
+        <item quantity="other">%d приложениям разрешено игнорировать оптимизацию батареи</item>
+        <item quantity="one">Одному приложение разрешено игнорировать оптимизацию батареи</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d За память использовали приложений %2$s</item>
-        <item quantity="one">1 Приложение использует память за последний %2$s</item>
+        <item quantity="other">%1$d приложений(-я) использовали память за %2$s</item>
+        <item quantity="one">Одно приложение использовало память за %2$s</item>
     </plurals>
 </resources>

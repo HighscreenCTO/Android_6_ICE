@@ -39,7 +39,7 @@
     <string name="amigo_activity_resolver_use_once">Один раз</string>
     <string name="amigo_system_label">Система Android</string>
     <string name="cootek_confirm_title">Подсказки</string>
-    <string name="cootek_ensure">Я знаю</string>
+    <string name="cootek_ensure">ОК</string>
     <string name="cootek_cancel">Отмена</string>
     <string name="cootek_content_description_icon">Пиктограмма</string>
     <string name="cootek_refresh">Обновить</string>

@@ -10,12 +10,12 @@
         <item quantity="one">Выбрано: %1$d</item>
     </plurals>
     <plurals name="delete_system_selection">
-        <item quantity="other">Эти файлы будут удалены непосредственно с мобильного телефона, а не в корзину, удалить выбранное содержимое?</item>
-        <item quantity="one">Файл будет удален непосредственно с мобильного телефона, а не в корзину, удалить выбранное содержимое?</item>
+        <item quantity="other">Эти файлы будут удалены, а не перемещены в корзину, удалить?</item>
+        <item quantity="one">Этот файл будет удален, а не перемещен в корзину, удалить?</item>
     </plurals>
     <plurals name="trash_label_dayleft">
-        <item quantity="other">%1$d days left</item>
-        <item quantity="zero">%1$d day left</item>
-        <item quantity="one">%1$d day left</item>
+        <item quantity="other">осталось %1$d дней</item>
+        <item quantity="zero">осталось %1$d дней</item>
+        <item quantity="one">остался %1$d день</item>
     </plurals>
 </resources>

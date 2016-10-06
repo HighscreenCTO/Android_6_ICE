@@ -10,6 +10,7 @@
         <item>All</item>
     </string-array>
     <string-array name="screen_timeout_entries">
+        <item>Never</item>
         <item>15 seconds</item>
         <item>30 seconds</item>
         <item>1 minute</item>
@@ -19,6 +20,7 @@
         <item>30 minutes</item>
     </string-array>
     <string-array name="screen_timeout_values">
+        <item>0</item>
         <item>15000</item>
         <item>30000</item>
         <item>60000</item>

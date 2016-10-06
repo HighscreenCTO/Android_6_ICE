@@ -10,6 +10,7 @@
         <item>Все</item>
     </string-array>
     <string-array name="screen_timeout_entries">
+        <item>Никогда</item>
         <item>15 сек.</item>
         <item>30 сек.</item>
         <item>1 мин.</item>
@@ -20,8 +21,8 @@
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
-        <item>15 секунд.</item>
-        <item>30 секунд.</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
         <item>1 мин.</item>
         <item>2 мин.</item>
         <item>5 мин.</item>
@@ -30,9 +31,9 @@
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
-        <item>Через 5 секунд.</item>
-        <item>Через 15 секунд.</item>
-        <item>Через 30 секунд.</item>
+        <item>Через 5 сек.</item>
+        <item>Через 15 сек.</item>
+        <item>Через 30 сек.</item>
         <item>Через 1 мин.</item>
         <item>Через 2 мин.</item>
         <item>Через 5 мин.</item>
@@ -50,11 +51,11 @@
         <item>Медленная</item>
         <item>Обычная</item>
         <item>Быстрая</item>
-        <item>Беглая</item>
-        <item>Достаточно быстрая</item>
-        <item>Быстрая</item>
-        <item>Ещё быстрее</item>
+        <item>Еще быстрее</item>
         <item>Очень быстрая</item>
+        <item>Непрерывная</item>
+        <item>Очень непрерывная</item>
+        <item>Самая быстрая</item>
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
@@ -133,7 +134,7 @@
     </string-array>
     <string-array name="wifi_signal">
         <item>Слабый</item>
-        <item>Хороший</item>
+        <item>Средний</item>
         <item>Хороший</item>
         <item>Отличный</item>
     </string-array>
@@ -154,7 +155,7 @@
     </string-array>
     <string-array name="data_usage_data_range">
         <item>За последние 30 дней</item>
-        <item>Цикл использования данных</item>
+        <item>Период использования данных</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Автоматически</item>
@@ -262,7 +263,7 @@
         <item>позвонить</item>
         <item>чтение SMS</item>
         <item>создание SMS</item>
-        <item>Получение SMS</item>
+        <item>получение SMS</item>
         <item>получение экстренных SMS</item>
         <item>получение MMS</item>
         <item>получение сообщений WAP PUSH</item>
@@ -271,7 +272,7 @@
         <item>запись SMS на смарт-карту</item>
         <item>изменение настроек</item>
         <item>отображать поверх других элементов</item>
-        <item>Доступ к уведомлениям</item>
+        <item>доступ к уведомлениям</item>
         <item>камера</item>
         <item>записать аудио</item>
         <item>воспроизвести аудио</item>
@@ -287,15 +288,15 @@
         <item>громкость уведомлений</item>
         <item>громкость Bluetooth-устройств</item>
         <item>не отключать</item>
-        <item>Отслеживать местоположение</item>
+        <item>отслеживать местоположение</item>
         <item>контролировать использование энергии при определении местоположения</item>
         <item>посмотреть статистику использования</item>
         <item>включить/отключить микрофон</item>
         <item>трансляция контента</item>
         <item>активация VPN</item>
-        <item>Запись обоев</item>
+        <item>запись обоев</item>
         <item>вспомогательная структура</item>
-        <item>Вспомогательный скриншот</item>
+        <item>вспомогательный скриншот</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Местоположение</item>
@@ -346,7 +347,7 @@
         <item>Трансляция контента</item>
         <item>Активация VPN</item>
         <item>Запись обоев</item>
-        <item>вспомогательная структура</item>
+        <item>Вспомогательная структура</item>
         <item>Вспомогательный скриншот</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
@@ -718,12 +719,12 @@
         <item>20%</item>
     </string-array>
     <string-array name="gesture_operate_items">
-        <item>Выбор function</item>
+        <item>Выбор функции</item>
         <item>Удалить</item>
     </string-array>
     <string-array name="gn_vibration_effect_name">
         <item>По умолчанию</item>
-        <item>оповещение</item>
+        <item>Оповещение</item>
         <item>Drum Roll</item>
         <item>Electric Charge</item>
         <item>Heartbeat</item>
@@ -734,7 +735,7 @@
     </string-array>
     <string-array name="gn_vibration_effect_name_sample">
         <item>По умолчанию</item>
-        <item>оповещение</item>
+        <item>Оповещение</item>
         <item>Electric Charge</item>
         <item>Heartbeat</item>
         <item>Secret Knock</item>
@@ -751,7 +752,7 @@
         <item>SD -карта (Не рабоает с камерами, и т.д.)</item>
     </string-array>
     <string-array name="custom_vibration_menu_items">
-        <item>переименовывать</item>
+        <item>Переименовать</item>
         <item>Удалить</item>
     </string-array>
     <string-array name="forcetouch_position_summry">
@@ -759,8 +760,8 @@
         <item>Правый край экрана</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
-        <item>предпочитаемый по WLAN</item>
-        <item>Предпочитаемые Сотовые данные</item>
+        <item>WLAN</item>
+        <item>Сотовые данные</item>
     </string-array>
     <string-array name="wifi_calling_mode_values">
         <item>2</item>

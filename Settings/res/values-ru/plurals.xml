@@ -7,7 +7,7 @@
         <item quantity="many">Вы почти у цели. Осталось %1$d шагов.</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">Настроено %1$d отпечатка</item>
+        <item quantity="other">Настроено %1$d отпечатков</item>
         <item quantity="one">Настроен %1$d отпечаток</item>
         <item quantity="few">Настроено %1$d отпечатка</item>
         <item quantity="many">Настроено %1$d отпечатков</item>
